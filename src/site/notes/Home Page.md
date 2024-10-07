@@ -12,6 +12,7 @@ Otherwise, the menu is on the left.
 
 >[!Caution] 
 >Seems like if you try and close a folder in the menu it breaks, not sure why, so just don't do that I guess? If you do, a refresh should work.
+
 >[!note]
 >If you find a link that doesn't lead anywhere do let me know, I probably forgot to tag it for publish, tah.
 
