@@ -6,8 +6,8 @@
 An alchemy shop, or potion shop is a [[Store\|Store]] which sells potions or alchemical ingredients for making potions. 
 
 ##### Shops by Region
-- [[The Island of Q'ba/Island Regions/Drakenholm\|Drakenholm]]
-	- [[The Bread Forge\|The Bread Forge]] - #wipname 
+- [[Drakenholm/Drakenholm\|Drakenholm]]
+	- [[Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]] - #wipname 
 	- [[Upper Quarters\|Upper Quarters]] - #wipname 
 - [[Dimmafall\|Dimmafall]] - #wipname 
 - [[The Island of Q'ba/Island Regions/Astilabor's Peak\|Astilabor's Peak]] - #wipname 

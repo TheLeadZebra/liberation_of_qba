@@ -10,12 +10,12 @@ An inn provides similar experiences to a tavern, with the ability to also stay t
 The taverns and inns famed among the population of [[The Island of Q'ba/Q'ba\|Q'ba]] for having menus which are unique in their offerings per region.
 #### Stores by Region
 
-##### [[The Island of Q'ba/Island Regions/Drakenholm\|Drakenholm]] Districts:
-- [[The Bread Forge\|The Bread Forge]]
+##### [[Drakenholm/Drakenholm\|Drakenholm]] Districts:
+- [[Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]]
 	- [[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] - Tavern and Board house
 - [[Upper Quarters\|Upper Quarters]]
 	- #wipname 
-- [[Old Town\|Old Town]]
+- [[Drakenholm/Districts of Drakenholm/Old Town\|Old Town]]
 	- [[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/Old Town/The Pub\|The Pub]] 
 - [[Ravenstone Bridge\|Ravenstone Bridge]]
 	- #wipname 
