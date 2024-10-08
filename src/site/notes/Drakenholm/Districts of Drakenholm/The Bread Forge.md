@@ -12,9 +12,9 @@ Here can be found many stores for example:
 [[Lumberyard\|Lumberyard]]
 [[Bowyer or Fletcher\|Bowyer or Fletcher]]
 [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
-[[Definitions/Stores/Alchemist or Potion Shop\|Alchemist or Potion Shop]]
+[[Stores/Store Types/Alchemist & Potions Shops/Alchemist or Potion Shop\|Alchemist or Potion Shop]]
 [[Street Traders\|Street Traders]]
-[[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[Definitions/Stores/Tavern or Inn\|Tavern and Boardhouse]]
+[[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[Stores/Store Types/Taverns & Inns/Tavern or Inn\|Tavern and Boardhouse]]
 
 
 #wip 

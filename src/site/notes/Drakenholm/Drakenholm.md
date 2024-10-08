@@ -13,15 +13,15 @@ The city itself is home to [[The Castle\|The Castle]], the home of [[The Crown\|
 Modern Drakenholm is split into 7 main districts, as well as [[The Castle\|The Castle]], and also includes the farming town of [[Ravenstone Bridge\|Ravenstone Bridge]] which sits below it's plateau to the south-west.
 
 #### Districts
-[[Upper Quarters\|Upper Quarters]] - (White Gardens District)
-[[The Castle\|The Castle]]
-[[Drakenholm/Districts of Drakenholm/Beggars Gate\|Beggars Gate]]
-[[Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]]
-[[Drakenholm/Districts of Drakenholm/Old Town\|Old Town]] 
-[[Military District\|Military District]]
-[[Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]]
-[[Drakenholm/Districts of Drakenholm/Dragonhill Mile\|Dragonhill Mile]]
-[[Ravenstone Bridge\|Ravenstone Bridge]]
+- [[Drakenholm/Districts of Drakenholm/Beggars Gate\|Beggars Gate]]
+- [[Drakenholm/Districts of Drakenholm/Dragonhill Mile\|Dragonhill Mile]]
+- [[Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]]
+- [[Drakenholm/Districts of Drakenholm/Military District\|Military District]]
+- [[Drakenholm/Districts of Drakenholm/Old Town\|Old Town]]
+- [[Ravenstone Bridge\|Ravenstone Bridge]]
+- [[Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]]
+- [[The Castle\|The Castle]]
+- [[Drakenholm/Districts of Drakenholm/Upper Quarters\|White Gardens/Upper Quarters]]
 
 
 
