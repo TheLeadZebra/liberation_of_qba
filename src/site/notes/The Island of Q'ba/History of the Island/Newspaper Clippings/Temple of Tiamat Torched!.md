@@ -7,4 +7,4 @@ Yesterday a priest of the Temple of Tiamat walked into town and severed the hand
 
 Onlookers were appalled at the event and as the mechants screams continued, a group of Humans spewed aggression at the priest, who was then defended by nearby Dragonborn claiming that the way of the temple was sacred.
 
-It is unclear if the events are linked, but late last night a fire raged through the Temple of Tiamat. At this time there are no known survivors.
+It is unclear if the events are linked, but late last night a fire raged through the Temple of Tiamat, destroying it almost completely. At this time there are no known survivors.
