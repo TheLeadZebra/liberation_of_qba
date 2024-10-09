@@ -8,7 +8,8 @@ If you feel like it, start here: [[The Island of Q'ba/History of the Island/Know
 
 Otherwise, the menu is on the left.
 
-There are a lot of work in progress articles, but I usually fill out at least one a day so far.
+There are a lot of work in progress articles, but I usually fill out at least one a day so far. 
+***Obligatory statement that everything is fluid until it hits the table***
 
 
 >[!Caution] 

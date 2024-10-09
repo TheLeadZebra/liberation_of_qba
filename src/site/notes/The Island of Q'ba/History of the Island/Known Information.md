@@ -6,7 +6,7 @@
 #### Recent Island History
 The Island of [[The Island of Q'ba/Q'ba\|Q'ba]], settled by [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] many generations ago, they lived in peace. 
 
-The island's geography is of particular note, despite it's size it is home to many [[The Island of Q'ba/Island Regions/Biomes of Q'ba/Biomes\|Biomes]] important to the [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] - [[The Island of Q'ba/Island Regions/Astilabor's Peak\|Icy mountains in the north]], [[Stillwater Mire\|acid marshes spread from the western coastline]], [[The Desert\|a scorching desert which is prone to blinding lightning storms sits the south]], and [[Dimmafall\|densly packed forest in the West]]. 
+The island's geography is of particular note, despite it's size it is home to many biomes important to the [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] - [[The Island of Q'ba/Island Regions/Astilabor's Peak\|Icy mountains in the north]], [[Stillwater Mire\|acid marshes spread from the western coastline]], [[The Desert\|a scorching desert which is prone to blinding lightning storms sits the south]], and [[The Island of Q'ba/Island Regions/Dimmafall\|densly packed forest in the West]]. 
 
 The [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] have set up a dense city off centre of the island, [[Drakenholm/Drakenholm\|Drakenholm]], a well packed city, with buildings rising in height accross the districts, starting low at the entrance and rising, with wealth, towards the main keep, [[The Castle\|The Castle]]. A tall structure with scale-like walls denoting the power of those that sit within it's halls. 
 
