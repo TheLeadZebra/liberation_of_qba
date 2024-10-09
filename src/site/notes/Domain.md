@@ -5,7 +5,7 @@
 
 Each of [[The Island of Q'ba/History of the Island/The Gods of The Island/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]] have divided the 8 standard [[Cleric\|Clerical]] domains between them, each residing over 2. 
 
-More information about the control of domains by each of the [[Definitions/Gods/Deity\|Deities]] can be found within their own article within [[The Island of Q'ba/History of the Island/The Gods of The Island/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]].
+More information about the control of domains by each of the [[Deities/List of Deities\|Deities]] can be found within their own article within [[The Island of Q'ba/History of the Island/The Gods of The Island/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]].
 
 #### Domains by Deity
 - Death - [[The Island of Q'ba/History of the Island/The Gods of The Island/The Four Cardinal Gods/Null\|Null]]
