@@ -10,16 +10,16 @@ Elves commonly had strong, but swiftly passing emotions, being easily moved to l
 
 Elves are relaxed people, with a good degree of patience, and were not as easily excited or greedy as other, shortlived races. Most elves were unconcerned with events that only affected the short-term and were likewise slow to make friends or enemies since time for them was measured in centuries, not decades. Most elves love simple joys such as dancing, singing, footraces or contests of skill, yet they also have a natural aversion to that which they saw as uninteresting.
 
-The elves that live on the island are a Druidic Cirlce of Wild Elves, a subrace of Sylvan Elves known for their nomadic nature, preferring a wild existance which is close to nature.
+The elves that live on the island are a Druidic Circle of Wild Elves, a subrace of Sylvan Elves known for their nomadic nature, preferring a wild existance which is close to nature. They have settled within the forest of [[The Island of Q'ba/Island Regions/Dimmafall\|Dimmafall]].
 
 ##### Traits of Elves
-
+- Slow to trust
+- Long lifespan gives them a different perspective of the world
+- Enjoy simple pleasures
+- Emotionally passionate 
+- Loyal allies
 
 ##### Languages
 - Sylvan 
 - Draconic
 - Common
-
-
-The only elves that live on the island are a group of Wood Elves who form a Druidic Circle in [[The Island of Q'ba/Island Regions/Dimmafall\|Dimmafall]] forest.
-#wip 
