@@ -4,7 +4,7 @@
 
 Welcome to the wikisite for A Crown of Thorn, a D&D campaign.
 
-The idea of this site is not so that you will know everything that is coming up, but so that you may know the sort of things your character may know. Use the information here for building a character background but there's no need to memorise everything, or even anything if that's your preference.
+The idea of this site is not so that you will know everything that is coming up, but so that you may know the sort of things your character may know. Use the information here for building a character background, but there's no need to memorise everything, or even anything if that's your preference.
 
 If you feel like it, start here: [[The Island of Q'ba/History of the Island/Known Information\|Known Information]]. **Note:** May not be updated with most recent information so do ask if you have questions!
 
