@@ -14,7 +14,7 @@ Q'ba is an independant state, complete with it's own ruler - [[The Crown\|The Cr
 - [[The Island of Q'ba/Island Regions/Dimmafall\|The Island of Q'ba/Island Regions/Dimmafall]]
 - [[Settlements/Drakenholm/Drakenholm\|Drakenholm]]
 - [[The Island of Q'ba/Island Regions/Kin's Landing\|Kin's Landing]]
-- [[Stillwater Mire\|Stillwater Mire]]
+- [[The Island of Q'ba/Island Regions/Stillwater Mire\|Stillwater Mire]]
 - [[The Island of Q'ba/Island Regions/The Desert\|The Desert]]
 
 Q'ba is also known by it's population for the large variety of homebrewed or imported alcoholic beverages, with each region having their own, distinct menus, including each district of [[Settlements/Drakenholm/Drakenholm\|Drakenholm]]. Further to this, the whole island comes together to serve the same special option, which changes daily.
