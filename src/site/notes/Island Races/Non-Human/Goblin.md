@@ -22,4 +22,4 @@ In combat, Goblins are adept in making use of any advantages they may have in re
 
 ##### Languages
 - Ghukliak
-- Undercommon
+- Common
