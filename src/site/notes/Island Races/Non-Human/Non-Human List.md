@@ -7,3 +7,4 @@
 - [[Island Races/Non-Human/Dryad\|Dryad]]
 - [[Island Races/Non-Human/Goblin\|Goblin]]
 - [[Island Races/Non-Human/Elf\|Elf]]
+- [[Tiefling\|Tiefling]]
