@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/deities/the-four-cardinal-gods/tamara/"}
 ---
 
-![Tamara Icon.webp](/img/user/Tamara%20Icon.webp)
+![Tamara Icon.webp](/img/user/zAttachments/Tamara%20Icon.webp)
 
 Tamara is one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], and the Goddess of life, mercy and forgiveness. Tamara ruled over the region of [[The Island of Q'ba/Island Regions/Dimmafall\|Dimmafall]], and the domains of Life and Nature.
 

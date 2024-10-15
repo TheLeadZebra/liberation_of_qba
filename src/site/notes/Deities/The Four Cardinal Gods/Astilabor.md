@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/deities/the-four-cardinal-gods/astilabor/"}
 ---
 
-![Astilabor Icon.jpg](/img/user/zAttachments/Astilabor%20Icon.jpg)
+![Astilabor Icon.webp](/img/user/zAttachments/Astilabor%20Icon.webp)
 
 Astilabor, one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], is the Goddess of Acquisitiveness and Wealth. She represents the draconic desire to hoard acquired treasure and wealth, inclusive of knowledge. 
 
