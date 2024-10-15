@@ -10,7 +10,7 @@ During times of civil unrest within the last decade, temples to deities consider
 - [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] - Destroyed
 - [[Deities/The Binary Gods/Bahamut\|Bahamut]]
 - [[Deities/The Four Cardinal Gods/Garyx\|Garyx]] - Destroyed
-- [[Deities/The Four Cardinal Gods/Null\|Null]] - Destroyed
+- [[Deities/The Four Cardinal Gods/Null\|Null]] - Sealed
 - [[Deities/The Four Cardinal Gods/Tamara\|Tamara]]
 - [[Deities/The Binary Gods/Tiamat\|Tiamat]] - Destroyed
 - [[Deities/Human Gods/Ilmatar\|Ilmatar]] - Under Repair
