@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/deities/the-four-cardinal-gods/astilabor/"}
 ---
 
-![Astilabor Icon.jpg](/img/user/zAttachments/Astilabor%20Icon.jpg)Astilabor, one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], is the Goddess of Acquisitiveness and Wealth. She represents the draconic desire to hoard acquired treasure and wealth, inclusive of knowledge. 
+![Astilabor Icon.jpg](/img/user/zAttachments/Astilabor%20Icon.jpg)
+
+Astilabor, one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], is the Goddess of Acquisitiveness and Wealth. She represents the draconic desire to hoard acquired treasure and wealth, inclusive of knowledge. 
 
 (In this campaign) Astilabor manifests herself as a topaz dragon, shimmering with a purple iridescence, and an underbelly of gold.
 
