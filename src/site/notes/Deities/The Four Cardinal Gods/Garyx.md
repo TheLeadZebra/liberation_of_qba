@@ -3,6 +3,8 @@
 ---
 
 ![Garyx Icon.webp](/img/user/zAttachments/Garyx%20Icon.webp)
+**Symbol** - A draconic eye, imposed over a red flame.
+
 Garyx, the chaotic God of Fire, Destruction and Renewal is one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]]. He is the patron of [[The Island of Q'ba/Island Regions/The Desert\|The Desert]] and is responsible for the domains of Tempest and Light. A symbol of sheer power and destructive force, specifically of [[Island Races/Dragonborn/Dragonborn\|Dragonkind]], as well as the cleansing power of fire and flame, as well as lightning. Garyx manifests himself as a huge dragon of bold red, and bronze. 
 
 Respected by both worshippers of destruction and of cleansing, often his followers believe that his fire can sterilise the world from evil, however Garyx often pays little attention to the wants of his followers, yet his Clerics do not worry about this. They believed that he grants them the power to perform acts of destruction, which was enough for them. 

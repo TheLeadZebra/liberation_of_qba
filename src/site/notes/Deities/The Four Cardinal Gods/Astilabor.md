@@ -4,6 +4,8 @@
 
 ![Astilabor Icon.webp](/img/user/zAttachments/Astilabor%20Icon.webp)
 
+**Symbol** - A twelve-faceted Gem - seen upon a sheild above.
+
 Astilabor, one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], is the Goddess of Acquisitiveness and Wealth. She represents the draconic desire to hoard acquired treasure and wealth, inclusive of knowledge. 
 
 (In this campaign) Astilabor manifests herself as a topaz dragon, shimmering with a purple iridescence, and an underbelly of gold.
