@@ -32,7 +32,7 @@
 - ***This year*** 
 	- Talk of rebellion is muttered under hushed breathes in back alleys, the thought alone considered treason. Hooded people gathering in back alleys can only be considered a rumour. The news has not reported an attack on patrolling guards for months.
 	- The power of the Four Cardinal Gods wavers and the desert storm has weakened. It rages with ferocity still, but only once a week. A far sight from the nightly event it once was.
-	- Conversion of the acid marshes by humans started, the aim is to terraform the area for eventual conversion to allow much increased farming potential.
+	- Conversion of the acid marshes has been started by a group of humans, the aim is to terraform the area for eventual conversion to allow much increased farming potential.
 	- The Dwarves and Goblins, known wide for their harvesting of riches in the mountains have not been seen in some time, leading to rumours that they have found some way of leaving the island.
 	- The port continues to bustle with the trade of many nations, with cargo passing through on its way to a final destination the island has long been a great rest point for entertainment and stocking up on supplies.
 	- The Crowns daughter, Princess Frances Roberts has not been seen in many months. Previously known for her friendship with fellow islanders, especially those who she went to school with, many of whom were noble born dragonborn from houses now fallen.
