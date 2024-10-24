@@ -13,7 +13,7 @@ The Dragontooth Saw - Lumberyard
 Wyvern's Flight - [[Bowyer or Fletcher\|Bowyer or Fletcher]]
 The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
 The Cog and Crucible - [[Stores/Store Types/Alchemist & Potions Shops/Alchemist or Potion Shop\|Alchemist]]
-[[Street Traders\|Street Traders]]
+[[Stores/Store Types/Street Traders\|Street Traders]]
 [[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[Stores/Store Types/Taverns & Inns/Tavern or Inn\|Tavern and Boardhouse]]
 
 

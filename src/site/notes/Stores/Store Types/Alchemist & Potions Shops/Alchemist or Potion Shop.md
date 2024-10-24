@@ -3,7 +3,7 @@
 ---
 
 
-An alchemy shop, or potion shop is a [[Store\|Store]] which sells potions or alchemical ingredients for making potions. 
+An alchemy shop, or potion shop is a store which sells potions or alchemical ingredients for making potions. 
 
 ##### Shops by Region
 - [[Settlements/Drakenholm/Drakenholm\|Drakenholm]]
