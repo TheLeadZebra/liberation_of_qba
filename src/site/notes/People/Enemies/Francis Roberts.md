@@ -12,3 +12,4 @@ The first insance was a raising of taxes for all [[Island Races/Non-Human/Non-Hu
 
 Francis has proven himself indifferent to the suffering of [[Island Races/Non-Human/Non-Human List\|non-humans]] and has done nothing to reduce aggression toward them from [[Island Races/Human/Human\|humans]], even going as far as to encourage the damage or destruction of temples to [[The Island of Q'ba/History of the Island/Q'ba's Draconic Pantheon\|Draconic deities]] deemed 'evil' or 'sinful'.
 
+In the last 10 years his nickname 'The Foreign' has been distorted into an insult, and [[NOT FOR PLAYERS/NOT FOR PLAYERS/0.2. Tidbits/The Ballad of Frank the Thorn\|The Ballad of Frank the Thorn]] as a now infamous bards tale, now very much banned from performance across the island.
