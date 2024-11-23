@@ -6,7 +6,7 @@
 
 **Symbol** - A seven-pointed star on a field of black.
 
-Tamara is one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], and the Goddess of life, mercy and forgiveness. Tamara ruled over the region of [[The Island of Q'ba/Island Regions/Dimmafall\|Dimmafall]], and the domains of Life and Nature.
+Tamara is one of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], and the Goddess of life, mercy and forgiveness. Tamara ruled over the region of [[The Island of Qba/Island Regions/Dimmafall\|Dimmafall]], and the domains of Life and Nature.
 
 Tamara manifests herself as a wingless Green dragon with burnished edge scales. She radiates a comforting aura. Though the kindest and most benevolent of the draconic deities, it is not a trait which should be mistaken for weakness, those that do often regret making the error. 
 
