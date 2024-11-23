@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/settlements/drakenholm/districts-of-drakenholm/the-bread-forge/"}
 ---
 
-
 The Bread Forge is the industrial district of [[The Island of Qba/Q'ba\|Q'ba]]. Smoke constantly billows from the chimneys on near every building in sight. The layout of the buildings here is very symmetrical and neat, with many buildings looking identical on the outside save for their signage. As this is one of the rebuilt districts it is well organised and certainly built for purpose.
 
 ##### Stores:
