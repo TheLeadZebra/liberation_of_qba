@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/home-page/","tags":["gardenEntry"]}
 ---
 
-# The Crown of Thorn
+# Home Page
 
 Welcome to the Wikisite for The Crown of Thorn, a D&D campaign.
 

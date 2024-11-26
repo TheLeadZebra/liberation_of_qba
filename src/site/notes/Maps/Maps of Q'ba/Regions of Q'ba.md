@@ -6,7 +6,7 @@
 ```leaflet
 'if map is not visible, switch to reading mode
 id: Regions opf Q'ba
-image: ![Regions of The Island of Q'Ba.png](/img/user/zAttachments/Regions%20of%20The%20Island%20of%20Q'Ba.png)
+image: ![Regions of The Island of Q'Ba.png](/img/user/zAttachments/Regions%20of%20the%20Island%20of%20Q'ba.png)
 height: 1100px
 width: 2000px
 lat: 50
