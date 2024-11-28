@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-island-of-qba/history-of-the-island/timeline/"}
 ---
 
-
 - 300 Years ago, [[The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/Succession of The Crown\|Succession of The Crown]] led to a minor war within the city. One who considered themselves the 'heir' was not pleased when they were passed over, and [[The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] handed to someone else. At this time a large portion [[Settlements/Drakenholm/Drakenholm\|Drakenholm]] was damaged, some of which was beyond saving by repairs alone. The areas of the city that were untouched are known, today, as The [[Settlements/Drakenholm/Districts of Drakenholm/Old Town\|Old Town]].
 - From the ending of this war, the presence of [[Deities/The Binary Gods/Tiamat\|Tiamat]] and [[Deities/The Binary Gods/Bahamut\|Bahamut]] was made known to the island.
 - In Q'ba, [[ The Four Cardinal Gods\| The Four Cardinal Gods]] are worshiped by the [[Island Races/Dragonborn/Dragonborn\|Dragonborn]]:
