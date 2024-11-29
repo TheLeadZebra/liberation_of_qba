@@ -9,7 +9,7 @@
 ***[[The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/The Three\|The Three]]:*** 
 **The Overseer of Religious Ceremony** - High Priest Thrumundi the Thunderbound, a Blue Dragon
 **The Island Treasurer** - Gullklan Safnara, a Green Dragon
-**Envoy to the Common Folk** - Thruumb Hugsi (Hoogsi), a White Dragon
+**Envoy to the Common Folk** - Thruumb Hugsi, a White Dragon
 The Three are chosen personally by [[The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], there are no defined roles that [[The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/The Three\|The Three]] must be made up of, and should a role no longer be required it may be changed whenever suitable, at [[The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]]'s behest. Historically only [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] have served on the council of [[The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/The Three\|The Three]], though this is due to the far greater number of [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] living on the island. This has never been a point of contention for the [[Island Races/Non-Human/Non-Human List\|minor races]] living on [[The Island of Qba/Q'ba\|Q'ba]], who have always considered themselves well treated by the [[Island Races/Dragonborn/Dragonborn\|Dragonfolk]] and without passion for politics
 
 ***Secretary to Humanity*** - [[People/Enemies/Francis Roberts\|Francis "The Foreign" Roberts]], A Human

@@ -9,6 +9,6 @@
 [[Deities/The Four Cardinal Gods/Garyx\|Garyx]] - God of Fire, Destruction and Renewal - Southern Desert - Chaotic Evil -Fire/Lightning - Light, Tempest
 [[Deities/The Four Cardinal Gods/Tamara\|Tamara]] - The Goddess of mercy and healing - Western Forest -   Lawful Good - Poison - Life, Nature
 
-[[The Binary Gods\|The Binary Gods]]
+[[Deities/The Binary Gods/The Binary Gods\|The Binary Gods]]
 [[Deities/The Binary Gods/Bahamut\|Bahamut]] - The God of Enlightened Justice and Good Dragonkind
 [[Deities/The Binary Gods/Tiamat\|Tiamat]] - The Goddess of Vengeance and Evil Dragonkind

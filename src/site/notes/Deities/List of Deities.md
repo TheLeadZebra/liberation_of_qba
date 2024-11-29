@@ -12,7 +12,7 @@ A Deity is a god, a mighty being who can weave the fabric of space, time, or per
 		- [[Deities/The Four Cardinal Gods/Garyx\|Garyx]]
 		- [[Deities/The Four Cardinal Gods/Null\|Null]]
 		- [[Deities/The Four Cardinal Gods/Tamara\|Tamara]]
-	- [[The Binary Gods\|The Binary Gods]]
+	- [[Deities/The Binary Gods/The Binary Gods\|The Binary Gods]]
 		- [[Deities/The Binary Gods/Bahamut\|Bahamut]]
 		- [[Deities/The Binary Gods/Tiamat\|Tiamat]]
 - [[Island Races/Human/Human\|Human]]

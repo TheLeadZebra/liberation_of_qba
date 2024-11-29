@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-island-of-qba/history-of-the-island/known-information/"}
 ---
 
-
 #### Recent Island History
 The Island of [[The Island of Qba/Q'ba\|Q'ba]], settled by [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] many generations ago, they lived in peace. 
 
@@ -38,7 +37,7 @@ Each of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four]] rule
 - [[Deities/The Four Cardinal Gods/Null\|Null]] - [[The Island of Qba/Island Regions/Stillwater Mire\|Stillwater Mire]]
 - [[Deities/The Four Cardinal Gods/Tamara\|Tamara]] - [[The Island of Qba/Island Regions/Dimmafall\|Dimmafall]]
 
-In recent history the island has also been blessed with the presence of [[Deities/The Binary Gods/Bahamut\|Bahamut]] and [[Deities/The Binary Gods/Tiamat\|Tiamat]] also, known here as [[The Binary Gods\|The Binary Gods]].
+In recent history the island has also been blessed with the presence of [[Deities/The Binary Gods/Bahamut\|Bahamut]] and [[Deities/The Binary Gods/Tiamat\|Tiamat]] also, known here as [[Deities/The Binary Gods/The Binary Gods\|The Binary Gods]].
 
 The [[Island Races/Human/Human\|Humans]] also brought with them their own god, [[Deities/Human Gods/Ilmatar\|Ilmatar]], who stands for them as a beacon of hard work despite pain or difficulty. This symbolism has been corrupted by many as justification for exploiting the [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] and other [[Island Races/Non-Human/Non-Human List\|Non-Humans]] of the island. 
 
