@@ -6,6 +6,10 @@
 
 The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with each of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]] having a festival at three-month intervals.
 
+###### Example Calendar:
+![Example Calendar.png](/img/user/zAttachments/Example%20Calendar.png)
+
+
 ##### Week days: 
 1. Moonday - The night transitioning between the end of one season and the start of the next marks the beginning of celebration.
 2. Choresday - A standard workday, often the first full day of work of the year, or any month beginning a new season, when celebrations concluding the night before.
