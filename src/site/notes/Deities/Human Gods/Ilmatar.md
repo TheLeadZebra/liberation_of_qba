@@ -10,7 +10,7 @@ Ilmater is the name of the [[Deities/List of Deities\|Deity]] brought to the isl
 
 Ilmater has many names:
 - The Crying God
-- The Broken Gopd
+- The Broken God
 - The Lord on the Rack
 - The One Who Endures
 - Our Martyred Father
