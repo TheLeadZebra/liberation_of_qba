@@ -37,4 +37,5 @@ For example, Starday is always the first day of the year, and of any given month
 | **10** | Gemsla    | Autumn | [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
 | **11** | Null      | Winter | [[Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
 | **12** | Muna      | Winter | [[Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
-The first day of each new season marks the beginning of festivaties to that god.
+
+The first day of each new season marks the beginning of festivities to that god.
