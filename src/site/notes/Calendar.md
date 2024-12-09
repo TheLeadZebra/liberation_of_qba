@@ -8,7 +8,7 @@ The Draconian Calendar contains three hundred and sixty four days, split into tw
 
 ##### Week days: 
 1. Moonday - The night transitioning between the end of one season and the start of the next marks the beginning of celebration.
-2. Toilsday - A standard workday, often the first full day of work of the year, or any month beginning a new season, when celebrations concluding the night before.
+2. Choresday - A standard workday, often the first full day of work of the year, or any month beginning a new season, when celebrations concluding the night before.
 3. Wealthday - Generally the day for salaries to be paid to workers, whether monthly or weekly. The last Wealthday of the year is also the day for any annual bonus payments, as well as the day taxes are reported.
 4. Fairsday - The second Fairsday of every month marks a day where wealthier patrons visit the bustling markets around the city and ports. Street performers come out for the busiest time of the month with hopes of entertaining the masses.
 5. Fireday - The last day of the working week, often people gather together around fires to socialise, beginning the weekend.
