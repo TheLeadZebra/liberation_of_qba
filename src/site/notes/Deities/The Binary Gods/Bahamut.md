@@ -4,6 +4,8 @@
 
 Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful dragons. 
 
+![Bahamut_holy_symbol.jpg](/img/user/zAttachments/Bahamut_holy_symbol.jpg)
+**Symbol** - A platinum dragon profiled against a blue background.
 #### Form
 His natural form is that of a platinum metallic dragon, approximately 180ft (55ft) in total length, with a tail the same length as his body, said by many to be the only one of his kind. His scales are said to be togher than any shield (some say nearly indestructible) and glow with a feint blue sheen. He also has blue eyes, the exact shade of which shifts depending on Bahamut's mood. Bahamut has been known to wonder the mortal world, taking the appearance of an old human or a demihuman wizard dressed as a peasant accompanied by songbirds. This persona became known among mortals as [[Fizban the Fabulous\|Fizban the Fabulous]], whom sages believed was designed so  as to not frighten non-dragon beings. The sages also believe that he has many other guises as well.
 
