@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/deities/the-binary-gods/bahamut/"}
 ---
 
-Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful dragons. 
+Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful good dragons. 
 
 ![Bahamut_holy_symbol.jpg](/img/user/zAttachments/Bahamut_holy_symbol.jpg)
 **Symbol** - A platinum dragon profiled against a blue background.
@@ -17,6 +17,8 @@ Bahamut is stern and very disapproving of evil, he accepts no excuses for evil a
 By draconic standards, Bahamut is neither vain nor desirous of treasure. Instead he values wisdom, knowledge, prophecies, and songs instead. He uses the great wealth he has ammased over the ages in order to help those in need, using the magic items he has gathered to further his goals.
 
 Bahamut also likes to prove the strength and worthiness of his followers by battling them whilst in his dragon form, halting the combat when his followers are injured or overcame him. However he was known to get carried away by his zeal, and had powerful healers on hand in case he gravely injured one of his followers in those battles. 
+
+Bahamut is the antithesis of his sister [[Deities/The Binary Gods/Tiamat\|Tiamat]], as both of them represent opposing values, and this enmity is reflected in the attitude of each deity's worshipers as well.
 
 #### Powers
 Those that saw him fight claimed that he had two breath weapons, one a powerful Cone of Cold, the other a vapour which turns his enemies into a gaseous form. A special, third attack is his roar which is so powerful that it can disintergrate creatures or objects within 100ft. If facing off against particularly powerful opponents this roar could still permenantly deafen those who weren't turned to dust. Further he is able to breathe holy winds, which allowed him to heal allies and even resurrect his fallen comrades. He is reputed to know every arcane and divine spell. Bahamut is able to see invisible beings and objects, and can breathe underwater indefinitely. Few things in the mortal world can cause him lasting harm. 
