@@ -11,7 +11,7 @@ His natural form is that of a platinum metallic dragon, approximately 180ft (55f
 
 He is the eternal rival of his sister, [[Deities/The Binary Gods/Tiamat\|Tiamat]], queen of the chromatic dragons. 
 
-#### Alignment
+#### Alignmentment
 Bahamut is stern and very disapproving of evil, he accepts no excuses for evil acts, and doesn't tolerate even minor offenses by evil creatures. Yet in spite of this stance, he is also considered one of the most compassionate beings in the multiverse. He has limitless empathy for the downtrodden, the dispossessed and the helpless. He usually preferred to polymorph those who had offended him rather than killing them, Bahamut loathed to sully himself with the blood of even evil creatures. 
 
 By draconic standards, Bahamut is neither vain nor desirous of treasure. Instead he values wisdom, knowledge, prophecies, and songs instead. He uses the great wealth he has ammased over the ages in order to help those in need, using the magic items he has gathered to further his goals.
