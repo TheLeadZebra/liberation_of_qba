@@ -4,7 +4,8 @@
 
 Q'ba is the island of note on which the campaign A Crown of Thorn takes place. The island exists on the Planet of [[Toril\|Toril]], home to the Forgotten Realms.
 
-For a map of the Island, see [[Maps/Maps of Q'ba/Map of Q'ba\|here]]. The Island of Q'ba is home to [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] as a native species, as well as a few other races who have settled upon the island in small numbers over the most recent few hundred years. These races are now split into their own categories of [[Island Races/Human/Human\|Human]] who are very recent settlers, and [[Island Races/Non-Human/Non-Human List\|Non-Human List]] which includes any sentient race that is neither [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] or [[Island Races/Human/Human\|Human]]. 
+![The Island of Q'Ba.png](/img/user/zAttachments/The%20Island%20of%20Q'Ba.png)
+The Island of Q'ba is home to [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] as a native species, as well as a few other races who have settled upon the island in small numbers over the most recent few hundred years. These races are now split into their own categories of [[Island Races/Human/Human\|Human]] who are very recent settlers, and [[Island Races/Non-Human/Non-Human List\|Non-Human List]] which includes any sentient race that is neither [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] or [[Island Races/Human/Human\|Human]]. 
 
 The island itself is geographically not very large, and yet contains a wide range of biomes (Frost bound mountains, Acid Marshes, Luscious Forest and Scorching Desert) which split among the cardinal directions of the island. Each of these four directions is it's own [[Maps/Maps of Q'ba/Regions of Q'ba\|Region]], as well as the island's city, [[Settlements/Drakenholm/Drakenholm\|Drakenholm]], and it's trade port, [[The Island of Qba/Island Regions/Kin's Landing\|Kin's Landing]], each being designated their own region.
 
