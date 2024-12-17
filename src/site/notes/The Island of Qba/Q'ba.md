@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/the-island-of-qba/q-ba/"}
 ---
 
-Q'ba is the island of note on which the campaign A Crown of Thorn takes place. The island exists on the Planet of [[Toril\|Toril]], home to the Forgotten Realms.
-
+Q'ba is the island of note on which the campaign A Crown of Thorn takes place. The island exists on the Planet of [[Toril\|Toril]], home to the Forgotten Realms
 ![The Island of Q'Ba.png](/img/user/zAttachments/The%20Island%20of%20Q'Ba.png)
 The Island of Q'ba is home to [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] as a native species, as well as a few other races who have settled upon the island in small numbers over the most recent few hundred years. These races are now split into their own categories of [[Island Races/Human/Human\|Human]] who are very recent settlers, and [[Island Races/Non-Human/Non-Human List\|Non-Human List]] which includes any sentient race that is neither [[Island Races/Dragonborn/Dragonborn\|Dragonborn]] or [[Island Races/Human/Human\|Human]]. 
 
