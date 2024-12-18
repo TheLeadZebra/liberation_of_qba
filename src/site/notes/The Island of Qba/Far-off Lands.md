@@ -3,4 +3,4 @@
 ---
 
 
-The world outside of [[The Island of Qba/Q'ba\|Q'ba]]. #wip 
+The world of [[Toril\|Toril]], referring to any location outside of [[The Island of Qba/Q'ba\|Q'ba]]. For example the continent of Faerûn, home to the Sword Coast.

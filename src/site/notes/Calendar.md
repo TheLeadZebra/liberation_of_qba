@@ -4,7 +4,7 @@
 
 ### The Draconian Calendar
 
-The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with each of [[Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]] having a festival at three-month intervals.
+The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with each of [[Deities/The Four Cardinal Gods/-The Four Cardinal Gods-\|-The Four Cardinal Gods-]] having a festival at three-month intervals.
 
 ###### Example Calendar:
 ![Example Calendar.png](/img/user/zAttachments/Example%20Calendar.png)
