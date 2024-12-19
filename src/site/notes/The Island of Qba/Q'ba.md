@@ -11,11 +11,11 @@ The island itself is geographically not very large, and yet contains a wide rang
 Q'ba is an independent state, complete with it's own ruler - [[The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], currently [[People/Enemies/Francis Roberts\|King Francis Roberts]] who was in charge of a research expedition of [[Island Races/Human/Human\|Humans]] to the island around 40 years ago. This was the first known contact with humans for the island, who were accepted as settlers on the island by [[The Island of Qba/History of the Island/The Rule of Qba/Previous Rulers/Ygerdern 'the Golden' Funahjarta\|Ygerdern 'the Golden' Funahjarta]]. Since this time there has been a significant sharing of technology and knowledge, in areas such as building, farming and medicine. This lead to a boom in habitant capacity across the island, especially for the [[Island Races/Human/Human\|Humans]] who now make up the largest portion of population on the island, overtaking even the [[Island Races/Dragonkin/Dragonborn\|Dragonborn]].
 
 #### Regions
-- [[The Island of Qba/Island Regions/Astilabor's Peak\|The Island of Qba/Island Regions/Astilabor's Peak]]
+- [[The Island of Qba/Island Regions/Astilabor's Peak\|Astilabor's Peak]]
 - [[The Island of Qba/Island Regions/Dimmafall\|Dimmafall]]
 - [[Settlements/Drakenholm/Drakenholm\|Drakenholm]]
 - [[The Island of Qba/Island Regions/Kin's Landing\|Kin's Landing]]
-- [[The Island of Qba/Island Regions/Stillwater Mire\|The Island of Qba/Island Regions/Stillwater Mire]]
+- [[The Island of Qba/Island Regions/Stillwater Mire\|Stillwater Mire]]
 - [[The Island of Qba/Island Regions/The Desert\|The Desert]]
 
 Q'ba is also known by it's population for the large variety of homebrewed or imported alcoholic beverages, with each region having their own, distinct menus, including each district of [[Settlements/Drakenholm/Drakenholm\|Drakenholm]]. Further to this, the whole island comes together to serve the same special option, which changes daily.

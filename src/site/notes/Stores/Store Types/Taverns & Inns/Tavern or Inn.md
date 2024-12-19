@@ -23,7 +23,7 @@ The taverns and inns famed among the population of [[The Island of Qba/Q'ba\|Q'b
 ##### Kindlewood
 #wipname
 
-##### [[Settlements/Astilabor's Peak/Astilabor's Claw\|Astilabor's Claw]]
+##### [[Settlements/Astilabors Peak/Astilabor's Claw\|Astilabor's Claw]]
 [[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Astilabor's Peak/Astilabor's Claw/The Frosty Beard\|The Frosty Beard]] - Inn
 
 ##### Stillwater Mire

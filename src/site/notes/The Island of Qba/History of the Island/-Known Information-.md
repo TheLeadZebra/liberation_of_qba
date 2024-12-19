@@ -32,9 +32,9 @@ Though this is the story of [[Island Races/Human/Human\|Human]] and [[Island Rac
 The native [[Island Races/Dragonkin/Dragonborn\|Dragonborn]] have their own gods on the island, known as [[Deities/The Four Cardinal Gods/-The Four Cardinal Gods-\|-The Four Cardinal Gods-]].
 
 Each of [[Deities/The Four Cardinal Gods/-The Four Cardinal Gods-\|The Four]] rule over a region of the island:
-- [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] - [[The Island of Qba/Island Regions/Astilabor's Peak\|The Island of Qba/Island Regions/Astilabor's Peak]]
+- [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] - [[The Island of Qba/Island Regions/Astilabor's Peak\|Astilabor's Peak]]
 - [[Deities/The Four Cardinal Gods/Garyx\|Garyx]] - [[The Island of Qba/Island Regions/The Desert\|The Desert]]
-- [[Deities/The Four Cardinal Gods/Null\|Null]] - [[The Island of Qba/Island Regions/Stillwater Mire\|The Island of Qba/Island Regions/Stillwater Mire]]
+- [[Deities/The Four Cardinal Gods/Null\|Null]] - [[The Island of Qba/Island Regions/Stillwater Mire\|Stillwater Mire]]
 - [[Deities/The Four Cardinal Gods/Tamara\|Tamara]] - [[The Island of Qba/Island Regions/Dimmafall\|Dimmafall]]
 
 In recent history the island has also been blessed with the presence of [[Deities/The Binary Gods/Bahamut\|Bahamut]] and [[Deities/The Binary Gods/Tiamat\|Tiamat]] also, known here as [[Deities/The Binary Gods/-The Binary Gods-\|-The Binary Gods-]].

@@ -4,7 +4,7 @@
 
 # Home Page
 
-Welcome to the Wikisite for The Crown of Thorn, a D&D campaign. 
+Welcome to the Wikisite for The Crown of Thorn, a D&D campaign.
 
 The idea of this site is not so that you will know everything that is coming up, but so that you may know the sort of things your character may know. Use the information here for building a character background, but there's no need to memorise everything, or even anything if that's your preference.
 
