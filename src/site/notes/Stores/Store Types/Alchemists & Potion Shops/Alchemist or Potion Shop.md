@@ -14,6 +14,3 @@ An alchemy shop, or potion shop is a store which sells potions or alchemical ing
 - [[Settlements/The Desert/The Kindred Redhearts\|The Kindred Redhearts]] - #wipname 
 - [[The Island of Qba/Island Regions/Stillwater Mire\|Stillwater Mire]] - #wipname 
 
-##### Possible store items
-
-![[Potions.pdf]]

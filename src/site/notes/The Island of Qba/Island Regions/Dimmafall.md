@@ -13,3 +13,4 @@ Rumour has it that within the forest there is a mystical waterfall which flows f
 
 The forest region of Tamara, home to the town of [[Settlements/Dimmafall/Kindlewood\|Kindlewood]] and inhabited by [[Island Races/Non-Human/Dryad\|Dryads]].  The forest has a mystical waterfall which seems to appear from a haze of fog and mist.
 
+To the west of the forest, along the cliffside wall of the island live a group of [[Island Races/Dragonkin/Kobolds\|Kobolds]] who keep to themselves but are very territorial against outsiders. Their cliffside bastion is referred to as [[The Island of Qba/Landmarks/Dimmafall/Kobold Cove\|Kobold Cove]].
