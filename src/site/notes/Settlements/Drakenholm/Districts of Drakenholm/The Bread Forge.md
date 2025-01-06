@@ -9,10 +9,10 @@ Flour and Flame - Baker
 The Wyrms's Belly - Blacksmith
 The Mason's Mark - Stonemason
 The Dragontooth Saw - Lumberyard
-Wyvern's Flight - [[Stores/Store Types/Bowyers & Fletchers/Bowyer or Fletcher\|Bowyer or Fletcher]]
+Wyvern's Flight - [[Stores/Store Types/Bowyers and Fletchers/Bowyer or Fletcher\|Bowyer or Fletcher]]
 The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
-The Cog and Crucible - [[Stores/Store Types/Alchemists & Potion Shops/Alchemist or Potion Shop\|Alchemist]]
-[[Stores/Store Types/Street Traders\|Street Traders]]
+The Cog and Crucible - [[Stores/Store Types/Alchemy and Potion Shops/Alchemy and Potion Shops\|Alchemist]]
+[[Stores/Store Types/Street Traders/Street Traders\|Street Traders]]
 [[Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[Stores/Store Types/Taverns & Inns/Tavern or Inn\|Tavern and Boardhouse]]
 
 
