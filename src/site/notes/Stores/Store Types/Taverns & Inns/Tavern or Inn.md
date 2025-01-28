@@ -32,7 +32,7 @@ The taverns and inns famed among the population of [[The Island of Qba/Q'ba\|Q'b
 ##### The Kindred Redhearts
 - [[The Travelling Circus\|The Travelling Circus]] - Tavern and Inn
 
-##### [[The Island of Qba/Island Regions/Kin's Landing\|Kin's Landing]]
+##### [[The Island of Qba/Island Regions/Kin's Landing\|The Island of Qba/Island Regions/Kin's Landing]]
 - #wipname - Tavern and Inn
 - #wipname - Tavern and Inn
 - #wipname - Tavern
