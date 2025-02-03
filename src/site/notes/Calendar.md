@@ -4,7 +4,7 @@
 
 ### The Draconian Calendar
 
-The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with each of [[Deities/The Four Cardinal Gods/-The Four Cardinal Gods-\|-The Four Cardinal Gods-]] having a festival at three-month intervals.
+The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with each of [[World/Deities/The Four Cardinal Gods/-The Four Cardinal Gods-\|-The Four Cardinal Gods-]] having a festival at three-month intervals.
 
 ###### Example Calendar:
 ![Example Calendar.png](/img/user/zAttachments/Example%20Calendar.png)
@@ -29,17 +29,17 @@ For example, Moonday is always the first day of the year, and of any given month
 
 | #      | Name      | Season | God           | Celebration |
 | ------ | --------- | ------ | ------------- | ----------- |
-| **1**  | Sorg      | Winter | [[Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
-| **2**  | Tamara    | Spring | [[Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
-| **3**  | Leevith   | Spring | [[Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
-| **4**  | Voxtur    | Spring | [[Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
-| **5**  | Garyx     | Summer | [[Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
-| **6**  | Aldur     | Summer | [[Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
-| **7**  | Eyding    | Summer | [[Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
-| **8**  | Astilabor | Autumn | [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
-| **9**  | Oopskera  | Autumn | [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
-| **10** | Gemsla    | Autumn | [[Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
-| **11** | Null      | Winter | [[Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
-| **12** | Muna      | Winter | [[Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
+| **1**  | Sorg      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
+| **2**  | Tamara    | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
+| **3**  | Leevith   | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
+| **4**  | Voxtur    | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
+| **5**  | Garyx     | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
+| **6**  | Aldur     | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
+| **7**  | Eyding    | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
+| **8**  | Astilabor | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
+| **9**  | Oopskera  | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
+| **10** | Gemsla    | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
+| **11** | Null      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
+| **12** | Muna      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
 
 The first day of each new season marks the beginning of festivities to that god, of which the first month per season has their name dedicated to them.
