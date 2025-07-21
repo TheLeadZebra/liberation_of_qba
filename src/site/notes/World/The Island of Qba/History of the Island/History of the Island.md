@@ -79,7 +79,7 @@ However, the island was not attacked. Instead a single rowboat approached the sh
 Almost everyone on the island had a shared opinion, that [[World/Regional Authorities/Crown Guard/The Crown Guard/The Crown Guard\|The Crown Guard]] should push these trespassers back out into the ocean where they came from. However, [[World/The Island of Qba/History of the Island/The Rule of Qba/Previous Rulers/Draumur 'Greenscale' Funahjarta\|Draumur]], [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], approached the human envoy alone and after a lengthy discussion decreed that the humans may make a new home on the island, though each human was to be catalogued as they enter the island. Further, [[Story/People/Enemies/King Francis Roberts\|Francis Roberts]] was given the official title of Human Envoy, and he would ultimately be held accountable for the behaviour of the humans.
 
 #### The Seventh God
-However, it was quickly shown that the worries about the humans was not warranted, as the humans quickly got to work upon the island, as is the human way. The humans brought with them their own deity, [[World/Deities/Human Gods/Ilmatar\|Ilmatar]], The One Who Endures. Under his guiding hands the humans bared a great workload. But more than just a strong attitude to work, the humans brought with them technologies and an understanding of healing which was new to the island. 
+However, it was quickly shown that the worries about the humans was not warranted, as the humans quickly got to work upon the island, as is the human way. The humans brought with them their own deity, [[World/Deities/Human Gods/Ilmatar\|Ilmatar]], The Lord on the Rack. Under his guiding hands the humans bared a great workload. But more than just a strong attitude to work, the humans brought with them technologies and an understanding of healing which was new to the island. 
 
 Technologies such as crop rotations boosted the island's agriculture, allowing for far more food and resources to be grown with the same amount of effort. Simple antibiotics and first aid techniques led to a much higher survival rate, for both children and adults. This knowledge, and more, was shared with the island and led to a boom in population as people all across the island were much less reliant on having to farm for themselves, or worry about illness. This also led to people moving out of the city, growing the towns that already existed, such as [[World/The Island of Qba/Island Regions/Dimmafall\|Dimmafall]], as well as the creation of small settlements which popped up all across the island. 
 
@@ -102,7 +102,7 @@ However, [[World/The Island of Qba/History of the Island/The Rule of Qba/Previou
 Such a title was a great boon from the [[World/Island Races/Dragonkin/Dragonborn\|Dragonborn]] people, a gift which showed the strong bonds between human and dragon kin. One that was celebrated across the island.
 
 #### Heavy is The Head
-12th day of Muna, 1480, [[World/The Island of Qba/History of the Island/The Rule of Qba/Previous Rulers/Emperor Ygerdern 'the Golden' Funahjarta\|Emperor Ygerdern 'the Golden' Funahjarta]] dies an elder. Upon his death it was his will that [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] should be passed to [[Story/People/Enemies/King Francis Roberts\|Francis "The Foreign" Roberts]]. A wish that was happily agreed by most everyone on the island, both human and non-human. For, if it were not for his leadership, the island may not be so well off as it is today.
+12th day of Muna, 1480, [[World/The Island of Qba/History of the Island/The Rule of Qba/Previous Rulers/Emperor Ygerdern 'the Golden' Funahjarta\|Emperor Ygerdern 'the Golden' Funahjarta]] dies an elder. Upon his death it was his will that [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] should be passed to [[Story/People/Enemies/King Francis Roberts\|Francis "The Foreign" Roberts]], instead of to his son [[Story/People/Legendary Figures/Leifr Funahjarta\|Leifr Funahjarta]]. A wish that was happily agreed by most everyone on the island, both human and non-human, including [[Story/People/Legendary Figures/Leifr Funahjarta\|Leifr]] himself. For, if it were not for his leadership, the island may not be so well off as it is today.
 
 Throughout his time on the island [[Story/People/Enemies/King Francis Roberts\|Emperor Francis "The Foreign" Roberts]] had made a habit of sending out parties, or himself, to perform research across the island. With this increase in power such research parties became more commonly, and more secretive about their works.
 
@@ -123,23 +123,40 @@ Eventually the [[World/Island Races/Non-Human/Non-Humans\|Non-Humans]], especial
 
 [[Story/People/Enemies/King Francis Roberts\|King Francis Roberts]] banishes his nickname "The Foreign" as the population begin using it as a form of attack, often bastardising the name to become "The Thorn" and serving as inspiration for a now outlawed ballad.
 
+[[World/The Island of Qba/Island Regions/King's Landing\|Kin's Landing]] undergoes a semantic change, as verbal misunderstandings are set in stone. It is more commonly now referred to as [[World/The Island of Qba/Island Regions/King's Landing\|King's Landing]].
+
+#### The One Who Endures
+In 1487, with many of the most impoverished [[World/Island Races/Dragonkin/Dragonborn\|Dragonborn]] now in service to the wealthiest humans, the symbol of [[World/Deities/Human Gods/Ilmatar\|Ilmatar]] is enforced across the island. The suffering of [[World/Deities/Human Gods/Ilmatar\|Ilmatar]] is used as a weapon against ungrateful [[World/Island Races/Non-Human/Non-Humans\|Non-Humans]] who do not appreciate their opportunity to repay the debts they owe.
+
+Whilst never mentioned in any way about being outlawed, public promoting of [[World/Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], or [[World/Deities/The Binary Gods/The Binary Gods\|The Binary Gods]] was shunned and religious ceremonies become more muted. Teachings of faith became much more focussed on [[World/Deities/Human Gods/Ilmatar\|Ilmatar]], and the island's gods were barely a passing topic.
+
+During times of civil unrest it is often religious temples which find themselves the target of rioting, assaults and theft. Eventually, this led to the destruction of many temples dedicated to the gods, especially those considered to align with negative aspects of life: [[World/Deities/The Four Cardinal Gods/Null\|Death]], [[World/Deities/The Four Cardinal Gods/Garyx\|Destruction]], or [[World/Deities/The Four Cardinal Gods/Astilabor\|Greed]], as well as [[World/Deities/The Binary Gods/Tiamat\|Evil]]. Both within the city of [[World/Settlements/Drakenholm/Drakenholm\|Drakenholm]], and without.
+
+Through 1489 and into 1490 the land of [[World/The Island of Qba/Island Regions/The Desert\|The Desert]] became mostly uninhabited, but for a nomadic tribe called [[World/Settlements/The Desert/The Kindred Redhearts\|The Kindred Redhearts]]. In the last year, the nightly blasts of lightning and thunderous rainstorms has waned significantly, meaning that on occasion [[World/The Island of Qba/Landmarks/The Desert/The Tears of Garyx\|The Tears of Garyx]] are not replenished for days.
+
+#### In The Midnight Hour
+Towards the end of 1490, [[Story/People/Legendary Figures/Leifr Funahjarta\|Leifr Funahjarta]] disappears from the public eye. Prior to this he has been seen travelling all over the island helping the needy wherever he goes. Trying to make a difference. Rumours stir of kidnapping or murder.
+
+As 1491 rolls around seemingly coordinated attacks on food caravans between the farms and the city begin. Within a week caravan guards are increased, and it is shown that only the poorest are affected by the shortages. The attacks do not last, but they do spark talk of rebellion. Which is once again stamped out, hard, by the Keepers of the Peace and their charge.
+
+#### Present Day
+Talk of rebellion is muttered under hushed breathes in back alleys, the thought alone considered treason. Hooded people gathering in back alleys of [[World/Settlements/Drakenholm/Drakenholm\|Drakenholm]] can only be considered a rumour. 
+The news has not reported an attack on patrolling guards for months.
+
+The power of [[World/Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]] wavers, and [[World/The Island of Qba/Island Regions/The Desert\|The Desert]] storm has weakened. Whilst it rages with ferocity still, it only occurs once a week. A far sight from the nightly event it once was.
+
+Conversion of the acid marshes of [[World/The Island of Qba/Island Regions/Stillwater Mire\|Stillwater Mire]] has been started by a group of humans, with the aim of terraforming the area for eventual conversion to allow an increased farming potential.
+
+The Dwarves and Goblins of [[World/The Island of Qba/Island Regions/Astilabor's Peak\|Astilabor's Peak]], known wide for their harvesting of riches in the mountains have not been seen in some time, leading to rumours that they have found some way of secretly leaving the island.
+
+People go missing from the region of [[World/The Island of Qba/Island Regions/Dimmafall\|Dimmafall]] almost weekly. Not even a body has been found. Stories of their locations are as wild as they are wide ranging.
+
+The port of [[World/The Island of Qba/Island Regions/King's Landing\|King's Landing]] continues to bustle with the trade of many nations. With cargo passing through on its way to a final destination, the island has long been a great rest point for entertainment and stocking up on supplies.
+
+King Francis Roberts continues to be seen in public, a show of strength against those wanting him out of the picture.
+
 
 
 ***(Still to be fleshed out)***
--
-
-
-- **4 years ago** - With many of the most impoverished dragonborn now in service to humans the symbol of [[World/Deities/Human Gods/Ilmatar\|Ilmatar]] is enforced across the island, the Four Cardinal Gods are slowly limited in following among dragonborn. 
-- **2 years ago** - The land of the desert is nearly uninhabited by dragonborn, but for a nomad tribe. In the last year, the blasts of lightning throughout the night has significantly waned. 
-- Leifr, son of Ygerdern, disappears from the public eye.
-- **1 Year ago** - Seemingly coordinated attacks on food caravans between the farms and the city began. Within a week guards increased on food caravans, attacks did not last long. This was merely a spark, but that of rebellion.
-- **Throughout this past decade**, during times of civil unrest, temples have often been targets for rioting and assault, leading to the destruction of many temples dedicated to [[World/Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]], especially those considered to align with negative aspects of life, such as [[World/Deities/The Four Cardinal Gods/Null\|Death]], [[World/Deities/The Four Cardinal Gods/Garyx\|Destruction]], or [[World/Deities/The Four Cardinal Gods/Astilabor\|Greed]].
-- ***This year*** 
-	- Talk of rebellion is muttered under hushed breathes in back alleys, the thought alone considered treason. Hooded people gathering in back alleys can only be considered a rumour. The news has not reported an attack on patrolling guards for months.
-	- The power of the Four Cardinal Gods wavers and the desert storm has weakened. It rages with ferocity still, but only once a week. A far sight from the nightly event it once was.
-	- Conversion of the acid marshes has been started by a group of humans, the aim is to terraform the area for eventual conversion to allow much increased farming potential.
-	- The Dwarves and Goblins, known wide for their harvesting of riches in the mountains have not been seen in some time, leading to rumours that they have found some way of leaving the island.
-	- The port continues to bustle with the trade of many nations. With cargo passing through on its way to a final destination, the island has long been a great rest point for entertainment and stocking up on supplies.
-	- The Crown's daughter, Princess Frances Roberts has not been seen in many months. Previously known for her friendship with fellow islanders, especially those who she went to school with, many of whom were noble born dragonborn from houses now fallen.
-	- King Francis Roberts continues to be seen in public, a show of strength against those wanting him out of the picture.
+- The Crown's daughter, the Princess [[Francesca Roberts\|Francesca Roberts]], has not been seen in many months. Previously known for her friendship with fellow islanders, especially those who she went to school with, many of whom were noble born dragonborn from houses now fallen.
 
