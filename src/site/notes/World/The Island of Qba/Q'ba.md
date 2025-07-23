@@ -23,4 +23,4 @@ Q'ba is an independent state, complete with it's own ruler - [[World/The Island 
 Q'ba is also known by it's population for the large variety of homebrewed or imported alcoholic beverages, with each region having their own, distinct menus, including each district of [[World/Settlements/Drakenholm/Drakenholm\|Drakenholm]]. Further to this, the whole island comes together to serve the same special option, which changes daily.
 
 #### The Klither
-For as long as anyone has known the island, it has been under the effects of a mysterious affliction known as [[World/The Island of Qba/History of the Island/The Klither\|The Klither]], affecting any and all planar travel and effects, as well as producing doorways to pocket dimensions of unknown origin and fraught with peril.
+For as long as anyone has known the island, it has been under the effects of a mysterious affliction known as [[World/The Island of Qba/The Klither\|The Klither]], affecting any and all planar travel and effects, as well as producing doorways to pocket dimensions of unknown origin and fraught with peril.
