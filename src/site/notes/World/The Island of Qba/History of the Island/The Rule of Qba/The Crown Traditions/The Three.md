@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/world/the-island-of-qba/history-of-the-island/the-rule-of-qba/the-crown-traditions/the-three/"}
+---
+
+
+The Three is name given to members of [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown's]] council. Traditionally three individuals are chosen to form this council, there is no prerequisite to becoming a council member meaning that, in theory at least, any noble person, commoner or even begger has an equal opportunity to become a member. Upon being crowned, or some time afterward, [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] choses their desired individuals to form the Three.
+
+There are no defined roles that these members must fill, and they can be given any title and responsibilties that [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] deems fit. These chosen roles commonly fill a gap in [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]]'s personal understanding, or aim to focus on a particular problem the island is having at the time. While it is rare to see, [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] may remove, replace, or retitle a member of The Three at any time within their rule, for example if a famine were to occur it might be decided that such an emergency required a greater focus.
