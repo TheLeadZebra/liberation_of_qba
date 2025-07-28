@@ -33,19 +33,19 @@ The intercalary seven-day marks beginning of festivities to the god of that seas
 | ------ | --------- | ------ | ------------- | ----------- |
 | **1**  | Sorg      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
 | **A**  | Tamara    | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
-| **2**  | Nyr       | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
+| **2**  | Miskunn   | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
 | **3**  | Leevith   | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
 | **4**  | Voxtur    | Spring | [[World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
 | **B**  | Garyx     | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
-| **5**  | Hita      | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
+| **5**  | Endur     | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
 | **6**  | Aldur     | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
 | **7**  | Eyding    | Summer | [[World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
 | **C**  | Astilabor | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
-| **8**  | Haust     | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
+| **8**  | Eiga      | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
 | **9**  | Oopskera  | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
 | **10** | Gemsla    | Autumn | [[World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
 | **D**  | Null      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
-| **11** | Gamalt    | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
+| **11** | Lautast   | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
 | **12** | Muna      | Winter | [[World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
 
 
