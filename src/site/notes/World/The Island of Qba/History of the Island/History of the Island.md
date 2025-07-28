@@ -21,7 +21,7 @@ Soon new settlements spawned within each of the four regions of the island. [[Wo
 
 Each of these settlements was tiny, and required constant supply from [[World/Settlements/Drakenholm/Drakenholm\|Drakenholm]] to sustain itself, but benefitted from the liberty away from the cramped and labyrinthine streets of a city which grew faster than plans could be made.
 
-This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[World/The Island of Qba/Far-off Lands\|Far-off Lands]], of whom some would rarely remain on the island.
+This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[World/Settlements/Far-Off Lands/Far-off Lands\|Far-off Lands]], of whom some would rarely remain on the island.
 
 #### A Pot Boiled Over
 Around 300 years ago, [[World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] of [[World/The Island of Qba/Q'ba\|Q'ba]] died, as many had done before. However, this time was different.
@@ -60,7 +60,7 @@ During this time people began to move away from labour tasks and it became commo
 As people became more competent with magic, they began to find that the island suffered from an affliction which they called [[World/The Island of Qba/The Klither\|The Klither]]. Planar travel was almost impossible, and extradimensional spaces were filled with an inexplicable, endless buzzing. Study of these kinds became rare due to the danger of Wild Magic as an effect of [[World/The Island of Qba/The Klither\|The Klither]], yet for some this was all the more reason to study.
 
 #### Moving in Circles
-Somewhere around 100 years ago a druid circle, the [[World/Settlements/Dimmafall/Circle of the Shepherd\|Circle of the Shepherd]], visited the island whilst looking for regions of beauty, in which they would spread the seeds of [[World/Island Races/Non-Human/Dryad\|Dryad]]s. 
+Somewhere around 100 years ago a druid circle, the [[World/Settlements/Dimmafall/Circe\|Circe]], visited the island whilst looking for regions of beauty, in which they would spread the seeds of [[World/Island Races/Non-Human/Dryad\|Dryad]]s. 
 
 They were awed by the beauty of [[World/The Island of Qba/Island Regions/Dimmafall\|Dimmafall]] and it's forest. Beyond just planting the seeds of [[World/Island Races/Non-Human/Dryad\|Dryad]], many of the druids decided to make a permanent settlement within, in order to bask in the forest and watch over the [[World/Island Races/Non-Human/Dryad\|Dryad]].
 
@@ -152,7 +152,7 @@ The [[World/Island Races/Non-Human/Dwarf\|Dwarves]] and [[World/Island Races/Non
 
 People go missing from the region of [[World/The Island of Qba/Island Regions/Dimmafall\|Dimmafall]] almost weekly. Not even a body has been found. Stories of their whereabouts are as wild as they are wide ranging.
 
-The port of [[World/The Island of Qba/Island Regions/King's Landing\|King's Landing]] continues to bustle with the trade of many nations. With cargo passing through on its way to a final destination, the island has long been a great rest point for entertainment and stocking up on supplies.
+The port of [[World/The Island of Qba/Island Regions/King's Landing\|King's Landing]] continues to bustle with the trade of many nations, and the main route between the port and [[World/Settlements/Drakenholm/Drakenholm\|Drakenholm]] is crucial for logistics. In order to shore up the protection of this route a new town is built, [[World/Settlements/The Desert/New Mercy\|New Mercy]].
 
 [[Story/People/Enemies/King Francis Roberts\|King Francis Roberts]] continues to be seen in public, a show of strength against those wanting him out of the picture.
 
