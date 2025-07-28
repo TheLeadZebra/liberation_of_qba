@@ -8,3 +8,5 @@ There are not many who have settled in this region, those who do are Dragonborn 
 
 Recently word has spread of a group of [[World/Island Races/Human/Human\|Humans]] who are trying to terraform the region to allow a greater amount of farmland on the island.
 
+The main settlement here is known as [[World/Settlements/Stillwater Mire/Mirethorp\|Mirethorp]].
+
