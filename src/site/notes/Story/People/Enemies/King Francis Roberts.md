@@ -14,4 +14,4 @@ The first instance was a raising of taxes for all [[World/Island Races/Non-Human
 
 Francis has proven himself indifferent to the suffering of [[World/Island Races/Non-Human/Non-Humans\|non-humans]] and has done nothing to reduce aggression toward them from [[World/Island Races/Human/Human\|humans]], even going as far as to encourage the damage or destruction of temples to [[World/The Island of Qba/History of the Island/Q'ba's Draconic Pantheon\|Draconic deities]] deemed 'evil' or 'sinful'.
 
-In the last 10 years his nickname 'The Foreign' has been distorted into an insult, and [[NOT FOR PLAYERS/NOT FOR PLAYERS/0.2. Tidbits/Ballads/The Ballad of Frank the Thorn\|The Ballad of Frank the Thorn]] as a now infamous bards tale, now very much banned from performance across the island.
+In the last 10 years his nickname 'The Foreign' has been distorted into an insult. [[NOT FOR PLAYERS/NOT FOR PLAYERS/0.2. Tidbits/Ballads/The Ballad of Frank the Thorn\|The Ballad of Frank the Thorn]] has now become and infamous bards tale, which is very much banned from performance across the island.
