@@ -13,7 +13,7 @@ The Crown Guard wear the [[World/Settlements/Drakenholm/Insignia of the City of 
 There are a few disciplines that the Crown Guard are trained in. Most are martially trained such as [[World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|Drekaplata]], however some are trained in support roles, such as [[World/Regional Authorities/Whole Island/The Crown Guard/Support/Heilari\|Heilari]], or [[World/Regional Authorities/Whole Island/The Crown Guard/Mixed/Galdur Notandi\|Galdur Notandi]]. Of course, each of these contain members of different ability and rank.
 
 ##### Martial Units
-[[World/Regional Authorities/Whole Island/The Crown Guard/Support/Assassin\|Assassin]]
+[[World/Regional Authorities/Whole Island/The Crown Guard/Support/Assassin - Crown Guard\|Assassin - Crown Guard]]
 [[World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|Drekaplata]]
 [[World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|Duellist]]
 [[World/Regional Authorities/Whole Island/The Crown Guard/Melee/Kappi\|Kappi]]
@@ -28,4 +28,4 @@ There are a few disciplines that the Crown Guard are trained in. Most are martia
 ##### Support Units
 [[World/Regional Authorities/Whole Island/The Crown Guard/Support/Heilari\|Heilari]]
 [[World/Regional Authorities/Whole Island/The Crown Guard/Mixed/Galdur Notandi\|Galdur Notandi]]
-[[World/Regional Authorities/Whole Island/The Crown Guard/Support/Spy\|Spy]]
+[[World/Regional Authorities/Whole Island/The Crown Guard/Support/Spy - Crown Guard\|Spy - Crown Guard]]
