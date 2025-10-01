@@ -3,7 +3,7 @@
 ---
 
 
-The island of [[The World/The Island of Qba/Q'ba\|Q'ba]] is inflicted with an unknown affliction, known as the Klither. 
+The island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] is inflicted with an unknown affliction, known as the Klither. 
 
 The Klither causes intentional planar travel to become impossible, and arcane or divine abilities which affect other planes become Wild Magic, which may cause a spells effect to become random rather than intentional.
 

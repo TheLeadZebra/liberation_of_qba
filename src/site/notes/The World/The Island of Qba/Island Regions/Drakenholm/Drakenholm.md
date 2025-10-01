@@ -3,7 +3,7 @@
 ---
 
 ![Drakenholm - Mapped.jpg](/img/user/zAttachments/Drakenholm%20-%20Mapped.jpg)
-Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/Q'ba\|Q'ba]], sitting high on a plateau between 30 and 60 feet off of the ground. 
+Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 30 and 60 feet off of the ground. 
 
 Drakenholm has the highest density of population of any location by a significant margin. Many of the sentient races  on the island at least have small groupings of individuals that live inside the walls of the city, though the main population is humans, followed by [[The World/Island Races/Dragonkin/Dragonborn\|The World/Island Races/Dragonkin/Dragonborn]]. This mixture of backgrounds has lead to pockets of stylistic variety among the buildings, even within the same districts.
 

@@ -22,6 +22,6 @@ Temples to Astilabor, such as the one in [[The World/The Island of Qba/Island Re
 
 Oftentimes Astilabor is mis-characterized as being a Goddess of Greed, however this is not the case and Astilabor disapproved of [[The World/Deities/The Binary Gods/Tiamat\|Tiamat's]] naked display of it. Astilabor, on rare occasions, gifted a boon from her personal hoard to those who had pleased her.
 
-Astilabor rules over the region of [[The World/The Island of Qba/Island Regions/Astilabors Peak/Astilabors Peak\|Astilabors Peak]] on [[The World/The Island of Qba/Q'ba\|Q'ba]], the land here is gifted with plentiful gems and precious minerals.
+Astilabor rules over the region of [[The World/The Island of Qba/Island Regions/Astilabors Peak/Astilabors Peak\|Astilabors Peak]] on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], the land here is gifted with plentiful gems and precious minerals.
 
 She also resides over the domains of Knowledge and Trickery.
