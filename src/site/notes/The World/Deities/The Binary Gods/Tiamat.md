@@ -37,7 +37,7 @@ As a unique chromatic dragon with the traits of the five most common chromatic v
 Along with all the standard powers and godly senses of a deity of her rank, those who saw her fight claimed that her heads are able to cooperate in battle, and that those heads have the ability to use the breath weapons and spell-like abilities common to their species. Although her sheer size prevents claw and kick attacks while on the ground, she is adept at their use while flying. She also has a stinger on her tail that injects a powerful venom on her foes, killing them in agonizing pain.
 
 #### Followers
-Many evil dragons have worshipped Tiamat since their species first appeared on [[The World/The Island of Qba/The World Beyond Qba/Toril/Toril\|Toril]].  [[The World/Island Races/Dragonkin/Kobolds\|Kobolds]] believed she was their creator, though they did not worship her as a god they revered her as their creator. Since the spellplague she has gained some [[The World/Island Races/Dragonkin/Dragonborn\|The World/Island Races/Dragonkin/Dragonborn]] followers. 
+Many evil dragons have worshipped Tiamat since their species first appeared on [[The World/The Island of Qba/The World Beyond Qba/Toril/Toril\|Toril]].  [[The World/Island Races/Dragonkin/Kobolds of Q'ba\|Kobolds of Q'ba]] believed she was their creator, though they did not worship her as a god they revered her as their creator. Since the spellplague she has gained some [[The World/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] followers. 
 
 The Church of Tiamat is regimented with a strict hierachy of ranks and titles. 
 
