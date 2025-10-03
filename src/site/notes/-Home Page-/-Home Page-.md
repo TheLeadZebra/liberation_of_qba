@@ -8,10 +8,10 @@ Welcome to the Wikisite for The Crown of Thorn, a D&D campaign.
 
 The idea of this site is not so that you will know everything that is coming up, but so that you may know the sort of things your character may know. Use the information here for building a character background, but there's no need to memorise everything, or even anything if that's your preference.
 
-**Character Backstories**: I'm happy to give as much free reign as reasonable here as long as it fits the world. My one main caveat is that you must be wanting to dethrone the tyranical ruler of the island, [[Story/People/Enemies/King Francis Roberts\|King Francis Roberts]], how or why is completely up to you. Further information and more detail will be given during "session Zero's". 
+###### Teaser - Welcome to [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]
 
-If you feel like it, start here: [[The World/The Island of Qba/History of the Island/History of the Island\|History of the Island]]
-To learn about the region in which this campaign will take part, ***[[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Click Here]]***
+To learn about the island as a whole ***[[The World/The Island of Qba/The Island of Qba\|Click Here]]***
+To learn more about how the island got to this point *[[The World/The Island of Qba/History of the Island/History of the Island\|Click Here]]*
 
 Otherwise, the menu is on the left.
 
