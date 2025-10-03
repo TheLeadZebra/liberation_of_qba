@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[The World/The Island of Qba/Island Races/Non-Human/Elves of Q'ba\|Elves of Q'ba]]
+[[zzRules/SRD/04) Backlink Glossary/Species/Elf\|Elf]] (Wood)
 #### Class
-[[zzSRD/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]
+[[zzRules/SRD/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]

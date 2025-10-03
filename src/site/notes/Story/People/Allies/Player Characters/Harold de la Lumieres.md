@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzSRD/04) Backlink Glossary/Species/Halfling\|Halfling]]
+[[zzRules/SRD/04) Backlink Glossary/Species/Halfling\|Halfling]]
 #### Class
-[[zzSRD/04) Backlink Glossary/Classes/Warlock/Warlock\|Warlock]]
+[[zzRules/SRD/04) Backlink Glossary/Classes/Warlock/Warlock\|Warlock]]

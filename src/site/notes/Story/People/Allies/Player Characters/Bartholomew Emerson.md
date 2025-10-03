@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans of Q'ba]]
+[[zzRules/SRD/04) Backlink Glossary/Species/Human\|Human]]
 #### Class
-[[zzSRD/04) Backlink Glossary/Classes/Ranger/Ranger\|Ranger]]
+[[zzRules/SRD/04) Backlink Glossary/Classes/Ranger/Ranger\|Ranger]]

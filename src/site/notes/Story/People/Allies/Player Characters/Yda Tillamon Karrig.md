@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzSRD/04) Backlink Glossary/Species/Human\|Human]]
+[[zzRules/SRD/04) Backlink Glossary/Species/Human\|Human]]
 #### Class
-[[zzSRD/04) Backlink Glossary/Classes/Cleric/Cleric\|Cleric]]
+[[zzRules/SRD/04) Backlink Glossary/Classes/Cleric/Cleric\|Cleric]]
