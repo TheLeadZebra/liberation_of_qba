@@ -5,7 +5,7 @@
 It was not in the nature of the first settlers to leave detailed notes for future generations, and many of the notes that did exist were destroyed in a fire which blazed through much of early [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]. However, some events of note have been documented, at least vaguely.
 
 #### Formation of the Island
-Almost 1000 years ago, a comet passed close to [[The World/The Island of Qba/The World Beyond Qba/Toril/Toril\|Toril]], our home world. It was expected to pass the planet without issue, and it did. However, a second body was following behind the comet. This second body was caught by the gravitational pull of the planet and crashed into The Great Sea. It is believed that this meteorite became the island now known as [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. 
+Almost 1000 years ago, a comet passed close to [[The World/The World Beyond Qba/Toril/Toril\|Toril]], our home world. It was expected to pass the planet without issue, and it did. However, a second body was following behind the comet. This second body was caught by the gravitational pull of the planet and crashed into The Great Sea. It is believed that this meteorite became the island now known as [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. 
 
 #### Here There Be Dragons
 The first settlers of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] were [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]], the area where they landed became known as [[The World/The Island of Qba/Island Regions/Kings Landing/Kings Landing\|Kin's Landing]]. For whatever reason they came to the island, they discovered that it had already been blessed by gods to sustain life. Most of the island was covered in a luscious greenery, and the beginnings of new biomes, like fresh sprigs.
@@ -21,7 +21,7 @@ Soon new settlements spawned within each of the four regions of the island. [[Th
 
 Each of these settlements was tiny, and required constant supply from [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] to sustain itself, but benefitted from the liberty away from the cramped and labyrinthine streets of a city which grew faster than plans could be made.
 
-This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[The World/The Island of Qba/The World Beyond Qba/Toril/Far-Off Lands/Far-Off Lands\|Far-Off Lands]], of whom some would rarely remain on the island.
+This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[The World/The World Beyond Qba/Toril/Far-Off Lands/Far-Off Lands\|Far-Off Lands]], of whom some would rarely remain on the island.
 
 #### A Pot Boiled Over
 Around 300 years ago, [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] died, as many had done before. However, this time was different.
