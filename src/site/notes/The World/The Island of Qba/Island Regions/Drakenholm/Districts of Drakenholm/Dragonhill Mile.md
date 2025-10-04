@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/dragonhill-mile/"}
+---
+
+Dragonhill Mile is a district of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] which runs up the centre of the city, connecting [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Beggars Gate\|Beggars Gate]] and the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Military District\|Military District]] directly. Though on an incline, this part of the city houses the wealthiest of [[Story/Factions/Nobles\|Nobles]] with the most grandiose houses, though they lack the height of the housing in the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Upper Quarters\|White Gardens]] district. 
+
+These manors focus heavily on the use of glass in their architecture, and are magically infused with soot and charcoal from [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]] district. From the outside the glass appears tinted with various greys or blacks, but from the inside of the house the windows are perfectly transparent, allowing light in. Rare and a expensive gems are required in this glassmaking art, making these types of windows extremely expensive and sought after.
