@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/zz-rules/pack-it/core-rules/accessing-the-backpack/"}
 ---
 
-#### Failed to prepare? Not prepared to fail? Don't worry, there is still hope.
+#### ***Failed to prepare? Not prepared to fail? Don't worry, there is still hope.***
 
 Is the BBEG resistant to bludgeoning and you only equipped your warhammer? Unfortunately it's going to take some time to fix it, but worry not because you have now created a decision for yourself and we all know that making decisions is the true fun in Tabletop RPGs.
 
