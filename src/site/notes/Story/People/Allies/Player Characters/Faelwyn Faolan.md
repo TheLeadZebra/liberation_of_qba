@@ -5,4 +5,4 @@
 #### Species
 [[zzRules/Basic Rules (SRD)/04) Backlink Glossary/Species/Elf\|Elf]] (Wood)
 #### Class
-[[zzSRD/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]
+[[zzRules/SRD/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]
