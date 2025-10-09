@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzRules/Basic Rules (SRD)/04) Backlink Glossary/Species/Human\|Human]]
+[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Species/Human\|Human]]
 #### Class
-[[zzRules/Basic Rules (SRD)/04) Backlink Glossary/Classes/Ranger/Ranger\|Ranger]]
+[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Classes/Ranger/Ranger\|Ranger]]

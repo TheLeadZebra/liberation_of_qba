@@ -3,7 +3,7 @@
 ---
 
 
-![Ilmater Icon.webp](/img/user/zAttachments/Ilmater%20Icon.webp)
+![Ilmater Icon.webp](/img/user/zzzAttachments/Ilmater%20Icon.webp)
 **Symbol** - A pair of white, human hands, bound with a red cord.
 
 Ilmater is the name of the [[The World/Deities/Deities\|Deity]] brought to the island by the [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans]] upon their arrival to [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]].

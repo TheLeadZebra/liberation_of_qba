@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/null/"}
 ---
 
-![Null Icon.webp](/img/user/zAttachments/Null%20Icon.webp)
+![Null Icon.webp](/img/user/zzzAttachments/Null%20Icon.webp)
 **Symbol** - The skull of an ancient dragon
 
 *"May Null watch over you, as you rest"*

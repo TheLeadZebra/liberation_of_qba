@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/garyx/"}
 ---
 
-![Garyx Icon.webp](/img/user/zAttachments/Garyx%20Icon.webp)
+![Garyx Icon.webp](/img/user/zzzAttachments/Garyx%20Icon.webp)
 **Symbol** - A draconic eye, imposed over a red flame.
 
 *"May the fires wash away your sins"*

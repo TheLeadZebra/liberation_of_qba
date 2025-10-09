@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/tamara/"}
 ---
 
-![Tamara Icon.webp](/img/user/zAttachments/Tamara%20Icon.webp)
+![Tamara Icon.webp](/img/user/zzzAttachments/Tamara%20Icon.webp)
 
 **Symbol** - A seven-pointed star on a field of black.
 

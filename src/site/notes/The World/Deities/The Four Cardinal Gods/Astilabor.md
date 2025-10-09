@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/astilabor/"}
 ---
 
-![Astilabor Icon.webp](/img/user/zAttachments/Astilabor%20Icon.webp)
+![Astilabor Icon.webp](/img/user/zzzAttachments/Astilabor%20Icon.webp)
 
 **Symbol** - A twelve-faceted Gem - seen upon a sheild above.
 

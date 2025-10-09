@@ -4,7 +4,7 @@
 
 Tiamat is the dragon goddess of greed, and queen lawful evil dragons.
 
-![Tiamat.png](/img/user/zAttachments/Tiamat.png)
+![Tiamat.png](/img/user/zzzAttachments/Tiamat.png)
 **Symbol -** 5 dragon claws, each a colour matching one of Tiamat's heads. Sometimes 5 Draconic heads are used instead of claws.
 
 #### Form
@@ -14,7 +14,7 @@ Tiamat has three main avatars;
 
 As *The Chromatic Dragon*, she has stubby legs and five heads, which could be any combination of colours belonging to a chromatic dragon. The skin of each head formed into three stripes- blue-green, grey, and purple, these stripes then merged again to form her brown skin which covered her tail.
 
-*[[The World/Legendary Figures/The Dark Lady\|The Dark Lady]]*, a Mulan woman with long, dark hair and completely black eyes. She always wore robes and often had a seductive smile on her face. 
+*[[The World/Legendary Figures/Avatars/The Dark Lady\|The Dark Lady]]*, a Mulan woman with long, dark hair and completely black eyes. She always wore robes and often had a seductive smile on her face. 
 
 *The Undying Queen* is a dracolich version of her Chromatic Dragon form.
  
