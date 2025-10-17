@@ -23,7 +23,7 @@
 | Bucket                 | Medium              |
 | Burglar's Pack         | N/A                 |
 | Caltrops               | Small               |
-| Candle                 | Small               |
+| Candle                 | Small/2             |
 | Case, Crossbow Bolt    | Ammunition Slot     |
 | Case, Map or Scroll    | Small               |
 | Chain                  | Medium              |
@@ -84,6 +84,6 @@
 | String                 | Small/10ft          |
 | Tent                   | Large               |
 | Tinderbox              | Small               |
-| Torch                  | Small               |
+| Torch                  | Small/2             |
 | Vial                   | Small               |
 | Waterskin              | Small               |

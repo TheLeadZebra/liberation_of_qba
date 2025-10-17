@@ -63,7 +63,7 @@ The size of an item should be decided by the table, with the DM having the final
 
 These items can be described by the following categories:  
 **Trinket - negligible space used** (tiny single items, lockets, gems, featherweight items etc)  
-**Small - 1 Compartment Space** (A candle, quite light items etc)  
+**Small - 1 Compartment Space** (A couple of candles, quite light items etc)  
 **Medium - 3 Compartment Spaces** (A shoebox, fairly weighty items etc)  
 **Large - 6 Compartment Spaces** (A small painting, somewhat heavy items etc)  
 **Oversized - Cannot fit in backpack, or very heavy**. If an item requires more spaces than a Backpack Compartment holds, this item cannot be placed into the backpack. Such items must be carried by hand, if they could even be liftable at all. (e.g an anvil, or a small anvil etc)  
