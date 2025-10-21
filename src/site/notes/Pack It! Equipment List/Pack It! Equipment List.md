@@ -14,7 +14,7 @@
 | Ball Bearings          | Small               |
 | Barrel                 | Oversized           |
 | Basket                 | Oversized           |
-| Bedroll                | Large               |
+| Bedroll                | Medium              |
 | Bell                   | Small               |
 | Blanket                | Medium              |
 | Block and Tackle       | Medium              |
@@ -72,7 +72,7 @@
 | Ram, Portable          | Large               |
 | Rations                | Small/5             |
 | Robe                   | Medium              |
-| Rope                   | Large/50ft          |
+| Rope                   | Medium/50ft         |
 | Sack                   | N/A                 |
 | Scholar's Pack         | N/A                 |
 | Shovel                 | Large               |
@@ -84,6 +84,6 @@
 | String                 | Small/10ft          |
 | Tent                   | Large               |
 | Tinderbox              | Small               |
-| Torch                  | Small/2             |
+| Torch                  | Small/3             |
 | Vial                   | Small               |
 | Waterskin              | Small               |
