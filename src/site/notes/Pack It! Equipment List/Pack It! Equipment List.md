@@ -91,3 +91,5 @@
 | Any Weapon, Light       | Small               |
 | Any Weapon, Reach/Heavy | Large               |
 | Shield                  | Medium              |
+| Tools, Any              | Medium              |
+|                         |                     |
