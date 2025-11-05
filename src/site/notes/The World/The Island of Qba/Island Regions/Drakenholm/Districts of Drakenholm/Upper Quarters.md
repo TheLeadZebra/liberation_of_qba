@@ -8,7 +8,7 @@ The White Gardens District, colloquially known as the Upper Quarters, is a distr
 - The Wyrmweave - Atelier
 - Threads of the Silvermoon - Tailor
 - [[The Silver Serpent\|The Silver Serpent]] - Tavern
-- Dragontooth Quill - Writing Equipment and Scribe
+- [[Dragontooth Quill\|Dragontooth Quill]] - Writing Equipment and Scribe
 - Liv's Elixirs - Potion shop
 - Obsidian Owl - Bookshop
 - The Hoard - Antique Shop

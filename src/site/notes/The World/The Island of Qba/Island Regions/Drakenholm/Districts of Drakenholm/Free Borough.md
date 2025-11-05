@@ -16,5 +16,6 @@ During times of civil unrest within the last decade, temples to deities consider
 - [[The World/Deities/Human Gods/Ilmatar\|Ilmatar]] - Under Repair
 
 ##### Guildhalls:
+Wizard's Guild
 
 #wip 

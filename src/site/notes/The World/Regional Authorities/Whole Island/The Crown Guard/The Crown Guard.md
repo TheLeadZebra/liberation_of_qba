@@ -10,12 +10,12 @@ The Crown Guard are mainly focussed within [[The World/The Island of Qba/Island 
 The Crown Guard wear the [[The World/The Island of Qba/Island Regions/Drakenholm/Insignia of the City of Drakenholm\|Insignia of the City of Drakenholm]], embossed on their clothing, such as their chest plate, as well as their shields.
 
 ### Archetypes
-There are a few disciplines that the Crown Guard are trained in. Most are martially trained such as [[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|Drekaplata]], however some are trained in support roles, such as [[The World/Regional Authorities/Whole Island/The Crown Guard/Support/Heilari\|Heilari]], or [[The World/Regional Authorities/Whole Island/The Crown Guard/Mixed/Galdur Notandi\|Galdur Notandi]]. Of course, each of these contain members of different ability and rank.
+There are a few disciplines that the Crown Guard are trained in. Most are martially trained such as [[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata]], however some are trained in support roles, such as [[The World/Regional Authorities/Whole Island/The Crown Guard/Support/Heilari\|Heilari]], or [[The World/Regional Authorities/Whole Island/The Crown Guard/Mixed/Galdur Notandi\|Galdur Notandi]]. Of course, each of these contain members of different ability and rank.
 
 ##### Martial Units
 [[The World/Regional Authorities/Whole Island/The Crown Guard/Support/Assassin - Crown Guard\|Assassin - Crown Guard]]
-[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|Drekaplata]]
-[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|Duellist]]
+[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata]]
+[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist]]
 [[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Kappi\|Kappi]]
 
 ##### Mixed Units
