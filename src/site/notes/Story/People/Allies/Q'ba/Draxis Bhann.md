@@ -7,8 +7,7 @@ Draxis Bhann is a green Dragonborn who wears the air of nobility well. He is oft
 
 Drax has quite a significant tan-line around his forehead from commonly wearing a hat accessory, he also carries and leans heavily on his cane, though this is merely a ruse for his cane can swiftly reveal a hidden shortsword, and the sheathe is sturdy enough that it can be used as to parry away attacks.
 
-
-![Draxis Bhann.png](/img/user/zzzAttachments/Draxis%20Bhann.png)
+![Draxis Bhann.png|200](/img/user/zzzAttachments/Draxis%20Bhann.png)
 
 ##### Race
 Green [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn]] (Poison)
