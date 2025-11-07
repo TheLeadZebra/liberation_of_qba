@@ -3,7 +3,7 @@
 ---
 
 ![GL_GrandCathedralInterior_Original_Day.jpg|400](/img/user/zAttachments/GL_GrandCathedralInterior_Original_Day.jpg)
-*(Image to envoke a feeling, not completely accurate to the real location)*
+*(Image to evoke a feeling, not completely accurate to the real location)*
 
 The Temple of Tamara is a place of worship to [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]], one of [[The World/Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. The temple sits in [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]] and is the eastern temple in the cardinal sector. 
 

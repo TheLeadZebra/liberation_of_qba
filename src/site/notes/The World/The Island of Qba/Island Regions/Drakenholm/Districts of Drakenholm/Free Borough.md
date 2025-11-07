@@ -7,11 +7,11 @@ Free Borough is a district of [[The World/The Island of Qba/Island Regions/Drake
 During times of civil unrest within the last decade, temples to deities considered to align with negative traits within this city have been targeted with assaults and vandalism.
 
 ##### Temples:
-- [[The World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] - Destroyed
-- [[The World/Deities/The Binary Gods/Bahamut\|Bahamut]]
+- [[Temple of Astilabor\|Temple of Astilabor]] - Destroyed
+- [[Temple of Bahamut\|Temple of Bahamut]]
 - [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]] - Destroyed
 - [[The World/Deities/The Four Cardinal Gods/Null\|Null]] - Sealed
-- [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]
+- [[Temple of Tamara\|Temple of Tamara]]
 - [[The World/Deities/The Binary Gods/Tiamat\|Tiamat]] - Destroyed
 - [[The World/Deities/Human Gods/Ilmatar\|Ilmatar]] - Under Repair
 
