@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/allies/q-ba/draxis-bhann/","tags":["#Drakenholm"]}
+{"dg-publish":true,"permalink":"/the-world/notable-people/allies/q-ba/draxis-bhann/"}
 ---
 
 ##### Appearance
-Draxis Bhann is a green Dragonborn who wears the air of nobility well. He is often seen wearing suits featuring draconic iconography such as scales, or sometimes simple pinstripes, but the stitching is always golden thread. 
+Draxis "Drax" Bhann is a green Dragonborn who wears the air of nobility well. He is often seen wearing suits featuring draconic iconography such as scales, or sometimes simple pinstripes, but the stitching is always golden thread. 
 
 ![Draxis Bhann.png|200](/img/user/zzzAttachments/Draxis%20Bhann.png)
 
