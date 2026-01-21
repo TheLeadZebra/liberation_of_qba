@@ -14,6 +14,6 @@ The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
 Cog and Crucible - [[The World/Stores/Store Types/Alchemy and Potion Shops/Alchemy and Potion Shops\|Alchemist]]
 [[The World/Stores/Store Types/Street Traders/Street Traders\|Street Traders]]
 [[The World/Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[The World/Stores/Store Types/Taverns & Inns/Taverns & Inns\|Tavern and Boardhouse]]
-
+[[Ingriths House\|Ingriths House]]
 
 #wip 
