@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/kings-landing/kings-landing/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/kings-landing/kings-landing/","tags":["Location"]}
 ---
 
 King's Landing is the Trade port of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] and is itself split into 3 distinct sectors.

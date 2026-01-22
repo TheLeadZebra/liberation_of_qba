@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/regional-authorities/whole-island/the-crown-guard/the-crown-guard/"}
+{"dg-publish":true,"permalink":"/the-world/regional-authorities/whole-island/the-crown-guard/the-crown-guard/","tags":["lore"]}
 ---
 
 

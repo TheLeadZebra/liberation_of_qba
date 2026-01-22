@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/astilabor/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/astilabor/","tags":["Character"]}
 ---
 
 ![Astilabor Icon.webp](/img/user/zzzAttachments/Astilabor%20Icon.webp)

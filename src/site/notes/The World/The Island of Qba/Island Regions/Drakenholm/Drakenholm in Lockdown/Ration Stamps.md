@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm-in-lockdown/ration-stamps/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm-in-lockdown/ration-stamps/","tags":["lore"]}
 ---
 
 The city of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] is in lockdown. Whilst supply caravans have the ability to enter the city, they are restricted.

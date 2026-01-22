@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/folk-tales/the-just/"}
+{"dg-publish":true,"permalink":"/the-world/notable-people/folk-tales/the-just/","tags":["lore"]}
 ---
 
 The Just is a moniker of a character in the story of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]'s civil war somewhere around the year 1200. Their true name is lost to time.

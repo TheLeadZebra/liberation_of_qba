@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/settlements/the-kindred-redhearts/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/settlements/the-kindred-redhearts/","tags":["Location"]}
 ---
 
 The Kindred Redhearts are a nomadic clan of Garyx worshippers that live in [[The World/The Island of Qba/Island Regions/The Desert/The Desert\|The Desert]]. Their exact location often moves regularly, but it tends to be within short distance of any oasis. The oasis itself, known as [[The World/The Island of Qba/Island Regions/The Desert/Points of Interest/The Tears of Garyx\|The Tears of Garyx]], often dries up in the blistering sun of [[The World/The Island of Qba/Island Regions/The Desert/The Desert\|The Desert]] and regularly renews itself in a new location during the aggressive lighting and rain storms that occur nightly. 

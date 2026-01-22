@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/null/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/null/","tags":["Character"]}
 ---
 
 ![Null Icon.webp](/img/user/zzzAttachments/Null%20Icon.webp)

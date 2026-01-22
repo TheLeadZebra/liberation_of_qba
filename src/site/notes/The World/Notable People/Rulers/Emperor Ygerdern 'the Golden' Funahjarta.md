@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/rulers/emperor-ygerdern-the-golden-funahjarta/"}
+{"dg-publish":true,"permalink":"/the-world/notable-people/rulers/emperor-ygerdern-the-golden-funahjarta/","tags":["Character"]}
 ---
 
 Ygerdern was a golden [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]], and a follower of [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]] as his father, [[The World/Notable People/Rulers/Draumur 'Greenscale' Funahjarta\|Greenscale]] was before him. 

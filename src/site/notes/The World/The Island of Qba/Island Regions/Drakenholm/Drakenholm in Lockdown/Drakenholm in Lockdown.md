@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm-in-lockdown/drakenholm-in-lockdown/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm-in-lockdown/drakenholm-in-lockdown/","tags":["lore"]}
 ---
 
 The city of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] is in lockdown after an attempted assassination of [[The World/Notable People/Enemies/King Francis Roberts\|King Francis Roberts]].

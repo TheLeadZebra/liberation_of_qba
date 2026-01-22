@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/old-town/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/old-town/","tags":["Location"]}
 ---
 
 Old Town is a district of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]. As the name suggests it is the oldest section of the city, having been built at the time of the cities founding. Much of the city, as it stood then, has since been destroyed during a battle over [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/Succession of The Crown\|Succession]], Old Town is all that remains. 

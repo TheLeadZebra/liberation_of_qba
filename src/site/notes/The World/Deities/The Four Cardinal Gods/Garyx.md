@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/garyx/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/garyx/","tags":["Character"]}
 ---
 
 ![Garyx Icon.webp](/img/user/zzzAttachments/Garyx%20Icon.webp)

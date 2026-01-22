@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/rulers/draumur-greenscale-funahjarta/"}
+{"dg-publish":true,"permalink":"/the-world/notable-people/rulers/draumur-greenscale-funahjarta/","tags":["Character"]}
 ---
 
 

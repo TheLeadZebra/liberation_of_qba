@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/the-castle/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/the-castle/","tags":["Location"]}
 ---
 
 The Castle, a spire structure which sits within the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Military District\|Military District]] of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] in [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. Home to [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], and heavily protected by [[The World/Regional Authorities/Whole Island/The Crown Guard/The Crown Guard\|The Crown Guard]]. The building also contains a handful of governing spaces such as a council room and throne room, which doubles as a court room. The Castle also connects to the City Barracks, Jail and Dungeons as part of the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Military District\|Military District]].

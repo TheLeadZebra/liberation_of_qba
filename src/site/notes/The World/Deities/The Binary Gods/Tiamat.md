@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-binary-gods/tiamat/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-binary-gods/tiamat/","tags":["Character"]}
 ---
 
 Tiamat is the dragon goddess of greed, and queen lawful evil dragons.

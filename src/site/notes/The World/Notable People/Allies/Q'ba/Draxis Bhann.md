@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/allies/q-ba/draxis-bhann/"}
+{"dg-publish":true,"permalink":"/the-world/notable-people/allies/q-ba/draxis-bhann/","tags":["Character"]}
 ---
 
 ##### Appearance

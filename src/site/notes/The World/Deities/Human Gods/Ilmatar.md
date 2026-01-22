@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/human-gods/ilmatar/"}
+{"dg-publish":true,"permalink":"/the-world/deities/human-gods/ilmatar/","tags":["Character"]}
 ---
 
 

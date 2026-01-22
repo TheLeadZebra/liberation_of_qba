@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/the-island-of-qba/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/the-island-of-qba/","tags":["Location"]}
 ---
 
 Q'ba is the island of note on which the campaign A Crown of Thorn takes place. The island exists on the Planet of [[The World/The World Beyond Qba/Toril/Toril\|Toril]], home to the Forgotten Realms.

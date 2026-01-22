@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ban-anodised-titanium/"}
+{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ban-anodised-titanium/","tags":["lore"]}
 ---
 
 Anodising titanium is a highly skilled art, on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] which can only be performed by [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Electric Dragonborn]].

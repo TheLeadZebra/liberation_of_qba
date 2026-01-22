@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/points-of-interest/statue-of-greenscale/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/points-of-interest/statue-of-greenscale/","tags":["lore"]}
 ---
 
 The Statue of Greenscale is a Great Work of Art produced by [[The World/Notable People/Artisans/Stor Ondun\|Stor Ondun]].

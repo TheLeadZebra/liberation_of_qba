@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/dimmafall/dimmafall/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/dimmafall/dimmafall/","tags":["Location"]}
 ---
 
 

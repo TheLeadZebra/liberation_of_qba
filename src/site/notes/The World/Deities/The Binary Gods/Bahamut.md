@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-binary-gods/bahamut/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-binary-gods/bahamut/","tags":["Character"]}
 ---
 
 Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful good dragons. 

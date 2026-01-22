@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/points-of-interest/the-tears-of-garyx/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/points-of-interest/the-tears-of-garyx/","tags":["lore"]}
 ---
 
 

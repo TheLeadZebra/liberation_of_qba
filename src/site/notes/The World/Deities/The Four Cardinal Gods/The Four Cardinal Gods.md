@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/the-four-cardinal-gods/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/the-four-cardinal-gods/","tags":["lore"]}
 ---
 
 The Four Cardinal Gods are each of the primary gods of the island, with each having their own domains and associated regions on the island.

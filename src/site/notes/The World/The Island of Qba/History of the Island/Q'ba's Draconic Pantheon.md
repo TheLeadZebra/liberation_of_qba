@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/q-ba-s-draconic-pantheon/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/q-ba-s-draconic-pantheon/","tags":["lore"]}
 ---
 
 

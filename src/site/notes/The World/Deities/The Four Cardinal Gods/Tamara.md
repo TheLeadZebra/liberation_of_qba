@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/tamara/"}
+{"dg-publish":true,"permalink":"/the-world/deities/the-four-cardinal-gods/tamara/","tags":["Character"]}
 ---
 
 ![Tamara Icon.webp](/img/user/zzzAttachments/Tamara%20Icon.webp)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-world-beyond-qba/toril/far-off-lands/far-off-lands/"}
+{"dg-publish":true,"permalink":"/the-world/the-world-beyond-qba/toril/far-off-lands/far-off-lands/","tags":["lore"]}
 ---
 
 Anywhere else in the world of [[The World/The World Beyond Qba/Toril/Toril\|Toril]], referring to any location outside of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. For example the continent of Faerûn, home to the Sword Coast.
