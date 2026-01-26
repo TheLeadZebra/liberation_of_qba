@@ -10,6 +10,57 @@ Think of negotiation as something like learning a new system for combat, explora
 
 Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the Director know what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and Directors understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
 
+# Page Contents
+> [!multi-column]
+>
+>>- [[#When to Negotiate]]
+>>	- [[#Limits of Negotiation]]
+>>	- [[#The Threat of Violence]]
+>> - [[#Negotiation Stats]]
+>>	- [[#Interest]]
+>>	- [[#Patience]]
+>>		- [[#Language and Patience]]
+>>	- [[#Motivations]]
+>>	- [[#Pitfalls]]
+>>	- [[#List of Motivations and Pitfalls]]
+>>		- [[#Benevolence]]
+>>		- [[#Discovery]]
+>>		- [[#Freedom]]
+>>		- [[#Greed]]
+>>		- [[#Higher Authority]]
+>>		- [[#Justice]]
+>>		- [[#Legacy]]
+>>		- [[#Peace]]
+>>		- [[#Power]]
+>>		- [[#Protection]]
+>>		- [[#Revelry]]
+>>		- [[#Vengeance]]
+>> - [[#Opening a Negotiation]]
+>>	- [[#Stop Combat, Start Negotiation]]
+>>	- [[#Starting Stats]]
+>>		- [[#Negotiation Starting Attitudes Table]]
+>
+>>- [[#Uncovering Motivations]]
+>>	- [[#Outside of Negotiation]]
+>>- [[#Making Arguments]]
+>>	- [[#Appeal to Motivation]]
+>>	- [[#No Motivation or Pitfall]]
+>>	- [[#Caught in a Lie]]
+>>	- [[#Pitfall Used]]
+>>	- [[#Renown and Negotiation]]
+>>		- [[#Fame or Infamy?]]
+>>		- [[#Influencing Tests]]
+>>- [[#NPC Response and Offer]]
+>>	- [[#Interest 6 ("Yes, and...")]]
+>>	- [[#Interest 5 ("Yes.")]]
+>>	- [[#Interest 4 ("Yes, but...")]]
+>>	- [[#Interest 3 ("No, but...")]]
+>>	- [[#Interest 2 ("No.")]]
+>>	- [[#Interest 1 ("No, and...")]]
+>>- [[#Keep Going or Stop]]
+>>- [[#Draw Steel Test Types (For reference)]]
+>>- [[#Sample Negotiation]]
+
 ### When to Negotiate
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighbouring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
@@ -424,6 +475,12 @@ A hard test has a greater risk of failure, and most heroes are likely to suffer 
 - **≤11:** You fail the task and incur a consequence.
 - **12-16:** You fail the task.
 - **17+:** You succeed on the task.
+
+### Sample Negotiation
+
+After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
+
+The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
