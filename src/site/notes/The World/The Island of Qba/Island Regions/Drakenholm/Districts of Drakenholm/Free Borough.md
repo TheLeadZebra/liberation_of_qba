@@ -13,7 +13,7 @@ During times of civil unrest within the last decade, temples to deities consider
 - [[The World/Deities/The Four Cardinal Gods/Temples/Temple of Null\|Temple of Null]] - Sealed
 - [[The World/Deities/The Four Cardinal Gods/Temples/Temple of Tamara\|Temple of Tamara]]
 - [[The World/Deities/The Binary Gods/Temples/Temple of Tiamat\|Temple of Tiamat]] - Destroyed
-- [[Temple of Ilmatar (The Church of Saint Francis)\|Temple of Ilmatar (The Church of Saint Francis)]] - Under Repair
+- [[The World/Deities/Human Gods/Temples/Temple of Ilmatar (The Church of Saint Francis)\|Temple of Ilmatar (The Church of Saint Francis)]] - Under Repair
 
 ##### Guildhalls:
 Wizard's Guild
