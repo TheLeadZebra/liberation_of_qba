@@ -11,7 +11,7 @@ Think of negotiation as something like learning a new system for combat, explora
 Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the Director know what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and Directors understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
 
 # Page Contents
-- [[#When to Negotiate]]
+- [[zzRules/Negotiation (Draw Steel Conversion)/Negotiation (Draw Steel Conversion)#When to Negotiate\|When to Negotiate]]
 	- [[#Limits of Negotiation]]
 	- [[#The Threat of Violence]]
 - [[#Negotiation Stats]]
