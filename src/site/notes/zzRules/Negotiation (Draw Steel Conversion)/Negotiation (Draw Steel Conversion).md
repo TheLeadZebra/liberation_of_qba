@@ -58,6 +58,7 @@ Negotiation is a framework for important roleplaying encounters in which the her
 - [[#Draw Steel Test Types (For reference)]]
 - [[#Sample Negotiation]]
 
+[[#When to Negotiate]]
 ### When to Negotiate
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighbouring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
