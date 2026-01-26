@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/notable-people/enemies/king-francis-roberts/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/the-world/notable-people/enemies/king-francis-roberts/","tags":["King_Francis_Roberts"]}
 ---
 
 King Francis Roberts is a human and often given the nickname of 'The Foreign' as a term of endearment. Francis Roberts is the current [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|Crown]] of the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] and the first non-[[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] to hold the title. He is a powerful wizard and the leader of a [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans of Q'ba]] research expedition which settled on the island. 
