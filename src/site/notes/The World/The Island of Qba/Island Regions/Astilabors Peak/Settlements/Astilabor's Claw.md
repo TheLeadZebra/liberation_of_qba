@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/settlements/astilabor-s-claw/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/settlements/astilabor-s-claw/","tags":["Location"]}
 ---
 
 

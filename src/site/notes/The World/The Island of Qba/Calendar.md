@@ -4,7 +4,7 @@
 
 ### The Draconian Calendar
 
-The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with every third month having a seven-day intercalary, each of these intercalaries are a celebration of one of  [[The World/Deities/The Four Cardinal Gods/The Four Cardinal Gods\|The Four Cardinal Gods]].
+The Draconian Calendar contains three hundred and sixty four days, split into twelve months of twenty-eight days each, with every third month having a seven-day intercalary, each of these intercalaries are a celebration of one of  [[The World/Deities/The Four Cardinal Gods\|The Four Cardinal Gods]].
 
 ###### Example Calendar:
 ![Example Calendar.png](/img/user/zzzAttachments/Example%20Calendar.png)
@@ -31,21 +31,21 @@ The intercalary seven-day marks beginning of festivities to the god of that seas
 
 | #      | Name      | Season | God           | Celebration |
 | ------ | --------- | ------ | ------------- | ----------- |
-| **1**  | Sorg      | Winter | [[The World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
-| **A**  | Tamara    | Spring | [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    | Life        |
-| **2**  | Miskunn   | Spring | [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
-| **3**  | Leevith   | Spring | [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
-| **4**  | Voxtur    | Spring | [[The World/Deities/The Four Cardinal Gods/Tamara\|Tamara]]    |             |
-| **B**  | Garyx     | Summer | [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     | Fire        |
-| **5**  | Endur     | Summer | [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
-| **6**  | Aldur     | Summer | [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
-| **7**  | Eyding    | Summer | [[The World/Deities/The Four Cardinal Gods/Garyx\|Garyx]]     |             |
-| **C**  | Astilabor | Autumn | [[The World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] | Harvest     |
-| **8**  | Eiga      | Autumn | [[The World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
-| **9**  | Oopskera  | Autumn | [[The World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
-| **10** | Gemsla    | Autumn | [[The World/Deities/The Four Cardinal Gods/Astilabor\|Astilabor]] |             |
-| **D**  | Null      | Winter | [[The World/Deities/The Four Cardinal Gods/Null\|Null]]      | Death       |
-| **11** | Lautast   | Winter | [[The World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
-| **12** | Muna      | Winter | [[The World/Deities/The Four Cardinal Gods/Null\|Null]]      |             |
+| **1**  | Sorg      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
+| **A**  | Tamara    | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    | Life        |
+| **2**  | Miskunn   | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **3**  | Leevith   | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **4**  | Voxtur    | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **B**  | Garyx     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     | Fire        |
+| **5**  | Endur     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **6**  | Aldur     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **7**  | Eyding    | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **C**  | Astilabor | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] | Harvest     |
+| **8**  | Eiga      | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **9**  | Oopskera  | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **10** | Gemsla    | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **D**  | Null      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      | Death       |
+| **11** | Lautast   | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
+| **12** | Muna      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
 
 
