@@ -22,7 +22,7 @@ The island itself has a daily special drink, which is synchronous across the isl
 	- [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]]
 		- Bitter Black
 		- Dagger in the Fire Bourbon
-		- Delayed Blast
+		- Delayed Blast - Wine (Yda drank)
 		- Evermead
 		- Faerûn Pale Ale
 		- Flamebeard's Firebrandy
