@@ -31,21 +31,21 @@ The intercalary seven-day marks beginning of festivities to the god of that seas
 
 | #      | Name      | Season | God           | Celebration |
 | ------ | --------- | ------ | ------------- | ----------- |
-| **1**  | Sorg      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
-| **A**  | Tamara    | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    | Life        |
-| **2**  | Miskunn   | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
-| **3**  | Leevith   | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
-| **4**  | Voxtur    | Spring | [[- 0 Archive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
-| **B**  | Garyx     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     | Fire        |
-| **5**  | Endur     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
-| **6**  | Aldur     | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
-| **7**  | Eyding    | Summer | [[- 0 Archive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
-| **C**  | Astilabor | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] | Harvest     |
-| **8**  | Eiga      | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
-| **9**  | Oopskera  | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
-| **10** | Gemsla    | Autumn | [[- 0 Archive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
-| **D**  | Null      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      | Death       |
-| **11** | Lautast   | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
-| **12** | Muna      | Winter | [[- 0 Archive (Notes that have been merged into others)/Null\|Null]]      |             |
+| **1**  | Sorg      | Winter | [[zzzzArchive (Notes that have been merged into others)/Null\|Null]]      |             |
+| **A**  | Tamara    | Spring | [[zzzzArchive (Notes that have been merged into others)/Tamara\|Tamara]]    | Life        |
+| **2**  | Miskunn   | Spring | [[zzzzArchive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **3**  | Leevith   | Spring | [[zzzzArchive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **4**  | Voxtur    | Spring | [[zzzzArchive (Notes that have been merged into others)/Tamara\|Tamara]]    |             |
+| **B**  | Garyx     | Summer | [[zzzzArchive (Notes that have been merged into others)/Garyx\|Garyx]]     | Fire        |
+| **5**  | Endur     | Summer | [[zzzzArchive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **6**  | Aldur     | Summer | [[zzzzArchive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **7**  | Eyding    | Summer | [[zzzzArchive (Notes that have been merged into others)/Garyx\|Garyx]]     |             |
+| **C**  | Astilabor | Autumn | [[zzzzArchive (Notes that have been merged into others)/Astilabor\|Astilabor]] | Harvest     |
+| **8**  | Eiga      | Autumn | [[zzzzArchive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **9**  | Oopskera  | Autumn | [[zzzzArchive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **10** | Gemsla    | Autumn | [[zzzzArchive (Notes that have been merged into others)/Astilabor\|Astilabor]] |             |
+| **D**  | Null      | Winter | [[zzzzArchive (Notes that have been merged into others)/Null\|Null]]      | Death       |
+| **11** | Lautast   | Winter | [[zzzzArchive (Notes that have been merged into others)/Null\|Null]]      |             |
+| **12** | Muna      | Winter | [[zzzzArchive (Notes that have been merged into others)/Null\|Null]]      |             |
 
 

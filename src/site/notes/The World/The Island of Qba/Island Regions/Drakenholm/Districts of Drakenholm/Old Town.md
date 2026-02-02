@@ -9,7 +9,7 @@ The district is considered the [[Story/Factions/Commoners\|Commoners]] district,
 ##### Stores
 - Patch and Seam - Clothes Repair Stall
 - The Spice Merchant's Den - Magical Item Store
-- [[The World/Stores/Store Types/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/Old Town/The Pub\|The Pub]] - Tavern
+- [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/Old Town/The Pub\|The Pub]] - Tavern
 - Carved Knot - Woodworking and Furniture Maker
 - The Old Town Pantry - Food and Goods
-- [[The World/Stores/Store Types/Street Traders/Street Traders\|Street Traders]]
+- [[The World/Stores/Street Traders/Street Traders\|Street Traders]]
