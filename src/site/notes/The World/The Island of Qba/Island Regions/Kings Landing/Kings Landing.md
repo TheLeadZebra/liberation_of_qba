@@ -3,7 +3,7 @@
 ---
 
 King's Landing is the Trade port of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] and is itself split into 3 distinct sectors.
-Kin's landing is the original name of this location, and is the name that the [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] still use. The name has morphed overtime, through semantic change, by the Humans since [[The World/Notable People/Enemies/King Francis Roberts\|King Francis Roberts]] became [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], associating it with his rule rather than the spot where the Dragonborn were said to 
+Kin's landing is the original name of this location, and is the name that the [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] still use. The name has morphed overtime, through semantic change, by the Humans since [[The World/People of the World/Enemies/King Francis Roberts\|King Francis Roberts]] became [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], associating it with his rule rather than the spot where the Dragonborn were said to 
 
 Along the shoreline are the Dockyards; filled with warehouses and piers, this is where ships arrive from [[The World/The World Beyond Qba/Toril/Far-Off Lands/Far-Off Lands\|Far-Off Lands]] and have their cargo loaded or unloaded. At the far end of the Dockyards is a Shipwright, home to a master ship-builder and the hub for any repairs or upgrades required on vessels that are docked. 
 

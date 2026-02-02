@@ -10,6 +10,6 @@ For titanium anodising to work, very high voltages are required in order to crea
 
 Only incredibly skilled and powerful [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn]] are able to perform such incredible feats.
 
-One such example of this feat is the [[The World/The Island of Qba/Island Regions/Drakenholm/Points of Interest/Statue of Greenscale\|Statue of Greenscale]], which resides in the centre of the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Beggars Gate\|Beggars Gate]] plaza, crafted by renowned artisan [[The World/Notable People/Artisans/Stor Ondun\|Stor Ondun]].
+One such example of this feat is the [[The World/The Island of Qba/Island Regions/Drakenholm/Points of Interest/Statue of Greenscale\|Statue of Greenscale]], which resides in the centre of the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Beggars Gate\|Beggars Gate]] plaza, crafted by renowned artisan [[The World/People of the World/Artisans/Stor Ondun\|Stor Ondun]].
 
 
