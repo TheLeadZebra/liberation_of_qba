@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/history-of-the-island/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/history-of-the-island/","tags":["lore"]}
 ---
 
 It was not in the nature of the first settlers to leave detailed notes for future generations, and many of the notes that did exist were destroyed in a fire which blazed through much of early [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]. However, some events of note have been documented, at least vaguely.
