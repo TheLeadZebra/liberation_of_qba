@@ -4,7 +4,7 @@
 
 # Dungeoneering
 > "When we went in there, we were farmers, cobblers, coopers, and smiths. By the time we emerged, we were heroes capable of a thousand feats," muttered the grizzled old crawler in a raspy voice.
-> "We found artifacts that could level buildings, bring back the bed, and yet, it was the crawl itself that changed us most. Those days in the dark made sure we'd never be the same again."
+> "We found artifacts that could level buildings, bring back the dead, and yet, it was the crawl itself that changed us most. Those days in the dark made sure we'd never be the same again."
 
 
 Dungeoneering is a simple ruleset to run classic RPG dungeon crawls in 5th Edition. In here you’ll find guidance on Exploring Dungeons, Stretches, 10-Minute Activities, Wandering Monsters, and the Stretch Tracking Sheet.
@@ -46,7 +46,7 @@ Once you've collected the party's crawl strategy, reference these segments on ho
 Ask the party to determine their marching order by deciding who's first, who's last, and order the rest of the party in between.
 
 **Single File.** A dungeon with 5-foot-wide corridors should be explored by a party with a single-file marching order. 
-**Double File.** A dungeon with 10-foot-wide corridors should be explored by a party with a single-file marching order. 
+**Double File.** A dungeon with 10-foot-wide corridors should be explored by a party with a double-file marching order. 
 
 #### Default Initiative
 Having a default initiative can save time for minor combat encounters that may happen during a dungeon crawl.
