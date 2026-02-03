@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/drakenholm/","tags":["Location","gardenEntry"]}
 ---
 
 ![Drakenholm - Mapped.jpg](/img/user/zzzAttachments/Drakenholm%20-%20Mapped.jpg)
