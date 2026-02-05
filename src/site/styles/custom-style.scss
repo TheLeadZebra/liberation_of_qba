@@ -1,19 +1,13 @@
-/* Target the callout on Vercel and Obsidian */
-.callout[data-callout="column"] .callout-content {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr; /* This forces two side-by-side columns */
-    gap: 40px;
-    align-items: start;
-}
-
-/* Hide the Horizontal Rule separator */
-.callout[data-callout="column"] .callout-content hr {
-    display: none;
-}
-
-/* Mobile Fix: Make it one column on phones */
-@media (max-width: 768px) {
-    .callout[data-callout="column"] .callout-content {
-        grid-template-columns: 1fr !important;
-    }
+body {
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
 }
