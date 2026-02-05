@@ -1,25 +1,19 @@
-/* Target the column callout specifically */
+/* Target the callout on Vercel and Obsidian */
 .callout[data-callout="column"] .callout-content {
-    display: flex !important;
-    flex-direction: row !important;
-    gap: 2rem !important;
-    align-items: flex-start !important;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr; /* This forces two side-by-side columns */
+    gap: 40px;
+    align-items: start;
 }
 
-/* Ensure each div inside takes up equal space */
-.callout[data-callout="column"] .callout-content > div {
-    flex: 1 !important;
-    min-width: 0; /* Prevents overflow */
+/* Hide the Horizontal Rule separator */
+.callout[data-callout="column"] .callout-content hr {
+    display: none;
 }
 
-/* Hide the title if you used the |no-title flag */
-.callout[data-callout="column"] .callout-title {
-    display: none !important;
-}
-
-/* Mobile Fix: Stack them on phones */
+/* Mobile Fix: Make it one column on phones */
 @media (max-width: 768px) {
     .callout[data-callout="column"] .callout-content {
-        flex-direction: column !important;
+        grid-template-columns: 1fr !important;
     }
 }
