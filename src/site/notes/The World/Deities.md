@@ -3,27 +3,35 @@
 ---
 
 ### The Draconic Pantheon
-> [!multi-column|no-title]
-> 
->>### The Four Cardinal Gods
->>-  #### [[The World/Deities#Astilabor\|Astilabor]]
->>	- ##### [[The World/Deities#The Temple of Astilabor\|Temple of Astilabor]]
->>	- ##### [[The World/Deities#Astilabor's Clerical Domains\|Astilabor's Clerical Domains]]
->>- #### [[The World/Deities#Garyx\|Garyx]]
->>	- ##### [[The World/Deities#The Temple of Garyx\|Temple of Garyx]]
->>	- ##### [[The World/Deities#Garyx's Clerical Domain\|Garyx's Clerical Domains]]
->>- #### [[The World/Deities#Null\|Null]]
->>	- ##### [[The World/Deities#The Temple of Null\|Temple of Null]]
->>	- ##### [[The World/Deities#Null's Clerical Domain\|Nulls Clerical Domains]]
->>- #### [[The World/Deities#Tamara\|Tamara]]
->>	- ##### [[The World/Deities#The Temple of Tamara\|Temple of Tamara]]
->>	- ##### [[The World/Deities#Tamara's Clerical Domain\|Tamara's Clerical Domains]]
+> [!column|no-title]
+> <div>
+> [!column|no-title]
+> <div>
 >
->>### The Binary Gods
->>- #### [[The World/Deities#Bahamut\|Bahamut]]
->>	- ##### [[The World/Deities#Temple of Bahamut\|Temple of Bahamut]]
->>- #### [[The World/Deities#Tiamat\|Tiamat]]
->>	- ##### [[The World/Deities#Temple of Tiamat\|Temple of Tiamat]]
+> ### The Four Cardinal Gods
+> - #### [[The World/Deities#Astilabor\|Astilabor]]
+> 	- ##### [[The World/Deities#The Temple of Astilabor\|Temple of Astilabor]]
+> 	- ##### [[The World/Deities#Astilabor's Clerical Domains\|Astilabor's Clerical Domains]]
+> - #### [[The World/Deities#Garyx\|Garyx]]
+> 	- ##### [[The World/Deities#The Temple of Garyx\|Temple of Garyx]]
+> 	- ##### [[The World/Deities#Garyx's Clerical Domain\|Garyx's Clerical Domains]]
+> - #### [[The World/Deities#Null\|Null]]
+> 	- ##### [[The World/Deities#The Temple of Null\|Temple of Null]]
+> 	- ##### [[The World/Deities#Null's Clerical Domain\|Nulls Clerical Domains]]
+> - #### [[The World/Deities#Tamara\|Tamara]]
+> 	- ##### [[The World/Deities#The Temple of Tamara\|Temple of Tamara]]
+> 	- ##### [[The World/Deities#Tamara's Clerical Domain\|Tamara's Clerical Domains]]
+>
+> </div> 
+> <div>
+>
+> ### The Binary Gods
+> - #### [[The World/Deities#Bahamut\|Bahamut]]
+> 	- ##### [[The World/Deities#Temple of Bahamut\|Temple of Bahamut]]
+> - #### [[The World/Deities#Tiamat\|Tiamat]]
+> 	- ##### [[The World/Deities#Temple of Tiamat\|Temple of Tiamat]]
+>
+> </div>
 
 ### Further Pantheons
 > [!multi-column|no-title]
