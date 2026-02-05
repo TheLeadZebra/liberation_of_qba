@@ -1,29 +1,25 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* Target the column callout specifically */
+.callout[data-callout="column"] .callout-content {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 2rem !important;
+    align-items: flex-start !important;
 }
 
-/* This targets the "column" callout on your Digital Garden site */
-.callout[data-callout="column"] > .callout-content {
-    display: flex;
-    gap: 20px;
+/* Ensure each div inside takes up equal space */
+.callout[data-callout="column"] .callout-content > div {
+    flex: 1 !important;
+    min-width: 0; /* Prevents overflow */
 }
 
-.callout[data-callout="column"] > .callout-content > p {
-    flex: 1;
-    margin: 0;
+/* Hide the title if you used the |no-title flag */
+.callout[data-callout="column"] .callout-title {
+    display: none !important;
 }
 
-/* Optional: Hide the callout title for a cleaner look */
-.callout[data-callout="column"] > .callout-title {
-    display: none;
+/* Mobile Fix: Stack them on phones */
+@media (max-width: 768px) {
+    .callout[data-callout="column"] .callout-content {
+        flex-direction: column !important;
+    }
 }
