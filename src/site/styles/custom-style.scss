@@ -1,48 +1,62 @@
-/* 1. Setup the main container - CLOSES PROPERLY NOW */
-.callout[data-callout="column"] {
-    background-color: transparent !important;
+body {
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
+}
+/* 1. Target the specific callout type by its class */
+.callout.column-callout, 
+[data-callout="column"] {
+    background: transparent !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
-    margin: 1em 0 !important;
 }
 
-/* 2. Force the content into two columns */
-.callout[data-callout="column"] .callout-content {
-    display: block !important; 
+/* 2. Target the content container inside the callout */
+.callout.column-callout .callout-content,
+[data-callout="column"] .callout-content {
+    display: block !important;
     column-count: 2 !important;
-    column-gap: 40px !important;
-    column-fill: auto !important; 
-    padding-top: 10px !important;
+    -webkit-column-count: 2 !important;
+    column-gap: 30px !important;
+    column-fill: auto !important;
 }
 
-/* 3. Group Headings and Lists so they don't split between columns */
-.callout[data-callout="column"] .callout-content h3,
-.callout[data-callout="column"] .callout-content ul {
+/* 3. Ensure headers and lists stay grouped */
+.callout-content h3, 
+.callout-content h4, 
+.callout-content ul {
     break-inside: avoid-column !important;
     -webkit-column-break-inside: avoid !important;
-    display: block !important;
-    margin-top: 0 !important;
 }
 
-/* 4. Force the Horizontal Rule (---) to act as a "Next Column" break */
-.callout[data-callout="column"] .callout-content hr {
+/* 4. Use HR (---) as the forced column break */
+.callout-content hr {
     break-after: column !important;
     -webkit-column-break-after: column !important;
-    display: none !important; 
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
 }
 
-/* 5. Hide the title bar */
-.callout[data-callout="column"] .callout-title {
+/* 5. Hide the title bar ([!column]) */
+.callout.column-callout .callout-title,
+[data-callout="column"] .callout-title {
     display: none !important;
 }
 
-/* 6. Mobile Responsiveness */
-@media (max-width: 768px) {
-    .callout[data-callout="column"] .callout-content {
+/* 6. Mobile stack */
+@media (max-width: 600px) {
+    .callout.column-callout .callout-content,
+    [data-callout="column"] .callout-content {
         column-count: 1 !important;
-    }
-    .callout[data-callout="column"] .callout-content hr {
-        break-after: auto !important;
     }
 }
