@@ -23,6 +23,9 @@
 > 	- ##### [[The World/Deities#Tamara's Clerical Domain\|Tamara's Clerical Domains]]
 >
 > </div> 
+> 
+> ---
+> 
 > <div>
 >
 > ### The Binary Gods
