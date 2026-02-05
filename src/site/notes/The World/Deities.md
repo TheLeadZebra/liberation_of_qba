@@ -2,34 +2,9 @@
 {"dg-publish":true,"permalink":"/the-world/deities/","tags":["lore"]}
 ---
 
-<style>
-  /* This targets the specific container that Digital Garden builds */
-  .callout[data-callout="column"] .callout-content {
-      display: grid !important;
-      grid-template-columns: 1fr 1fr !important;
-      gap: 30px !important;
-      align-items: start !important;
-  }
-  
-  /* Hides the HR divider */
-  .callout[data-callout="column"] .callout-content hr {
-      display: none !important;
-  }
-  
-  /* Mobile stack */
-  @media (max-width: 600px) {
-      .callout[data-callout="column"] .callout-content {
-          grid-template-columns: 1fr !important;
-      }
-  }
-</style>
-
 
 ### The Draconic Pantheon
 > [!column|no-title]
-> <div>
-> [!column|no-title]
-> 
 > ### The Four Cardinal Gods
 > - #### [[The World/Deities#Astilabor\|Astilabor]]
 > 	- ##### [[The World/Deities#The Temple of Astilabor\|Temple of Astilabor]]
