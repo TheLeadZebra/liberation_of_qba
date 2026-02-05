@@ -6,7 +6,7 @@
 The Insignia of the City of Drakenholm is used wherever such an emblem may be relevant, it can be seen on flags, royal banners, and the clothing and shields of [[The World/Regional Authorities/Whole Island/The Crown Guard/The Crown Guard\|The Crown Guard]].
 
 ##### Appearence
-The Insignia includes colours and symbols of [[The World/Deities/The Four Cardinal Gods\|The Four Cardinal Gods]], as well as the recent addition with the symbol of [[The World/Deities/Human Gods/Ilmatar\|Ilmatar]].
+The Insignia includes colours and symbols of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]], as well as the recent addition with the symbol of [[The World/Deities#Ilmater\|Ilmater]].
 
 
 Description:

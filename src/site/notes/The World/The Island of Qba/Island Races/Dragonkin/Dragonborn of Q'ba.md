@@ -29,9 +29,9 @@ Dragonborn, by nature, have a variety of ancestries, each described by the colou
 - Silver - Cold
 - White - Cold
 
-The dragonborn of each element also associate themselves with one of [[The World/Deities/The Four Cardinal Gods\|The Four Cardinal Gods]], as each element was claimed by one of these four based on their chosen [[zzzzArchive (Notes that have been merged into others)/Domains of The Four\|Domain]].
+The dragonborn of each element also associate themselves with one of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]], as each element was claimed by one of these four based on their chosen [[zzzzArchive (Notes that have been merged into others)/Folded into Deities/Domains of The Four\|Domain]].
 
-Some Dragonborn, far less commonly believe themselves to have been gifted the blood of the Dragon gods [[The World/Deities/The Binary Gods/Bahamut\|Bahamut]] or [[The World/Deities/The Binary Gods/Tiamat\|Tiamat]]. These ancestries are dragons of the Metallic and Chromatic scaled, respectively.
+Some Dragonborn, far less commonly believe themselves to have been gifted the blood of the Dragon gods [[The World/Deities#Bahamut\|Bahamut]] or [[The World/Deities#Tiamat\|Tiamat]]. These ancestries are dragons of the Metallic and Chromatic scaled, respectively.
 
 ##### Traits of Dragonborn
 - Elemental affinity

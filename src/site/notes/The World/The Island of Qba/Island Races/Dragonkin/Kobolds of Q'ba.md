@@ -6,7 +6,7 @@ Kobolds are small dragonkin. Living on the western ridge of the island, along [[
 
 Resentful of their short stature despite their titanic ancestry, they hate members of other races that make fun of their small size. Often they compensate for their small size through humor or aggression. Naturally they tend to dislike taller creatures.
 
-They consider the Goddess [[The World/Deities/The Binary Gods/Tiamat\|Tiamat]] to be their creator, though they do not worship her.
+They consider the Goddess [[The World/Deities#Tiamat\|Tiamat]] to be their creator, though they do not worship her.
 
 
 ##### Traits of Kobolds

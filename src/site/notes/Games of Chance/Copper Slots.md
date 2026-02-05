@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/games-of-chance/copper-slots/"}
 ---
 
-These slot machines are simple clockwork devices that accept copper coins. Some refer to playing a slot machine as "Tugging [[The World/Deities/The Four Cardinal Gods#Astilabor\|Astilabor]]'s Arm".
+These slot machines are simple clockwork devices that accept copper coins. Some refer to playing a slot machine as "Tugging [[The World/Deities#Astilabor\|Astilabor]]'s Arm".
 Each machine has a spring-loaded lever and five identical spinning cylinders called reels.
 Six golden, themed runes are painted on each reel.
 

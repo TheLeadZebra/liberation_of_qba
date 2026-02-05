@@ -3,12 +3,12 @@
 ---
 
 
-[[The World/Deities/The Four Cardinal Gods\|The Four Cardinal Gods]]
-[[zzzzArchive (Notes that have been merged into others)/Astilabor\|Astilabor]] - Goddess of acquisitiveness and trickery - Northern Frost - Neutral - Cold - Knowledge, Trickery
-[[zzzzArchive (Notes that have been merged into others)/Null\|Null]] - The God of death and dead dragons - Eastern Marshes - Neutral - Acid - Death, War
-[[zzzzArchive (Notes that have been merged into others)/Garyx\|Garyx]] - God of Fire, Destruction and Renewal - Southern Desert - Chaotic Evil -Fire/Lightning - Light, Tempest
-[[zzzzArchive (Notes that have been merged into others)/Tamara\|Tamara]] - The Goddess of mercy and healing - Western Forest -   Lawful Good - Poison - Life, Nature
+The Four Cardinal Gods]]
+[[The World/Deities#Astilabor\|Astilabor]] - Goddess of acquisitiveness and trickery - Northern Frost - Neutral - Cold - Knowledge, Trickery
+[[The World/Deities#Null\|Null]] - The God of death and dead dragons - Eastern Marshes - Neutral - Acid - Death, War
+[[The World/Deities#Garyx\|Garyx]] - God of Fire, Destruction and Renewal - Southern Desert - Chaotic Evil -Fire/Lightning - Light, Tempest
+[[The World/Deities#Tamara\|Tamara]] - The Goddess of mercy and healing - Western Forest -   Lawful Good - Poison - Life, Nature
 
-[[The World/Deities/The Binary Gods/The Binary Gods\|The Binary Gods]]
-[[The World/Deities/The Binary Gods/Bahamut\|Bahamut]] - The God of Enlightened Justice and Good Dragonkind
-[[The World/Deities/The Binary Gods/Tiamat\|Tiamat]] - The Goddess of Vengeance and Evil Dragonkind
+[[The World/Deities#The Binary Gods\|Deities#The Binary Gods]]
+[[The World/Deities#Bahamut\|Bahamut]] - The God of Enlightened Justice and Good Dragonkind
+[[The World/Deities#Tiamat\|Tiamat]] - The Goddess of Vengeance and Evil Dragonkind
