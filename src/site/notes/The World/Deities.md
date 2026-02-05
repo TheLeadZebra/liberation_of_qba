@@ -29,12 +29,15 @@
 > 	- ##### [[The World/Deities#Temple of Tiamat\|Temple of Tiamat]]
 
 ### Further Pantheons
-> [!multi-column|no-title]
+> [!column|no-title]
 > 
->> ### The Human Gods
->>- #### [[The World/Deities#Ilmater\|Ilmater]]
->>	- ##### [[The World/Deities#Temple of Ilmater - The Church of Saint Francis\|Temple of Ilmater]]
+> ### The Human Gods
+>- #### [[The World/Deities#Ilmater\|Ilmater]]
+>	- ##### [[The World/Deities#Temple of Ilmater - The Church of Saint Francis\|Temple of Ilmater]]
 >
+> ---
+> 
+> 
 
 A Deity is a god, a mighty being who can weave the fabric of space, time, or perhaps even both.
 
