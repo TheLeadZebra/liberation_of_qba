@@ -5,8 +5,8 @@
 ### The Draconic Pantheon
 > [!column|no-title]
 > <div>
-> [!column|no-title]
->
+> [!column]
+> 
 > ### The Four Cardinal Gods
 > - #### [[The World/Deities#Astilabor\|Astilabor]]
 > 	- ##### [[The World/Deities#The Temple of Astilabor\|Temple of Astilabor]]
