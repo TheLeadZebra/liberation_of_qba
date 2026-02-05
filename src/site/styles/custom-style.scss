@@ -1,72 +1,67 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-}
-
-/* Targets the [!column] callout in Digital Garden */
-/************************************************ * OBSIDIAN DIGITAL GARDEN - MULTI-COLUMN FIX 
- ************************************************/
-
 /* 1. Setup the main container */
-.callout[data-callout="column"] .callout-content {
-    display: block !important; /* Required for column-flow */
-    column-count: 2 !important;
-    column-gap: 40px !important;
-    display: block !important;
-    column-fill: auto !important; /* Ensures Column 1 fills up before splitting to Column 2 */
-    padding-top: 10px !important;
-}
-
-/* Keeps headings and their lists together so they don't split */
-/* 2. Group Headings and Lists so they don't split between columns */
-.callout[data-callout="column"] .callout-content h3,
-.callout[data-callout="column"] .callout-content ul {
-    break-inside: avoid-column !important;
-    -webkit-column-break-inside: avoid; /* Compatibility for Safari/Chrome */
-    display: block !important;
-    margin-top: 0 !important;
-}
-
-/* Hides the HR line separator */
-/* 3. Force the Horizontal Rule (---) to act as a "Next Column" break */
-.callout[data-callout="column"] .callout-content hr {
-    display: none !important;
-    break-after: column !important;
-    -webkit-column-break-after: column;
-    display: none !important; /* Hides the actual line from appearing */
-}
-
-/* Hides the title bar of the callout */
-/* 4. Cosmetic cleanups */
-.callout[data-callout="column"] .callout-title {
-    display: none !important;
-    display: none !important; /* Hides the [!column] header bar */
-}
-
-/* Mobile: Stack them on phones */
 .callout[data-callout="column"] {
     background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
     padding: 0 !important;
+    margin: 1em 0 !important;
+body {
+/***
+     ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+     IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+  ***/
+//  background-color: white;
+//  .content {
+//   font-size: 14px;
+//  }
+//  h1 {
+//   color: black;
+//  }
 }
 
-/* 5. Mobile Responsiveness: Stack to 1 column on phones */
+/* 2. Force the content into two columns */
+/* Targets the [!column] callout in Digital Garden */
+.callout[data-callout="column"] .callout-content {
+    display: block !important; 
+    column-count: 2 !important;
+    column-gap: 40px !important;
+    column-fill: auto !important; 
+    padding-top: 10px !important;
+    display: block !important;
+}
+
+/* 3. Group Headings and Lists so they don't split */
+.callout[data-callout="column"] .callout-content h3, 
+/* Keeps headings and their lists together so they don't split */
+.callout[data-callout="column"] .callout-content h3,
+.callout[data-callout="column"] .callout-content ul {
+    break-inside: avoid-column !important;
+    -webkit-column-break-inside: avoid;
+    display: block !important;
+}
+
+/* 4. Use the Horizontal Rule as the column break */
+/* Hides the HR line separator */
+.callout[data-callout="column"] .callout-content hr {
+    break-after: column !important;
+    -webkit-column-break-after: column;
+    display: none !important; 
+    display: none !important;
+}
+
+/* 5. Hide the title bar */
+/* Hides the title bar of the callout */
+.callout[data-callout="column"] .callout-title {
+    display: none !important; 
+    display: none !important;
+}
+
+/* 6. Mobile Fix */
+/* Mobile: Stack them on phones */
 @media (max-width: 768px) {
     .callout[data-callout="column"] .callout-content {
         column-count: 1 !important;
     }
-    
-    /* Ensure the column break is ignored on mobile */
     .callout[data-callout="column"] .callout-content hr {
         break-after: auto !important;
     }
