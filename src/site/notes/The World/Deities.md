@@ -6,7 +6,6 @@
 > [!column|no-title]
 > <div>
 > [!column|no-title]
-> <div>
 >
 > ### The Four Cardinal Gods
 > - #### [[The World/Deities#Astilabor\|Astilabor]]
@@ -21,20 +20,14 @@
 > - #### [[The World/Deities#Tamara\|Tamara]]
 > 	- ##### [[The World/Deities#The Temple of Tamara\|Temple of Tamara]]
 > 	- ##### [[The World/Deities#Tamara's Clerical Domain\|Tamara's Clerical Domains]]
->
-> </div> 
 > 
 > ---
-> 
-> <div>
 >
 > ### The Binary Gods
 > - #### [[The World/Deities#Bahamut\|Bahamut]]
 > 	- ##### [[The World/Deities#Temple of Bahamut\|Temple of Bahamut]]
 > - #### [[The World/Deities#Tiamat\|Tiamat]]
 > 	- ##### [[The World/Deities#Temple of Tiamat\|Temple of Tiamat]]
->
-> </div>
 
 ### Further Pantheons
 > [!multi-column|no-title]
