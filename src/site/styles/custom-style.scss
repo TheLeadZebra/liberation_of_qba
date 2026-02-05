@@ -1,7 +1,3 @@
-/***
-  DIGITAL GARDEN CUSTOM STYLES
-***/
-
 /* 1. Setup the main container */
 .callout[data-callout="column"] {
     background-color: transparent !important;
@@ -9,41 +5,43 @@
     box-shadow: none !important;
     padding: 0 !important;
     margin: 1em 0 !important;
-
-    .callout-title {
-        display: none !important; 
-    }
-
-    .callout-content {
-        display: block !important; 
-        column-count: 2 !important;
-        column-gap: 40px !important;
-        column-fill: auto !important; 
-        padding-top: 10px !important;
-
-        /* Force groupings to stay together */
-        h3, ul, li {
-            break-inside: avoid-column !important;
-            -webkit-column-break-inside: avoid;
-            display: block !important;
-        }
-
-        /* Use the HR as the column break */
-        hr {
-            break-after: column !important;
-            -webkit-column-break-after: column;
-            display: none !important; 
-        }
-    }
 }
 
-/* 2. Mobile Responsiveness */
+/* 2. Force the content into two columns */
+.callout[data-callout="column"] .callout-content {
+    display: block !important; 
+    column-count: 2 !important;
+    column-gap: 40px !important;
+    column-fill: auto !important; 
+    padding-top: 10px !important;
+}
+
+/* 3. Group Headings and Lists so they don't split */
+.callout[data-callout="column"] .callout-content h3, 
+.callout[data-callout="column"] .callout-content ul {
+    break-inside: avoid-column !important;
+    -webkit-column-break-inside: avoid;
+    display: block !important;
+}
+
+/* 4. Use the Horizontal Rule as the column break */
+.callout[data-callout="column"] .callout-content hr {
+    break-after: column !important;
+    -webkit-column-break-after: column;
+    display: none !important; 
+}
+
+/* 5. Hide the title bar */
+.callout[data-callout="column"] .callout-title {
+    display: none !important; 
+}
+
+/* 6. Mobile Fix */
 @media (max-width: 768px) {
     .callout[data-callout="column"] .callout-content {
         column-count: 1 !important;
-        
-        hr {
-            break-after: auto !important;
-        }
+    }
+    .callout[data-callout="column"] .callout-content hr {
+        break-after: auto !important;
     }
 }
