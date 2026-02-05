@@ -11,3 +11,34 @@ body {
     //   color: black;
     //  }
 }
+
+/* Targets the [!column] callout in Digital Garden */
+.callout[data-callout="column"] .callout-content {
+    column-count: 2 !important;
+    column-gap: 40px !important;
+    display: block !important;
+}
+
+/* Keeps headings and their lists together so they don't split */
+.callout[data-callout="column"] .callout-content h3,
+.callout[data-callout="column"] .callout-content ul {
+    break-inside: avoid-column !important;
+    display: block !important;
+}
+
+/* Hides the HR line separator */
+.callout[data-callout="column"] .callout-content hr {
+    display: none !important;
+}
+
+/* Hides the title bar of the callout */
+.callout[data-callout="column"] .callout-title {
+    display: none !important;
+}
+
+/* Mobile: Stack them on phones */
+@media (max-width: 768px) {
+    .callout[data-callout="column"] .callout-content {
+        column-count: 1 !important;
+    }
+}
