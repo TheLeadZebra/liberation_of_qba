@@ -36,8 +36,7 @@
 >	- ##### [[The World/Deities#Temple of Ilmater - The Church of Saint Francis\|Temple of Ilmater]]
 >
 > ---
-> Column2
-> &nbsp;
+
 
 A Deity is a god, a mighty being who can weave the fabric of space, time, or perhaps even both.
 
