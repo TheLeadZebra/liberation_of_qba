@@ -11,3 +11,19 @@ body {
     //   color: black;
     //  }
 }
+
+/* This targets the "column" callout on your Digital Garden site */
+.callout[data-callout="column"] > .callout-content {
+    display: flex;
+    gap: 20px;
+}
+
+.callout[data-callout="column"] > .callout-content > p {
+    flex: 1;
+    margin: 0;
+}
+
+/* Optional: Hide the callout title for a cleaner look */
+.callout[data-callout="column"] > .callout-title {
+    display: none;
+}
