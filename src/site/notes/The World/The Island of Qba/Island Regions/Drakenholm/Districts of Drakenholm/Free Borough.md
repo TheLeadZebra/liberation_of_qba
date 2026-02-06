@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/districts-of-drakenholm/free-borough/","tags":["Location"]}
 ---
 
-<div class="spotify-fantasy-frame" style="width: 500px; height: 180px;">
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6HCDfZUcieFBWdpLpKU9Qf?utm_source=generator&theme=0" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-fantasy-frame" style="width: 500px; height: 180px; line-height: 0;">
+<iframe data-testid="embed-iframe" style="border-radius:12px; display: block;" src="https://open.spotify.com/embed/playlist/6HCDfZUcieFBWdpLpKU9Qf?utm_source=generator&theme=0" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 test line
