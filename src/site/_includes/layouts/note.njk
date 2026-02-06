@@ -61,6 +61,21 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       </header>
+
+      {% if spotify %}
+      <div class="spotify-container" style="margin: 20px 0; width: 100%;">
+          <iframe 
+              style="border-radius:12px" 
+              src="{{ spotify | replace('open.spotify.com/', 'open.spotify.com/embed/') }}" 
+              width="100%" 
+              height="352" 
+              frameBorder="0" 
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+              loading="lazy">
+          </iframe>
+      </div>
+      {% endif %}
+
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
