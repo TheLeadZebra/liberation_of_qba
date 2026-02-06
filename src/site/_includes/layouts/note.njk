@@ -62,22 +62,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% endfor %}
       </header>
 
-      {% set spotify_url = spotify or page.spotify or meta.spotify %}
-      {% if spotify_url %}
-      <div class="spotify-container" style="margin: 20px 0; width: 100%;">
-          <iframe 
-              style="border-radius:12px" 
-              src="{{ spotify_url | replace('https://open.spotify.com/', 'https://open.spotify.com/embed/') }}" 
-              width="100%" 
-              height="352" 
-              frameBorder="0" 
-              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-              loading="lazy">
-          </iframe>
-      </div>
-      {% endif %}
-
-      {% for imp in dynamics.common.beforeContent %}
+            {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.beforeContent %}
