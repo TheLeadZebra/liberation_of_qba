@@ -62,11 +62,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% endfor %}
       </header>
 
-      {% if spotify %}
+      {% set spotify_url = spotify or page.spotify or meta.spotify %}
+      {% if spotify_url %}
       <div class="spotify-container" style="margin: 20px 0; width: 100%;">
           <iframe 
               style="border-radius:12px" 
-              src="{{ spotify | replace('open.spotify.com/', 'open.spotify.com/embed/') }}" 
+              src="{{ spotify_url | replace('https://open.spotify.com/', 'https://open.spotify.com/embed/') }}" 
               width="100%" 
               height="352" 
               frameBorder="0" 
