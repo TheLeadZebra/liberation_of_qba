@@ -62,28 +62,3 @@ body {
         column-count: 1 !important;
     }
 }
-
-/* This section adds a fantasy styling around a spotify embed*/
-.spotify-fantasy-frame {
-    /* This is the magic part: it makes the div collapse to fit the iframe */
-    display: inline-flex; 
-    flex-direction: column;
-    
-    padding: 10px;
-    background: #e6d5b8; /* Parchment */
-    border: 6px double #3d2b1f; /* Wood border */
-    border-radius: 12px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-    margin: 20px 0;
-    
-    /* Ensures it doesn't break your layout if you go too big */
-    max-width: 100%; 
-    box-sizing: border-box;
-}
-
-.spotify-fantasy-frame iframe {
-    display: block;
-    filter: sepia(35%) contrast(110%);
-    /* We remove the iframe's internal margin to keep the frame tight */
-    margin: 0; 
-}
