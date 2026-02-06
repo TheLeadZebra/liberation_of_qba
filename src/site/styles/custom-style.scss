@@ -60,3 +60,21 @@ body {
         column-count: 1 !important;
     }
 }
+
+/* The Fantasy Frame */
+.spotify-fantasy-frame {
+    padding: 12px;
+    background: #e6d5b8; /* Classic Parchment */
+    border: 6px double #3d2b1f; /* Dark Oak Wood */
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+    margin: 20px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Styling the Player Inside */
+.spotify-fantasy-frame iframe {
+    filter: sepia(35%) contrast(110%); /* Desaturates the modern colors */
+    display: block;
+}
