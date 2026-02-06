@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/kings-landing/kings-landing/","tags":["Location"]}
 ---
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0BRkJhfOTalB7Ir8Gl5xC6?utm_source=generator&theme=0" width="50%" height="180" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 King's Landing is the Trade port of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] and is itself split into 3 distinct sectors.
 Kin's landing is the original name of this location, and is the name that the [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] still use. The name has morphed overtime, through semantic change, by the Humans since [[The World/People of the World/Enemies/King Francis Roberts\|King Francis Roberts]] became [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], associating it with his rule rather than the spot where the Dragonborn were said to 
 
