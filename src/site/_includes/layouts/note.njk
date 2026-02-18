@@ -61,8 +61,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       </header>
-
-            {% for imp in dynamics.common.beforeContent %}
+      {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.beforeContent %}
