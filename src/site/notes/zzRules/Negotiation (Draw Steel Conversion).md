@@ -91,13 +91,13 @@ During negotiation, the Director assigns NPCs four temporary statistics and feat
 
 #### Interest
 
-An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 1 (no interest) to 6 (the most possible interest). When a negotiation begins, an NPC's interest is between 2 and 5. If the NPC's interest goes to 6, they make a final offer and the negotiation ends (see [[#Keep Going or Stop]], below). If the NPC's interest drops to 1, they end a negotiation without offering the heroes any deal.
+An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 1 (no interest) to 6 (the most possible interest). When a negotiation begins, an NPC's interest is between 2 and 5. If the NPC's interest goes to 6, they make a final offer and the negotiation ends (see [[zzRules/Negotiation (Draw Steel Conversion)#Keep Going or Stop\|#Keep Going or Stop]], below). If the NPC's interest drops to 1, they end a negotiation without offering the heroes any deal.
 
 Interest increases and decreases during the negotiation based on the arguments the heroes make.
 
 #### Patience
 
-An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 1 to 6, with each NPC starting a negotiation with their patience higher than 1. If an NPC's patience reaches 1, the NPC makes a final offer and negotiation ends (see [[#Keep Going or Stop]], below).
+An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 1 to 6, with each NPC starting a negotiation with their patience higher than 1. If an NPC's patience reaches 1, the NPC makes a final offer and negotiation ends (see [[zzRules/Negotiation (Draw Steel Conversion)#Keep Going or Stop\|#Keep Going or Stop]], below).
 
 Patience can decrease each time the heroes make an argument during a negotiation.
 
@@ -107,7 +107,7 @@ If one or more heroes negotiating with an NPC can communicate in the NPC's nativ
 
 #### Motivations
 
-Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll. See [[#Making Arguments]] below for more information.
+Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll. See [[zzRules/Negotiation (Draw Steel Conversion)#Making Arguments\|#Making Arguments]] below for more information.
 
 Each motivation can be successfully appealed to only once during a negotiation. To successfully appeal to a motivation, the heroes must use the motivation in an argument without mentioning one of the NPC's pitfalls or being caught in a lie.
 
@@ -320,7 +320,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 #### Appeal to Motivation
 
-If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make a [[#Medium Tests|Medium Test]] to attempt to sway the NPC with the argument. Depending on the argument, this can be a Wisdom, Intelligence, or Charisma test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
+If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make a [[zzRules/Negotiation (Draw Steel Conversion)#Medium Tests\|Medium Test]] to attempt to sway the NPC with the argument. Depending on the argument, this can be a Wisdom, Intelligence, or Charisma test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
 **Power Roll + Intelligence, Wisdom, or Charisma:**
 
