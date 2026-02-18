@@ -103,7 +103,7 @@ Patience can decrease each time the heroes make an argument during a negotiation
 
 ##### Language and Patience
 
-If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Common), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 6). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 6). [[zzRules/DnD Basic Rules (SRD)/01) Players/02) Creating a Character\|Creating a Character in the Player's Handbook]] has information on some of the languages in the game.
+If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Common), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 6). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 6). [[zzRules/DnD 5.5e Rules/01) Players/02) Creating a Character\|Creating a Character in the Player's Handbook]] has information on some of the languages in the game.
 
 #### Motivations
 

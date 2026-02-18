@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Species/Elf\|Elf]] (Wood)
+[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Elf\|Elf]] (Wood)
 #### Class
-[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]
+[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Classes/Druid/Druid\|Druid]]

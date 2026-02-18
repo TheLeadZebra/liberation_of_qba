@@ -19,7 +19,7 @@
 >How long has it been? It feels like a day, and decades at the same time.
 >You blink. 
 >This time when you open your eyes, you are somewhere else. A city, like Drakenholm, but strange. 
->You're certainly on an island, so you look around for a landmark expecting to see [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/The Castle\|The Castle]] but the thing that catches your eye is a huge, wrought iron structure over 300 metres in size.
+>You're certainly on an island, so you look around for a landmark expecting to see [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#The Castle\|The Castle]] but the thing that catches your eye is a huge, wrought iron structure over 300 metres in size.
 >Four legs in a square, arch upwards to meet in the shape of an A. You imagine how it would look standing upright, but this tower looks as though an incredibly strong wind has blown the tower over, bending to almost 90°.
 >At the edge of an enormous stretch of water is the city docks looking out towards land miles off in the distance, and a *huge* statue of a woman. She sits on the ground with her face buried into her arms. White hair draped down, covering her entire body. Behind her, a towering stone monolith features a number, which looks as though it has been brushed on with lightning: ***41***.
 ---

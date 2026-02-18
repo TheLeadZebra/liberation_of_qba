@@ -51,7 +51,7 @@ The Four Cardinal Gods are each of the primary gods of the island, with each hav
 
 ### Astilabor
 
-![Astilabor Icon.webp|250](/img/user/zzzAttachments/Astilabor%20Icon.webp)
+![Astilabor Icon.webp|250](/img/user/zAttachments/Astilabor%20Icon.webp)
 
 **Symbol** - A twelve-faceted Gem - seen upon a shield above.
 
@@ -67,7 +67,7 @@ Her followers were generally mistrusting of followers of trickery and mischief, 
 
 Clerics of Astilabor tended to be neutral in alignment, as she had to be confident that they would stand fast in their pursuit of gaining knowledge and acquiring treasures.
 
-Temples to Astilabor, such as the one in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm's]] [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]], are often grand and filled with lavish furnishings, and expensive treasures, such as platinum candleholders and sconces. Each treasure within the temple was always marked clearly with who the owner was, often marked using particular characteristics defining an individual, so as to prove the wealth still belonged to them.
+Temples to Astilabor, such as the one in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm's]] [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]], are often grand and filled with lavish furnishings, and expensive treasures, such as platinum candleholders and sconces. Each treasure within the temple was always marked clearly with who the owner was, often marked using particular characteristics defining an individual, so as to prove the wealth still belonged to them.
 
 Oftentimes Astilabor is mis-characterized as being a Goddess of Greed, however this is not the case and Astilabor disapproved of [[The World/Deities#Tiamat\|Tiamat's]] naked display of it. Astilabor, on rare occasions, gifted a boon from her personal hoard to those who had pleased her.
 
@@ -93,7 +93,7 @@ The temple was ransacked in recent times by humans, claiming that the draconic g
 
 ### Garyx
 
-![Garyx Icon.webp|250](/img/user/zzzAttachments/Garyx%20Icon.webp)
+![Garyx Icon.webp|250](/img/user/zAttachments/Garyx%20Icon.webp)
 **Symbol** - A draconic eye, imposed over a red flame.
 
 *"May the fires wash away your sins"*
@@ -102,7 +102,7 @@ Garyx, the chaotic God of Fire, Destruction and Renewal is one of [[The World/De
 
 Respected by both worshippers of destruction and of cleansing, often his followers believe that his fire can sterilise the world from evil, however Garyx often pays little attention to the wants of his followers, yet his Clerics do not worry about this. They believed that he grants them the power to perform acts of destruction, which was enough for them. 
 
-Even on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] Garyx has very few temples outside of [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]], however his symbol will often be found carved beside his followers handiwork. On the otherhand, it was not uncommon for druids to revere Garyx, knowing that sometimes devestation was necessary for rejuvination.
+Even on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] Garyx has very few temples outside of [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]], however his symbol will often be found carved beside his followers handiwork. On the otherhand, it was not uncommon for druids to revere Garyx, knowing that sometimes devestation was necessary for rejuvination.
 
 #### The Temple of Garyx
 
@@ -121,7 +121,7 @@ Other items would also be fed to the flames, depending on a dragons own wants, n
 
 ### Null
 
-![Null Icon.webp|250](/img/user/zzzAttachments/Null%20Icon.webp)
+![Null Icon.webp|250](/img/user/zAttachments/Null%20Icon.webp)
 **Symbol** - The skull of an ancient dragon
 
 *"May Null watch over you, as you rest"*
@@ -134,7 +134,7 @@ Null is prideful and arrogant, fatalistic and utterly humorless. Though he is no
 
 He is worshiped by all [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] of any alignment. Whether a goodly dragon wishes to speed a lost loved one to the afterlife, or an evil one wanted to attack a city with an army of undead, a prayer was said to Null. 
 
-Temples to Null - such as the one in [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] - often take the form of an underground cavern, cloaked in shadows and dimly lit. Dragons of all breeds and alignments tried to make their way here before they die, and their remains lay strew across the floor, including any treasures the dragons may have had with them or worn. The spirits of these Dragons stay to guard the temples from any who aim to steal from the burial pit. 
+Temples to Null - such as the one in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] - often take the form of an underground cavern, cloaked in shadows and dimly lit. Dragons of all breeds and alignments tried to make their way here before they die, and their remains lay strew across the floor, including any treasures the dragons may have had with them or worn. The spirits of these Dragons stay to guard the temples from any who aim to steal from the burial pit. 
 
 [[The World/Deities#Tamara\|Tamara]] is known to be resented by Null due to her interference with the inevitability of death.
 
@@ -149,7 +149,7 @@ The far side of the chamber is slightly raised on a dais, here the shape of the 
 
 Followers of Null who are about to die, especially of draconic ancestry, find their way here in their final moments bringing with them any treasures or items they cannot bear to part with.
 
-The temple of Null has been sealed to avoid the risk of the dead being disturbed by a potential ransacking as with many of the other [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] temples in [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]].
+The temple of Null has been sealed to avoid the risk of the dead being disturbed by a potential ransacking as with many of the other [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]] temples in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]].
 
 #### Null's Clerical Domain
 
@@ -158,7 +158,7 @@ The temple of Null has been sealed to avoid the risk of the dead being disturbed
 
 ### Tamara
 
-![Tamara Icon.webp|250](/img/user/zzzAttachments/Tamara%20Icon.webp)
+![Tamara Icon.webp|250](/img/user/zAttachments/Tamara%20Icon.webp)
 
 **Symbol** - A seven-pointed star on a field of black.
 
@@ -177,7 +177,7 @@ Many of Tamara's clerics are healers, but also deliverers of death to those who 
 ![GL_GrandCathedralInterior_Original_Day.jpg|400](/img/user/zAttachments/GL_GrandCathedralInterior_Original_Day.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
-The Temple of Tamara is a place of worship to Tamara, one of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. The temple sits in [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]] and is the eastern temple in the cardinal sector. 
+The Temple of Tamara is a place of worship to Tamara, one of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. The temple sits in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]] and is the eastern temple in the cardinal sector. 
 
 Tamara is the god of Life, Mercy, and Forgiveness and this motif fills the large open space. The hall is flooded with coloured light from stained windows dozens of feet overhead, each vibrantly depicting scenes of bardic heroes, children playing, people signing treaties, and generally imagery of nature, including a [[The World/The Island of Qba/Island Regions/Dimmafall/Points of Interest/The Arcadian Torrent\|waterfall which appears to flow from the heavens themselves]].
 
@@ -196,13 +196,13 @@ The Binary Gods are [[The World/Deities#Bahamut\|Bahamut]] and [[The World/Deiti
 
 Though they are more powerful than any of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]] individually, their hold on the island is far less impressive, with much of their focus elsewhere. This however, does not mean those who worship the Binary Gods are small in number, as many on the island recognise the gods of the island as a whole rather than the smaller number who choose a favoured Deity and dedicate themselves wholly towards them. 
 
-The Binary Gods each have their own temple within the [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]], as with the other gods of the island.
+The Binary Gods each have their own temple within the [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]], as with the other gods of the island.
 
 
 ### Bahamut
 Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful good dragons. 
 
-![Bahamut Icon.jpg|350](/img/user/zzzAttachments/Bahamut%20Icon.jpg)
+![Bahamut Icon.jpg|350](/img/user/zAttachments/Bahamut%20Icon.jpg)
 **Symbol** - A platinum dragon profiled against a blue background.
 #### Form
 His natural form is that of a platinum metallic dragon, approximately 180ft (55ft) in total length, with a tail the same length as his body, said by many to be the only one of his kind. His scales are said to be tougher than any shield (some say nearly indestructible) and glow with a feint blue sheen. He also has blue eyes, the exact shade of which shifts depending on Bahamut's mood. Bahamut has been known to wonder the mortal world, taking the appearance of an old human or a demihuman wizard dressed as a peasant accompanied by songbirds. This persona became known among mortals as [[The World/People of the World/Avatars/Fizban the Fabulous\|Fizban the Fabulous]], whom sages believed was designed so as to not frighten non-dragon beings. The sages also believe that he has many other guises as well.
@@ -248,16 +248,16 @@ Bahamut's worshipers and clergy have no formal rituals or ceremonies. Those who 
 The Temple of [[The World/Deities#Bahamut\|Bahamut]] is a large, bright space that purposefully lacks grandeur or colour schemes, with simple furnishings and elegant furniture.
 The lack of colours, instead, draws the eye to the metallics in the room; Gold, Silver, Copper, Bronze, Steel and so on. In some areas of the temple, the metals mix to contrast one another, whereas in other areas they blend together. The use of these metals is done very sparingly so as to retain the feeling that the space is not adorned.
 
-Unlike many of the other [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Draconic Temples]], the Temple of [[The World/Deities#Bahamut\|Bahamut]] does not have a large, overbearing statue, instead a small alcove stores a 4ft tall [[The World/Deities#Bahamut\|Bahamut]] figure. The figure is made of platinum, has a tail the same length as the body, and seems to glow with a feint blue aura. 
+Unlike many of the other [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Draconic Temples]], the Temple of [[The World/Deities#Bahamut\|Bahamut]] does not have a large, overbearing statue, instead a small alcove stores a 4ft tall [[The World/Deities#Bahamut\|Bahamut]] figure. The figure is made of platinum, has a tail the same length as the body, and seems to glow with a feint blue aura. 
 
-Despite the size of the temple, it is rare to find dragonkin worshipping within as followers of [[The World/Deities#Bahamut\|Bahamut]] show their devotion to the Dragon God with their deeds rather than through ritual or ceremony. The one exception is the "Rite of Rebirth", a ritual which has never been performed on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], but which includes a magical process through which non-dragonborn humanoids transform themselves into [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Species/Dragonborn\|Dragonborn]].
+Despite the size of the temple, it is rare to find dragonkin worshipping within as followers of [[The World/Deities#Bahamut\|Bahamut]] show their devotion to the Dragon God with their deeds rather than through ritual or ceremony. The one exception is the "Rite of Rebirth", a ritual which has never been performed on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], but which includes a magical process through which non-dragonborn humanoids transform themselves into [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Dragonborn\|Dragonborn]].
 
 Seven tiny gold dragons are claimed to be hidden around the temple chamber, watching over [[The World/Deities#Bahamut\|Bahamut]]. The rumour is unclear if they are statuette's or real dragons.
 
 # Tiamat
 Tiamat is the dragon goddess of greed, and queen lawful evil dragons.
 
-![Tiamat.png|350](/img/user/zzzAttachments/Tiamat.png)
+![Tiamat.png|350](/img/user/zAttachments/Tiamat.png)
 **Symbol -** 5 dragon claws, each a colour matching one of Tiamat's heads. Sometimes 5 Draconic heads are used instead of claws.
 
 #### Form
@@ -312,7 +312,7 @@ Prior to this, the temple space was quite dark and bare, appearing more as a mee
 
 Ilmater is the name of the [[The World/Deities\|Deity]] brought to the island by the [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans]] upon their arrival to [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]].
 
-![Ilmater Icon.webp|350](/img/user/zzzAttachments/Ilmater%20Icon.webp)
+![Ilmater Icon.webp|350](/img/user/zAttachments/Ilmater%20Icon.webp)
 **Symbol** - A pair of white, human hands, bound with a red cord.
 
 Ilmater has many names:
@@ -337,7 +337,7 @@ The humans of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba
 ![GL_JapaneseCastleExterior_Ruby.jpg|300](/img/user/zAttachments/GL_JapaneseCastleExterior_Ruby.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
-The temple of [[The World/Deities#Ilmater\|Ilmater]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Free Borough\|Free Borough]], named The Church of Saint Francis, looks like a large manor house surrounded by protective walls. 
+The temple of [[The World/Deities#Ilmater\|Ilmater]] in [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Free Borough\|Free Borough]], named The Church of Saint Francis, looks like a large manor house surrounded by protective walls. 
 
 The fairly undecorated and simple interior contains a few rooms, such as a chapel, a chapter house, a small library and an area for treating a few sick or injured people.
 

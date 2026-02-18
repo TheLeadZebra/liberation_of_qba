@@ -19,7 +19,7 @@ The island itself has a daily special drink, which is synchronous across the isl
 	- Rock Strained Ale
 	- Yeti's Breath
 - [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]]
-	- [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/The Bread Forge\|The Bread Forge]]
+	- [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#The Bread Forge\|The Bread Forge]]
 		- Bitter Black
 		- Dagger in the Fire Bourbon
 		- Delayed Blast - Wine (Yda drank)
@@ -32,17 +32,17 @@ The island itself has a daily special drink, which is synchronous across the isl
 		- Old Black Goblin
 		- Old Smoke
 		- White Lightning
-	- [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Ravenstone Bridge\|Ravenstone Bridge]]
+	- [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Ravenstone Bridge\|Ravenstone Bridge]]
 		- Berry Wine
 		- Cornrow Cognac
 		- Dragondew
 		- Luskan Stout
 		- Moonslake Rum
 		- Traveller's Yarn
-	- [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Old Town\|Old Town]]
+	- [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#Old Town\|Old Town]]
 		- Ale
 		- Ale Flip
-	- [[The World/The Island of Qba/Island Regions/Drakenholm/Districts of Drakenholm/Upper Quarters\|Upper Quarters]]
+	- [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm#White Gardens/Upper Quarters\|Upper Quarters]]
 		- Almond Brandy
 		- Brother Tobias' 1368
 		- Elven Healing Wine

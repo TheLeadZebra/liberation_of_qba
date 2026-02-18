@@ -5,7 +5,7 @@
 Q'ba is the island of note on which the campaign A Crown of Thorn takes place. The island exists on the Planet of [[The World/The World Beyond Qba/Toril/Toril\|Toril]], home to the Forgotten Realms.
 
 (Map subject to modification)
-![The Island of Q'Ba.png](/img/user/zzzAttachments/The%20Island%20of%20Q'Ba.png)
+![The Island of Q'Ba.png](/img/user/zAttachments/The%20Island%20of%20Q'Ba.png)
 The Island of Q'ba is home to [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] as a native species, as well as a few other races who have settled upon the island in small numbers over the most recent few hundred years. These races are now split into their own categories of [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans of Q'ba]] who are very recent settlers, and [[The World/The Island of Qba/Island Races/Non-Human/Non-Human\|Non-Human]] which includes any sentient race that is neither [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]] or [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans of Q'ba]]. 
 
 The island itself is geographically not very large, and yet contains a wide range of biomes (Frost bound mountains, Acid Marshes, Luscious Forest and Scorching Desert) which split among the cardinal directions of the island. Each of these four directions is it's own region, as well as the island's city, [[The World/The Island of Qba/Island Regions/Drakenholm/Drakenholm\|Drakenholm]], and it's trade port, [[The World/The Island of Qba/Island Regions/Kings Landing/Kings Landing\|Kings Landing]], each being designated their own region.

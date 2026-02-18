@@ -23,8 +23,8 @@ Weapon Slots can be described however a player may wish in order to fit the flav
 Examples of weapons slots may be as follows: 
 
 
-A ***travelling Fighter*** might have weapon sheaths such as - *Left Belt - [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Equipment/Weapons/Martial Melee/Longsword\|Longsword]], Right Belt - 3 [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Equipment/Weapons/Simple Melee/Handaxe\|Handaxe]]s, Back 1 - [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Equipment/Weapons/Martial Melee/Warhammer\|Warhammer]], Back 2 - Empty and, Backpack Sling* - Empty.  
-A ***prowling Rogue assassin*** may have more secretive sheaths: Underarm - 2 [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Equipment/Weapons/Simple Melee/Dagger\|Dagger]]s, Inside Pocket - 3 [[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Equipment/Weapons/Simple Ranged/Dart\|Dart]]s, Lower Back -  Empty, Left Belt - Empty, Right Boot - Empty.  
+A ***travelling Fighter*** might have weapon sheaths such as - *Left Belt - [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Equipment/Weapons/Martial Melee/Longsword\|Longsword]], Right Belt - 3 [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Equipment/Weapons/Simple Melee/Handaxe\|Handaxe]]s, Back 1 - [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Equipment/Weapons/Martial Melee/Warhammer\|Warhammer]], Back 2 - Empty and, Backpack Sling* - Empty.  
+A ***prowling Rogue assassin*** may have more secretive sheaths: Underarm - 2 [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Equipment/Weapons/Simple Melee/Dagger\|Dagger]]s, Inside Pocket - 3 [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Equipment/Weapons/Simple Ranged/Dart\|Dart]]s, Lower Back -  Empty, Left Belt - Empty, Right Boot - Empty.  
 
 Whilst the Weapon Slots for each of these characters are mechanically identical, labelling them in this manner gets the players to imagine how and where *their* character may wear their weapons.
 

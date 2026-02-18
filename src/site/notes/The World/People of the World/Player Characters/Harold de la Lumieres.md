@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Species/Halfling\|Halfling]]
+[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Halfling\|Halfling]]
 #### Class
-[[zzRules/DnD Basic Rules (SRD)/04) Backlink Glossary/Classes/Warlock/Warlock\|Warlock]]
+[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Classes/Warlock/Warlock\|Warlock]]
