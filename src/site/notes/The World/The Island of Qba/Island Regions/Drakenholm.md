@@ -16,13 +16,14 @@
 >- [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|#The Bread Forge]]
 >- [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|#The Castle]]
 >- [[The World/The Island of Qba/Island Regions/Drakenholm#White Gardens/Upper Quarters\|#White Gardens/Upper Quarters]]
->##### Points of Interest
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]]
 > ---
 >
 >##### [[The World/The Island of Qba/Island Regions/Drakenholm#City Iconography\|#City Iconography]]
 >##### [[The World/The Island of Qba/Island Regions/Drakenholm#Authorities\|#Authorities]] 
 >##### [[The World/The Island of Qba/Island Regions/Drakenholm#Drakenholm in Lockdown\|#Drakenholm in Lockdown]]
+>##### Points of Interest
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#The City Gates\|#The City Gates]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]]
 
 Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 100 and 150 metres off of the ground. The city itself is surrounded by stone walls around 20 metres high.
 
