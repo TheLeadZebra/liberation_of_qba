@@ -6,24 +6,24 @@
 ### Table of Contents
 > [!column|no-title]
 > 
->##### [[The World/The Island of Qba/Island Regions/Drakenholm#The Districts of Drakenholm\|#The Districts of Drakenholm]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|#Beggar's Gate]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Dragonhill Mile\|#Dragonhill Mile]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Free Borough\|#Free Borough]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Military District\|#Military District]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Old Town\|#Old Town]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Ravenstone Bridge\|#Ravenstone Bridge]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|#The Bread Forge]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|#The Castle]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#White Gardens/Upper Quarters\|#White Gardens/Upper Quarters]]
+>##### [[#The Districts of Drakenholm]]
+>- [[#Beggar's Gate]]
+>- [[#Dragonhill Mile]]
+>- [[#Free Borough]]
+>- [[#Military District]]
+>- [[#Old Town]]
+>- [[#Ravenstone Bridge]]
+>- [[#The Bread Forge]]
+>- [[#The Castle]]
+>- [[#White Gardens/Upper Quarters]]
 > ---
 >
->##### [[The World/The Island of Qba/Island Regions/Drakenholm#City Iconography\|#City Iconography]]
->##### [[The World/The Island of Qba/Island Regions/Drakenholm#Authorities\|#Authorities]] 
->##### [[The World/The Island of Qba/Island Regions/Drakenholm#Drakenholm in Lockdown\|#Drakenholm in Lockdown]]
+>##### [[#City Iconography]]
+>##### [[#Authorities]] 
+>##### [[#Drakenholm in Lockdown]]
 >##### Points of Interest
->- [[The World/The Island of Qba/Island Regions/Drakenholm#The City Gates\|#The City Gates]]
->- [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]]
+>- [[#The City Gates]]
+>- [[#Statue of Greenscale]]
 
 Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 100 and 150 metres off of the ground. The city itself is surrounded by stone walls around 20 metres high.
 
@@ -55,8 +55,8 @@ A centrepiece of the plaza is a large [[zzzzArchive (Notes that have been merged
 
 #### Points of Interest
 ##### The City Gates
-The city gates tower over the borough of [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|#Beggar's Gate]] with the structure being 40metres tall, double the height of the city walls.
-The gate itself is a wrought iron portcullis 30ft wide, which is set between two, perfectly smooth stone square pillars which eventually form into an arch, which extend beyond the walls on either side. The external face, above the portcullis, is decorated in the same scales which adorn [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|#The Castle]]. 
+The city gates tower over the borough of [[#Beggar's Gate]] with the structure being 40metres tall, double the height of the city walls.
+The gate itself is a wrought iron portcullis 30ft wide, which is set between two, perfectly smooth stone square pillars which eventually form into an arch, which extend beyond the walls on either side. The external face, above the portcullis, is decorated in the same scales which adorn [[#The Castle]]. 
 Placed atop the gatehouse is a stone sculpture of the [[The World/The Island of Qba/Island Regions/Insignia of the City of Drakenholm\|Insignia of the City of Drakenholm]]
 
 
@@ -95,6 +95,7 @@ Wizard's Guild
 The Military District of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] surrounds [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|The Castle]]. It is the home of [[The World/The Island of Qba/The Island of Qba\|Q'ba's]] military power, and City Guards and the final defence to any attack aimed to harm [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]]. Places of interest include barracks, the armoury and the City Jail.
 
 ### Old Town
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6yvjmOU3S9T8SYUSnW67re?si=uADj3EJyRbO0aoqX0jR0oA&pi=gmuuKguhRyGQbutm_source=generator&theme=0" width="50%" height="180" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 Old Town is a district of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]]. As the name suggests it is the oldest section of the city, having been built at the time of the cities founding. Much of the city, as it stood then, has since been destroyed during a battle over [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/Succession of The Crown\|Succession]], Old Town is all that remains. 
 
 The district is considered the [[Story/Factions/Commoners\|Commoners]] district, because of it's age it was not built with the modern levels of population in mind. This has led to many attempts at retrofitting buildings, and filling small spaces and narrow alleys with extra living spaces, leading to the district now seeming overcrowded and labyrinthine.
