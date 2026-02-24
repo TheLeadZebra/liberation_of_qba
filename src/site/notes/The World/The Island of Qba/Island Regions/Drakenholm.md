@@ -2,28 +2,28 @@
 {"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/","tags":["Location","gardenEntry"]}
 ---
 
-![Drakenholm - Mapped.jpg](/img/user/zAttachments/Drakenholm%20-%20Mapped.jpg)
+![Drakenholm Map - Icons v1.0.png](/img/user/zAttachments/Drakenholm%20Map%20-%20Icons%20v1.0.png)
 ### Table of Contents
 > [!column|no-title]
 > 
->##### [[#The Districts of Drakenholm]]
->- [[#Beggar's Gate]]
->- [[#Dragonhill Mile]]
->- [[#Free Borough]]
->- [[#Military District]]
->- [[#Old Town]]
->- [[#Ravenstone Bridge]]
->- [[#The Bread Forge]]
->- [[#The Castle]]
->- [[#White Gardens/Upper Quarters]]
+>##### [[The World/The Island of Qba/Island Regions/Drakenholm#The Districts of Drakenholm\|#The Districts of Drakenholm]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|#Beggar's Gate]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Dragonhill Mile\|#Dragonhill Mile]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Free Borough\|#Free Borough]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Military District\|#Military District]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Old Town\|#Old Town]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Ravenstone Bridge\|#Ravenstone Bridge]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|#The Bread Forge]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|#The Castle]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#White Gardens/Upper Quarters\|#White Gardens/Upper Quarters]]
 > ---
 >
->##### [[#City Iconography]]
->##### [[#Authorities]] 
->##### [[#Drakenholm in Lockdown]]
+>##### [[The World/The Island of Qba/Island Regions/Drakenholm#City Iconography\|#City Iconography]]
+>##### [[The World/The Island of Qba/Island Regions/Drakenholm#Authorities\|#Authorities]] 
+>##### [[The World/The Island of Qba/Island Regions/Drakenholm#Drakenholm in Lockdown\|#Drakenholm in Lockdown]]
 >##### Points of Interest
->- [[#The City Gates]]
->- [[#Statue of Greenscale]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#The City Gates\|#The City Gates]]
+>- [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]]
 
 Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 100 and 150 metres off of the ground. The city itself is surrounded by stone walls around 20 metres high.
 
@@ -55,8 +55,8 @@ A centrepiece of the plaza is a large [[zzzzArchive (Notes that have been merged
 
 #### Points of Interest
 ##### The City Gates
-The city gates tower over the borough of [[#Beggar's Gate]] with the structure being 40metres tall, double the height of the city walls.
-The gate itself is a wrought iron portcullis 30ft wide, which is set between two, perfectly smooth stone square pillars which eventually form into an arch, which extend beyond the walls on either side. The external face, above the portcullis, is decorated in the same scales which adorn [[#The Castle]]. 
+The city gates tower over the borough of [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|#Beggar's Gate]] with the structure being 40metres tall, double the height of the city walls.
+The gate itself is a wrought iron portcullis 30ft wide, which is set between two, perfectly smooth stone square pillars which eventually form into an arch, which extend beyond the walls on either side. The external face, above the portcullis, is decorated in the same scales which adorn [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|#The Castle]]. 
 Placed atop the gatehouse is a stone sculpture of the [[The World/The Island of Qba/Island Regions/Insignia of the City of Drakenholm\|Insignia of the City of Drakenholm]]
 
 
