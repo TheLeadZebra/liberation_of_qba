@@ -51,7 +51,7 @@ Beggars Gate is the entryway district of the city of [[The World/The Island of Q
 
 This district is the poorest, with tents set up on the interior and exterior of the city walls, filled with citizens who have nowhere else to live. Many of those that live in the conditions of squalor are [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Dragonborn\|Dragonborn]] who have fallen victim to poverty since the introduction of non-human tax increases. Very few are [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Human]].
 
-A centrepiece of the plaza is a large [[zzzzArchive (Notes that have been merged into others)/Folded into Drakenholm/Statue of Greenscale\|Statue of Greenscale]], cast in [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Anodised Titanium\|green anodised titanium]]. 
+A centrepiece of the plaza is a large [[Statue of Greenscale\|Statue of Greenscale]], cast in [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Anodised Titanium\|green anodised titanium]]. 
 
 #### Points of Interest
 ##### The City Gates
@@ -103,7 +103,7 @@ The district is considered the [[Story/Factions/Commoners\|Commoners]] district,
 ##### Stores
 - Patch and Seam - Clothes Repair Stall
 - The Spice Merchant's Den - Magical Item Store
-- [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/Old Town/The Pub\|The Pub]] - Tavern
+- [[The World/Taverns and Inns#The Pub\|The Pub]] - Tavern
 - Carved Knot - Woodworking and Furniture Maker
 - The Old Town Pantry - Food and Goods
 - [[The World/Stores/Street Traders/Street Traders\|Street Traders]]
@@ -121,12 +121,12 @@ Flour and Flame - Baker
 Wyrms's Belly - Blacksmith
 Mason's Mark - Stonemason
 Dragontooth Saw - Lumberyard
-Wyvern's Flight - [[zzzzArchive (Notes that have been merged into others)/Bowyers and Fletchers/Bowyer or Fletcher\|Bowyer or Fletcher]]
+Wyvern's Flight - [[Bowyer or Fletcher\|Bowyer or Fletcher]]
 The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
-Cog and Crucible - [[zzzzArchive (Notes that have been merged into others)/Alchemy and Potion Shops/Alchemy and Potion Shops\|Alchemist]]
+Cog and Crucible - [[Alchemy and Potion Shops\|Alchemist]]
 [[The World/Stores/Street Traders/Street Traders\|Street Traders]]
-[[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[The World/Stores/Taverns & Inns/Taverns & Inns\|Tavern and Boardhouse]]
-[[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/Ingriths House\|Ingriths House]]
+[[The World/Taverns and Inns#The Early Riser\|The Early Riser]] -  [[Taverns & Inns\|Tavern and Boardhouse]]
+[[Ingriths House\|Ingriths House]]
 
 
 ### The Castle

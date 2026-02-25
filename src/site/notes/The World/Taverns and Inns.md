@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/taverns-and-inns/"}
+{"dg-publish":true,"permalink":"/the-world/taverns-and-inns/","tags":["Location"]}
 ---
 
 
@@ -12,11 +12,11 @@ The taverns and inns famed among the population of [[The World/The Island of Qba
 # By Region
 ### [[The World/The Island of Qba/Island Regions/Astilabors Peak/Astilabors Peak\|Astilabors Peak]]
 #### [[The World/The Island of Qba/Island Regions/Astilabors Peak/Settlements/Astilabor's Claw\|Astilabor's Claw]]
-##### [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Astilabor's Peak/Astilabor's Claw/The Frosty Beard\|The Frosty Beard]] - Inn
+##### The Frosty Beard - Inn
 
 ### [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]]
 #### [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|The Bread Forge]]
-##### [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] - Tavern and Board house
+##### The Early Riser - Tavern and Board house
 The Early Riser is the name of a Tavern in [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|The Bread Forge]] district of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]]. It also plays the role of a boarding house, with low quality but cheap accommodation for anyone who has moved to the area without a permanent address as of yet.
 
 The building's interior has a distinct collaboration between [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Draconic]] architecture and [[The World/The Island of Qba/Island Races/Non-Human/Dwarves of Q'ba\|Dwarven]] design, allowing for a very comfortable and homely feel, combined with open spaces designed to cater to elemental archetypes.
@@ -25,20 +25,26 @@ The owner of the Tavern is a [[The World/The Island of Qba/Island Races/Non-Huma
 
 It is not unusual to find [[Games of Chance/Games of Chance\|Games of Chance]] being played here.
 
+##### Ingrith's House
+Ingriths house is the name of a tiny tavern in [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|The Bread Forge]], pressed up against the city walls on the south side.
+There are only three tables with seven chairs in total, and rarely are they ever filled. The clientele of Ingrith's house tend to be the sort that would remain isolated outside of the Tavern's walls, though inside this cosy room conversation tends to flow.
+
+The Tavern consists of only 4 small rooms; the tavern proper with bar and tables, a tiny water closet for when nature calls, a cellar for storing kegs, and a small storage room beside the keg room.
+
 #### [[The World/The Island of Qba/Island Regions/Drakenholm#White Gardens/Upper Quarters\|Upper Quarters]]
-##### [[The Silver Serpent\|The Silver Serpent]] - Tavern
+##### The Silver Serpent - Tavern
 
 #### [[The World/The Island of Qba/Island Regions/Drakenholm#Old Town\|Old Town]]
-##### [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/Old Town/The Pub\|The Pub]] - Tavern and Inn
+##### The Pub - Tavern and Inn
 The Pub is the name of the Tavern and Inn in the [[The World/The Island of Qba/Island Regions/Drakenholm#Old Town\|Old Town]] district of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]]. 
 
 The Pub should be described as you would describe an English Pub. The barkeep is a Human man who has absolutely no passion for the job.
 
-The only drinks availible here are:
+The only drinks available here are:
 - Ale
 - Ale Flip
 
-The Pub also houses an Inn, the rooms here are... adequete, but are adequetely cheap.
+The Pub also houses an Inn, the rooms here are... adequate, but are adequately cheap.
 
 The Pub is a regular host of [[Games of Chance/Games of Chance\|Games of Chance]], as well as a brawling ring for people to let a load off or settle a score fairly.
 
@@ -47,7 +53,8 @@ The Pub is a regular host of [[Games of Chance/Games of Chance\|Games of Chance]
 
 ### Dimmafall
 #### Kindlewood
-##### [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Dimmafall/Kindlewood/Feywild Free House\|Feywild Free House]] - Tavern
+##### Feywild Free House - Tavern
+A Tavern run by a Green Dragonborn. The Tavern has a distinctive woodland theme which plays towards it's feywild namesake.
 
 ### [[The World/The Island of Qba/Island Regions/Kings Landing/Kings Landing\|Kings Landing]]
 ##### Unnamed - Tavern and Inn
@@ -62,5 +69,5 @@ The Pub is a regular host of [[Games of Chance/Games of Chance\|Games of Chance]
 
 ### [[The World/The Island of Qba/Island Regions/The Desert/The Desert\|The Desert]]
 #### The Kindred Redhearts
-##### [[The Travelling Circus\|The Travelling Circus]] - Tavern and Inn
+##### The Travelling Circus - Tavern and Inn
 

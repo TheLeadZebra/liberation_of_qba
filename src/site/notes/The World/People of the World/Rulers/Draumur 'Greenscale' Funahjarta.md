@@ -11,4 +11,4 @@ It was during his reign that the [[The World/The Island of Qba/Island Races/Huma
 
 He later chose his son to be his [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/Succession of The Crown\|Successor]] due to his strong leadership abilities, and powerful empathy with all who live on the island. 
 
-The [[zzzzArchive (Notes that have been merged into others)/Folded into Drakenholm/Statue of Greenscale\|Statue of Greenscale]] resides in the plaza of [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|Beggar's Gate]] in celebration of his life.
+The [[Statue of Greenscale\|Statue of Greenscale]] resides in the plaza of [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|Beggar's Gate]] in celebration of his life.

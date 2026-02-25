@@ -15,7 +15,7 @@ For titanium anodising to work, very high voltages are required in order to crea
 
 Only incredibly skilled and powerful [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn]] are able to perform such incredible feats.
 
-One such example of this feat is the [[zzzzArchive (Notes that have been merged into others)/Folded into Drakenholm/Statue of Greenscale\|Statue of Greenscale]], which resides in the centre of the [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|Beggar's Gate]] plaza, crafted by renowned artisan [[The World/People of the World/Artisans/Stor Ondun\|Stor Ondun]].
+One such example of this feat is the [[Statue of Greenscale\|Statue of Greenscale]], which resides in the centre of the [[The World/The Island of Qba/Island Regions/Drakenholm#Beggar's Gate\|Beggar's Gate]] plaza, crafted by renowned artisan [[The World/People of the World/Artisans/Stor Ondun\|Stor Ondun]].
 
 ### Q'ban Dragon Glass
 Dragon Glass is a unique material, known to be produced only on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. High-quality, but very standard glass is magically infused with soot and charcoal from [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|The Bread Forge]] district. Acting in-essence as one-way glass, from one side the glass appears tinted with various greys or blacks, but from the other the glass is perfectly transparent, allowing light to pass through.

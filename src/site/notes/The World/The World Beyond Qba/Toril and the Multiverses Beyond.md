@@ -29,7 +29,7 @@ https://forgottenrealms.fandom.com/wiki/Toril
 Any region outside of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] is referred to, in general, as the Far Off Lands.
 
 ##### Beluir
-[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Halfling\|Halfling]] city in the [[zzzzArchive (Notes that have been merged into others)/Far-Off Lands/Far-Off Lands\|Far-Off Lands]].
+[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Halfling\|Halfling]] city in the [[Far-Off Lands\|Far-Off Lands]].
 
 Other well renowned locations in Far Off Lands include:
 Baldur's Gate

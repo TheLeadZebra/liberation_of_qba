@@ -21,7 +21,7 @@ Soon new settlements spawned within each of the four regions of the island. [[Th
 
 Each of these settlements was tiny, and required constant supply from [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] to sustain itself, but benefitted from the liberty away from the cramped and labyrinthine streets of a city which grew faster than plans could be made.
 
-This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[zzzzArchive (Notes that have been merged into others)/Far-Off Lands/Far-Off Lands\|Far-Off Lands]], of whom some would rarely remain on the island.
+This is how the settlers lived for hundreds of years, with occasional visits from others who come from the [[Far-Off Lands\|Far-Off Lands]], of whom some would rarely remain on the island.
 
 #### A Pot Boiled Over
 Around 300 years ago, [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] died, as many had done before. However, this time was different.
