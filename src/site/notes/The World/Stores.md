@@ -46,6 +46,8 @@ A store which does not sell goods that could be considered to fit into a standar
 #### Kindlewood
 ##### Forvitinn's Curio Shop
 Dragonborn owned store focused mainly on special items recovered from the forest such as rare beast pelts and bones. The store is generally willing to purchase items of this nature from adventurers.
+##### Forest Friends
+A human run store specialising in captured animals, to be traded as companions to those wishing to buy.
 
 # General Store
 A store that sells every day goods and basic adventuring gear.
@@ -57,3 +59,13 @@ A store that sells every day goods and basic adventuring gear.
 #### Kindlewood
 ##### The Verdant Hoard
 Dragonborn owned store selling everyday goods, with an emphasis in forest survival. For example, ropes, tents, climbing gear, simple weapons, torches and preserved food.
+
+### Leatherworker
+
+### Dimmafall
+#### Kindlewood
+##### Padfoot and Paws
+A half-elf [[Leatherworker\|Leatherworker]] specialising in crafting armours from resources found in the forest.
+
+### Street Traders
+Street traders exist on the streets of many settlements, including [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] and [[The World/The Island of Qba/Island Regions/Kings Landing/Kings Landing\|Kings Landing]]. The type of traders that can be found differ by location.

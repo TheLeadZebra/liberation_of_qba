@@ -106,7 +106,7 @@ The district is considered the [[Story/Factions/Commoners\|Commoners]] district,
 - [[The World/Taverns and Inns#The Pub\|The Pub]] - Tavern
 - Carved Knot - Woodworking and Furniture Maker
 - The Old Town Pantry - Food and Goods
-- [[The World/Stores/Street Traders/Street Traders\|Street Traders]]
+- [[Street Traders\|Street Traders]]
 
 ### Ravenstone Bridge
 Ravenstone Bridge is the name of a farming town on the outskirts of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]], it is often included as a district of the city, being so close to it's gate.
@@ -124,7 +124,7 @@ Dragontooth Saw - Lumberyard
 Wyvern's Flight - [[Bowyer or Fletcher\|Bowyer or Fletcher]]
 The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
 Cog and Crucible - [[Alchemy and Potion Shops\|Alchemist]]
-[[The World/Stores/Street Traders/Street Traders\|Street Traders]]
+[[Street Traders\|Street Traders]]
 [[The World/Taverns and Inns#The Early Riser\|The Early Riser]] -  [[Taverns & Inns\|Tavern and Boardhouse]]
 [[Ingriths House\|Ingriths House]]
 
