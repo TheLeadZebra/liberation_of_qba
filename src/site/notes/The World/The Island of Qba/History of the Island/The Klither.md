@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-klither/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-klither/","tags":["lore"]}
 ---
 
 
@@ -10,7 +10,7 @@ The Klither causes intentional planar travel to become impossible, and arcane or
 The name derives from the draconic word for Buzzing, because extradimensional spaces (Such as inside a Bag of Holding, or created by Rope Trick) are plagued by an incessant, blaring buzzing sound.
 
 ##### Effects
-The most common example are summoning spells, for example Find Familiar, which will bring forth a random spirit every time it is cast rather than a specific one.
+The most common example are summoning spells, for example [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Spells/Level 1/Find Familiar\|Find Familiar]] (excluding [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Classes/Druid/Druid\|Druid]] ability), which will bring forth a random spirit every time it is cast rather than a specific one.
 
 However, in the case that a spell does not have a random nature, the spell may instead become Wild, bringing the intended effect along with a random extra effect.
 

@@ -121,9 +121,9 @@ Flour and Flame - Baker
 Wyrms's Belly - Blacksmith
 Mason's Mark - Stonemason
 Dragontooth Saw - Lumberyard
-Wyvern's Flight - [[The World/Stores/Bowyers and Fletchers/Bowyer or Fletcher\|Bowyer or Fletcher]]
+Wyvern's Flight - [[zzzzArchive (Notes that have been merged into others)/Bowyers and Fletchers/Bowyer or Fletcher\|Bowyer or Fletcher]]
 The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
-Cog and Crucible - [[The World/Stores/Alchemy and Potion Shops/Alchemy and Potion Shops\|Alchemist]]
+Cog and Crucible - [[zzzzArchive (Notes that have been merged into others)/Alchemy and Potion Shops/Alchemy and Potion Shops\|Alchemist]]
 [[The World/Stores/Street Traders/Street Traders\|Street Traders]]
 [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/The Early Riser\|The Early Riser]] -  [[The World/Stores/Taverns & Inns/Taverns & Inns\|Tavern and Boardhouse]]
 [[The World/Stores/Taverns & Inns/Taverns & Inns - By Location/Drakenholm/The Bread Forge/Ingriths House\|Ingriths House]]

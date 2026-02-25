@@ -3,7 +3,7 @@
 ---
 
 ### Nix Appears
->(Have Abbie describe [[Nix the Raven\|Nix]])
+>(Have Abbie describe [[The World/People of the World/Player Characters/Companions/Nix the Raven\|Nix]])
 >Nix, your friend from [[The World/The Island of Qba/Island Regions/Dimmafall/Settlements/Circe\|Circe]], stands before you. They tilt their head slightly before letting out a squark, they are clearly happy to see you.
 >Almost immediately your mind is rushed with thoughts and memories.
 >You realise they belong to Nix.
