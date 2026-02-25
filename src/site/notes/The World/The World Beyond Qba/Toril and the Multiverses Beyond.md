@@ -3,10 +3,16 @@
 ---
 
 # Realmspace
+![Pasted image 20260225132913.png|500](/img/user/zAttachments/Pasted%20image%2020260225132913.png)
+*A map of Realmspace.*
+
 Realmspace is the term used to describe the solar system, within which sits the planet [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Toril\|#Toril]], home of the Forgotten Realms. Realmspace sits on the Prime Material Plane. 
 To those on the surface of Toril, Realmspace was called the Sea of Night, while the Netherese referred to it as the Skyward Realms. Contained within a crystal sphere suspended in the enormous expanse of the phlogiston, Realmspace consisted of wildspace (empty vacuum), a sun, eight planets and their satellites, and a variety of asteroids, comets, and nebulae.
 
 ### Toril
+![Pasted image 20260225132943.png|350](/img/user/zAttachments/Pasted%20image%2020260225132943.png)
+*The Northern hemisphere of Toril, showing the continents of Faerûn and Kara-Tur.*
+
 Toril is the third planet from the Sun within [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Realmspace\|#Realmspace]]. It is orbited by one moon named Selûne, and by a cluster of asteroids, known as the Tears of Selûne.
 
 Throughout most of its history, Toril was known less commonly as Abeir-Toril. The name "Abeir-Toril" was archaic, meaning "cradle of life" in an extinct and forgotten language. Since the Spellplague it has been revealed that there exists a planetary sibling known as [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Abeir\|#Abeir]], and the fact that both [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Abeir\|#Abeir]] and Toril were once united. 
