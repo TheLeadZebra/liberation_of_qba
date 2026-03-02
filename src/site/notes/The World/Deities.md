@@ -267,6 +267,9 @@ Tiamat has three main avatars;
 
 As *The Chromatic Dragon*, she has stubby legs and five heads, which could be any combination of colours belonging to a chromatic dragon. The skin of each head formed into three stripes- blue-green, grey, and purple, these stripes then merged again to form her brown skin which covered her tail.
 
+![Pasted image 20260302102639.jpg|350](/img/user/zAttachments/Pasted%20image%2020260302102639.jpg)
+*Tiamat's Five Heads as The Chromatic Dragon*
+
 *[[The World/People of the World/Avatars/The Dark Lady\|The Dark Lady]]*, a Mulan woman with long, dark hair and completely black eyes. She always wore robes and often had a seductive smile on her face. 
 
 *The Undying Queen* is a dracolich version of her Chromatic Dragon form.
