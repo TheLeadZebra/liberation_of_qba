@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/faelwyn-faolan/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/faelwyn-faolan/","dg-note-properties":{}}
 ---
 
 #### Species

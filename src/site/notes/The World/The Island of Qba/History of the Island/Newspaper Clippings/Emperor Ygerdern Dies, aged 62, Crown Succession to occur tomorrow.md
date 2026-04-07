@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/emperor-ygerdern-dies-aged-62-crown-succession-to-occur-tomorrow/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/emperor-ygerdern-dies-aged-62-crown-succession-to-occur-tomorrow/","dg-note-properties":{}}
 ---
 
 > It is with sadness that we must announce that on the 12th day of Muna, 1480. Our Crown, Ygerdern Funahjarta has passed away. 

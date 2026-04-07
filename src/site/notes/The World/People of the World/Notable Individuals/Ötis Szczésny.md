@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/notable-individuals/oetis-szczesny/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/notable-individuals/oetis-szczesny/","tags":["Character"],"dg-note-properties":{"tags":["Character"]}}
 ---
 
 Ötis Szczésny (OH-tis SHCHENSH-nih) is a Goliath from [[The World/The Island of Qba/Island Regions/Astilabors Peak/Settlements/Cień Góry\|Cień Góry]]. Often a winner at the dice table, he got fed up of eating fish and moved into [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]].

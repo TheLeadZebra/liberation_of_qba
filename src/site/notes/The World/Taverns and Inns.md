@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/taverns-and-inns/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/taverns-and-inns/","tags":["Location"],"dg-note-properties":{"tags":["Location"]}}
 ---
 
 

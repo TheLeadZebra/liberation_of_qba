@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/","tags":["Location","gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/drakenholm/","tags":["Location","gardenEntry"],"dg-note-properties":{"tags":["Location","gardenEntry"]}}
 ---
 
 ![Drakenholm Map - Icons v1.0.png](/img/user/zAttachments/Drakenholm%20Map%20-%20Icons%20v1.0.png)
@@ -25,7 +25,7 @@
 >- [[The World/The Island of Qba/Island Regions/Drakenholm#The City Gates\|#The City Gates]]
 >- [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]]
 
-Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 100 and 150 metres off of the ground. The city itself is surrounded by stone walls around 20 metres high.
+Drakenholm is the main, and only, city on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], sitting high on a plateau between 100 and 150 metres off of the ground. The city itself is surrounded by stone walls around 65 feet high.
 
 Drakenholm has the highest density of population of any location by a significant margin. Many of the sentient races  on the island at least have small groupings of individuals that live inside the walls of the city, though the main population is humans, followed by [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]]. This mixture of backgrounds has lead to pockets of stylistic variety among the buildings, even within the same districts.
 
@@ -51,7 +51,10 @@ Beggars Gate is the entryway district of the city of [[The World/The Island of Q
 
 This district is the poorest, with tents set up on the interior and exterior of the city walls, filled with citizens who have nowhere else to live. Many of those that live in the conditions of squalor are [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Dragonborn\|Dragonborn]] who have fallen victim to poverty since the introduction of non-human tax increases. Very few are [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Human]].
 
-A centrepiece of the plaza is a large [[Statue of Greenscale\|Statue of Greenscale]], cast in [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Anodised Titanium\|green anodised titanium]]. 
+A centrepiece of the plaza is the large [[The World/The Island of Qba/Island Regions/Drakenholm#Statue of Greenscale\|#Statue of Greenscale]], cast in [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Anodised Titanium\|green anodised titanium]]. 
+
+#### Stores
+Hearth and Pot - Tavern
 
 #### Points of Interest
 ##### The City Gates
@@ -106,7 +109,7 @@ The district is considered the [[Story/Factions/Commoners\|Commoners]] district,
 - [[The World/Taverns and Inns#The Pub\|The Pub]] - Tavern
 - Carved Knot - Woodworking and Furniture Maker
 - The Old Town Pantry - Food and Goods
-- [[Street Traders\|Street Traders]]
+- General Street Traders
 
 ### Ravenstone Bridge
 Ravenstone Bridge is the name of a farming town on the outskirts of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]], it is often included as a district of the city, being so close to it's gate.
@@ -116,17 +119,18 @@ Ravenstone Bridge is the name of a farming town on the outskirts of [[The World/
 
 The Bread Forge is the industrial district of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. Smoke constantly billows from the chimneys on near every building in sight. The layout of the buildings here is very symmetrical and neat, with many buildings looking identical on the outside save for their signage. As this is one of the rebuilt districts it is well organised and certainly built for purpose.
 
-##### Stores:
+##### Bread Forge Stores:
 Flour and Flame - Baker
-Wyrms's Belly - Blacksmith
+Wyrms's Belly - Armoursmith
 Mason's Mark - Stonemason
+Shield Breaker Smithy - Weaponsmith
 Dragontooth Saw - Lumberyard
-Wyvern's Flight - [[Bowyer or Fletcher\|Bowyer or Fletcher]]
-The Gildhall - [[Jeweller or Gemcutter\|Jeweller or Gemcutter]]
-Cog and Crucible - [[Alchemy and Potion Shops\|Alchemist]]
-[[Street Traders\|Street Traders]]
-[[The World/Taverns and Inns#The Early Riser\|The Early Riser]] -  [[Taverns & Inns\|Tavern and Boardhouse]]
-[[Ingriths House\|Ingriths House]]
+Wyvern's Flight - Bowyer or Fletcher
+The Gildhall - Jeweller or Gemcutter
+Cog and Crucible - Alchemist
+Street Traders
+[[The World/Taverns and Inns#The Early Riser\|The Early Riser]] - Tavern and Boardhouse
+[[Ingriths House\|Ingriths House]] - Pub
 
 
 ### The Castle

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/civil-war/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/civil-war/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 300 years ago the city of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] was ensnared by a Civil War between [[Story/Factions/Nobles\|Nobles]] and [[Story/Factions/Commoners\|Commoners]]. It is understood that they disagreed over who should have become [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]]. These individuals are now known only by their names within the legend; [[The World/People of the World/Folk Tales/The Just\|The Just]] and [[The World/People of the World/Folk Tales/The Greedy\|The Greedy]]. Much of the city was destroyed and has since been rebuilt. Only the [[The World/The Island of Qba/Island Regions/Drakenholm#Old Town\|Old Town]] and [[The World/The Island of Qba/Island Regions/Drakenholm#The Castle\|The Castle]] and surrounding remain mostly in their original forms.

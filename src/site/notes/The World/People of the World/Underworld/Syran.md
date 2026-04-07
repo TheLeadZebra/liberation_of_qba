@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/underworld/syran/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/underworld/syran/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 A name known by many who live in the island's criminal underbelly.

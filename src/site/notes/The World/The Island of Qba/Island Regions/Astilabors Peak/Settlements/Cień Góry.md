@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/settlements/cien-gory/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/settlements/cien-gory/","tags":["Location"],"dg-note-properties":{"tags":["Location"]}}
 ---
 
 Cień Góry (chen-y GOO-ry) is the most northern settlement on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], with less than two dozen citizens. 

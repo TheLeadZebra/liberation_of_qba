@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/non-human/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/non-human/","dg-note-properties":{}}
 ---
 
 

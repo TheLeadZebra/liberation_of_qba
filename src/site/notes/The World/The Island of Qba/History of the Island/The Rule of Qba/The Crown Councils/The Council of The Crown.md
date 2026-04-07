@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-rule-of-qba/the-crown-councils/the-council-of-the-crown/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-rule-of-qba/the-crown-councils/the-council-of-the-crown/","dg-note-properties":{}}
 ---
 
 The Council of The Crown is the name given to the advisors of [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]], the ruler of the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. Traditionally the council consists of three members, known as [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown Traditions/The Three\|The Three]]. The individuals who make up The Three have no predefined rules or roles, at any time [[The World/The Island of Qba/History of the Island/The Rule of Qba/The Crown\|The Crown]] may choose to instate, remove or replace any member of The Three, and each member could take on a previous role or have a role completely unique to their tenure. 

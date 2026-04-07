@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/stores/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/stores/","tags":["Location"],"dg-note-properties":{"tags":["Location"]}}
 ---
 
 # Alchemy and Potion Shops

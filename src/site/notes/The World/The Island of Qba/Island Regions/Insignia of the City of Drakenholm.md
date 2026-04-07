@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/insignia-of-the-city-of-drakenholm/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/insignia-of-the-city-of-drakenholm/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 ***Work in Progress, images for prototype purposes***

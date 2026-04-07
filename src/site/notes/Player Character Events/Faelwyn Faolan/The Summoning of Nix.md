@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-character-events/faelwyn-faolan/the-summoning-of-nix/"}
+{"dg-publish":true,"permalink":"/player-character-events/faelwyn-faolan/the-summoning-of-nix/","dg-note-properties":{}}
 ---
 
 ### Nix Appears

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-rules/pack-it/pack-it-equipment-list/pack-it-equipment-list/"}
+{"dg-publish":true,"permalink":"/zz-rules/pack-it/pack-it-equipment-list/pack-it-equipment-list/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/bartholomew-emerson/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/bartholomew-emerson/","dg-note-properties":{}}
 ---
 
 #### Species

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/stillwater-mire/stillwater-mire/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/stillwater-mire/stillwater-mire/","tags":["Location"],"dg-note-properties":{"tags":["Location"]}}
 ---
 
 The region of Stillwater Mire sits in the east of the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. Here the area is covered in swathes of marshlands, the soil and waterways here are deeply acidic and yet they teem with life from foliage, trees and brush as well as insects, small critters and more.

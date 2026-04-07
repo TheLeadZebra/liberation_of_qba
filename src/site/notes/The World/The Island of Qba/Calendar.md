@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/calendar/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/calendar/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 ### The Draconian Calendar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/elves-of-q-ba/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/elves-of-q-ba/","dg-note-properties":{}}
 ---
 
 Elf, or Elves, is the term for a number of closely related and long-living races, generally of whom are known to excel in magic.

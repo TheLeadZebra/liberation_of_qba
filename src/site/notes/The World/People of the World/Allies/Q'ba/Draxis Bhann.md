@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/allies/q-ba/draxis-bhann/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/allies/q-ba/draxis-bhann/","tags":["Character"],"dg-note-properties":{"tags":["Character"]}}
 ---
 
 ##### Appearance
 Draxis "Drax" Bhann is a green Dragonborn who wears the air of nobility well. He is often seen wearing suits featuring draconic iconography such as scales, or sometimes simple pinstripes, but the stitching is always golden thread. 
 
-![Draxis Bhann.png|200](/img/user/zAttachments/Draxis%20Bhann.png)
+![Draxis Bhann.png\|200](/img/user/zAttachments/Draxis%20Bhann.png)
 
 Drax has quite a significant tan-line around his forehead from commonly wearing a hat accessory, he also carries and leans heavily on his cane, though this is merely a ruse for his cane can swiftly reveal a hidden shortsword, and the sheathe is sturdy enough that it can be used as to parry away attacks.
 

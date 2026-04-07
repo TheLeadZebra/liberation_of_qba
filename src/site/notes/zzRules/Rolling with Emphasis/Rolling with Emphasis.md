@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-rules/rolling-with-emphasis/rolling-with-emphasis/"}
+{"dg-publish":true,"permalink":"/zz-rules/rolling-with-emphasis/rolling-with-emphasis/","dg-note-properties":{}}
 ---
 
 If a player suggests that their character is to embark on a task which everyone can see will go either *incredibly well* or *terribly poorly* then the power of ***Rolling with Emphasis*** may be invoked.

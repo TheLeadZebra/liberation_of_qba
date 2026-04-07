@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/important-artifacts/the-staff-of-garyx/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/important-artifacts/the-staff-of-garyx/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 A 2 foot-long rod, made of an unknown metallic material which was discovered in [[The World/The Island of Qba/Island Regions/The Desert/The Desert\|The Desert]] by [[The World/People of the World/Noble Houses/House Sasarum/House Sasarum\|Olanya and Pietro Sasarum]]. 

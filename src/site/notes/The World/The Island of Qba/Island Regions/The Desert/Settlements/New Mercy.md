@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/settlements/new-mercy/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/the-desert/settlements/new-mercy/","dg-note-properties":{}}
 ---
 
 New Mercy is the newest settlement on the island, put together very quickly with somewhat flimsy looking wooden buildings. The town is built along the singular long road running between [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] and [[The World/The Island of Qba/Island Regions/Kings Landing/Kings Landing\|Kings Landing]], with buildings split either side of the road. 

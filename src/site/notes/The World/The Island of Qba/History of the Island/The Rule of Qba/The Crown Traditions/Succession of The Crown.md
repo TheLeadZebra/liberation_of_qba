@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-rule-of-qba/the-crown-traditions/succession-of-the-crown/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-rule-of-qba/the-crown-traditions/succession-of-the-crown/","dg-note-properties":{}}
 ---
 
 

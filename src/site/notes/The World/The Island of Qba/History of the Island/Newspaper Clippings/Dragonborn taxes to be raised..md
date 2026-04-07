@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/dragonborn-taxes-to-be-raised/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/dragonborn-taxes-to-be-raised/","dg-note-properties":{}}
 ---
 
  

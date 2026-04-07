@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-klither/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/the-klither/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 

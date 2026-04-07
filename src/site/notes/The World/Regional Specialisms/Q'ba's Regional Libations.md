@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ba-s-regional-libations/"}
+{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ba-s-regional-libations/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
-The [[Taverns & Inns\|Taverns and Inns]] of the island are famous for the fact that each region has a unique offering, often a mix of locally sourced and imported goods. Whilst many would consider it odd that every location within the same region may serve the same drinks, the owners believe that it encourages each venue to become unique in their stylings and service rather than competing over drink options.
+The [[The World/Taverns and Inns\|Taverns and Inns]] of the island are famous for the fact that each region has a unique offering, often a mix of locally sourced and imported goods. Whilst many would consider it odd that every location within the same region may serve the same drinks, the owners believe that it encourages each venue to become unique in their stylings and service rather than competing over drink options.
 The island is quite a treat for anyone, from drinks Connoisseurs to the average Tippler.
 The island itself has a daily special drink, which is synchronous across the island.
 

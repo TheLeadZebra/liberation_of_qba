@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/humans/humans-of-q-ba/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/humans/humans-of-q-ba/","dg-note-properties":{}}
 ---
 
 Whilst [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Human\|Humans]] are one of the main races on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], they are certainly not native.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/dragonkin/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/dragonkin/","dg-note-properties":{}}
 ---
 
 - [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|Dragonborn of Q'ba]]

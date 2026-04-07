@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-rules/pack-it/pack-it/"}
+{"dg-publish":true,"permalink":"/zz-rules/pack-it/pack-it/","dg-note-properties":{}}
 ---
 
 ## Core Rules

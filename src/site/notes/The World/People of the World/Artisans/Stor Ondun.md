@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/artisans/stor-ondun/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/artisans/stor-ondun/","tags":["Character"],"dg-note-properties":{"tags":["Character"]}}
 ---
 
 Stor Ondun is a [[The World/The Island of Qba/Island Races/Dragonkin/Dragonborn of Q'ba\|blue dragonborn]]. He is a renowned artisan, skilled in forging, smithing and [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Anodised Titanium\|Anodising]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/regional-authorities/whole-island/the-crown-guard/the-crown-guard/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/regional-authorities/whole-island/the-crown-guard/the-crown-guard/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 
@@ -14,9 +14,11 @@ There are a few disciplines that the Crown Guard are trained in. Most are martia
 
 ##### Martial Units
 [[The World/Regional Authorities/Whole Island/The Crown Guard/Support/Assassin - Crown Guard\|Assassin - Crown Guard]]
-[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata]]
-[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist]]
+[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Drekaplata\|Drekaplata]]
+[[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|Duellist]]
 [[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Kappi\|Kappi]]
+[[Berserkur\|Berserkur]]
+
 
 ##### Mixed Units
 [[The World/Regional Authorities/Whole Island/The Crown Guard/Mixed/Riddara\|Riddara]]

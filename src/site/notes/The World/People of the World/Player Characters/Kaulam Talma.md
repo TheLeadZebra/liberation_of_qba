@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/kaulam-talma/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/kaulam-talma/","dg-note-properties":{}}
 ---
 
 #### Species

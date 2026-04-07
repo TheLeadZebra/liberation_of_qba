@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-rules/dungeoneering/"}
+{"dg-publish":true,"permalink":"/zz-rules/dungeoneering/","dg-note-properties":{}}
 ---
 
 # Dungeoneering

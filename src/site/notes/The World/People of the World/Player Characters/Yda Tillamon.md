@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/yda-tillamon/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/yda-tillamon/","dg-note-properties":{}}
 ---
 
 #### Species

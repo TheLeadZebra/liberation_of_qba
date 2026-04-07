@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/deities/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/deities/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 
@@ -51,7 +51,7 @@ The Four Cardinal Gods are each of the primary gods of the island, with each hav
 
 ### Astilabor
 
-![Astilabor Icon.webp|250](/img/user/zAttachments/Astilabor%20Icon.webp)
+![Astilabor Icon.webp\|300](/img/user/zAttachments/Astilabor%20Icon.webp)
 
 **Symbol** - A twelve-faceted Gem - seen upon a shield above.
 
@@ -75,7 +75,7 @@ Astilabor rules over the region of [[The World/The Island of Qba/Island Regions/
 
 #### The Temple of Astilabor
 
-![Pasted image 20251107123421.jpg|300](/img/user/zAttachments/Pasted%20image%2020251107123421.jpg)
+![Pasted image 20251107123421.jpg\|300](/img/user/zAttachments/Pasted%20image%2020251107123421.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The Temple of Astilabor features a floor mural of [[The World/The Island of Qba/Island Regions/Astilabors Peak/Points of Interest/Astilabor's Peak Mountain\|Astilabor's Peak Mountain]], and a large statue of Astilabor stands at the far end of the chapel: A topaz dragon, shimmering with a purple iridescence and an underbelly of gold.
@@ -93,7 +93,7 @@ The temple was ransacked in recent times by humans, claiming that the draconic g
 
 ### Garyx
 
-![Garyx Icon.webp|250](/img/user/zAttachments/Garyx%20Icon.webp)
+![Garyx Icon.webp\|250](/img/user/zAttachments/Garyx%20Icon.webp)
 **Symbol** - A draconic eye, imposed over a red flame.
 
 *"May the fires wash away your sins"*
@@ -106,7 +106,7 @@ Even on the island of [[The World/The Island of Qba/The Island of Qba\|The Islan
 
 #### The Temple of Garyx
 
-![GL_BlueDragonLair_FireTemple.jpg|300](/img/user/zAttachments/GL_BlueDragonLair_FireTemple.jpg)
+![GL_BlueDragonLair_FireTemple.jpg\|300](/img/user/zAttachments/GL_BlueDragonLair_FireTemple.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 
@@ -121,7 +121,7 @@ Other items would also be fed to the flames, depending on a dragons own wants, n
 
 ### Null
 
-![Null Icon.webp|250](/img/user/zAttachments/Null%20Icon.webp)
+![Null Icon.webp\|250](/img/user/zAttachments/Null%20Icon.webp)
 **Symbol** - The skull of an ancient dragon
 
 *"May Null watch over you, as you rest"*
@@ -140,7 +140,7 @@ Temples to Null - such as the one in [[The World/The Island of Qba/Island Region
 
 #### The Temple of Null
 
-![Pasted image 20251107170028.jpg|300](/img/user/zAttachments/Pasted%20image%2020251107170028.jpg)
+![Pasted image 20251107170028.jpg\|300](/img/user/zAttachments/Pasted%20image%2020251107170028.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The temple of Null is a unique building. Dead bodies lie neatly throughout the temple, the smell of decay soaked into every pore of stone, wood, or any other materials used in its construction. The main chambers of the temple are underground with no natural light, only dim candles light the spaces between corpses in which to move between. 
@@ -158,7 +158,7 @@ The temple of Null has been sealed to avoid the risk of the dead being disturbed
 
 ### Tamara
 
-![Tamara Icon.webp|250](/img/user/zAttachments/Tamara%20Icon.webp)
+![Tamara Icon.webp\|250](/img/user/zAttachments/Tamara%20Icon.webp)
 
 **Symbol** - A seven-pointed star on a field of black.
 
@@ -174,7 +174,7 @@ Many of Tamara's clerics are healers, but also deliverers of death to those who 
 
 #### The Temple of Tamara
 
-![GL_GrandCathedralInterior_Original_Day.jpg|400](/img/user/zAttachments/GL_GrandCathedralInterior_Original_Day.jpg)
+![GL_GrandCathedralInterior_Original_Day.jpg\|400](/img/user/zAttachments/GL_GrandCathedralInterior_Original_Day.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The Temple of Tamara is a place of worship to Tamara, one of [[The World/Deities#The Four Cardinal Gods\|The Four Cardinal Gods]] of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. The temple sits in [[The World/The Island of Qba/Island Regions/Drakenholm#Free Borough\|Free Borough]] and is the eastern temple in the cardinal sector. 
@@ -202,10 +202,10 @@ The Binary Gods each have their own temple within the [[The World/The Island of 
 ### Bahamut
 Bahamut is the dragon god of enlightened justice (justice tempered with mercy and punishment with forgiveness) and lawful good dragons. 
 
-![Bahamut Icon.jpg|350](/img/user/zAttachments/Bahamut%20Icon.jpg)
+![Bahamut Icon.jpg\|350](/img/user/zAttachments/Bahamut%20Icon.jpg)
 **Symbol** - A platinum dragon profiled against a blue background.
 #### Form
-![Pasted image 20260302103013.png|350](/img/user/zAttachments/Pasted%20image%2020260302103013.png)
+![Pasted image 20260302103013.png\|350](/img/user/zAttachments/Pasted%20image%2020260302103013.png)
 *Bahamut, the Platinum Dragon*
 
 His natural form is that of a platinum metallic dragon, approximately 180ft (55ft) in total length, with a tail the same length as his body, said by many to be the only one of his kind. His scales are said to be tougher than any shield (some say nearly indestructible) and glow with a feint blue sheen. He also has blue eyes, the exact shade of which shifts depending on Bahamut's mood. Bahamut has been known to wonder the mortal world, taking the appearance of an old human or a demihuman wizard dressed as a peasant accompanied by songbirds. This persona became known among mortals as [[The World/People of the World/Avatars/Fizban the Fabulous\|Fizban the Fabulous]], whom sages believed was designed so as to not frighten non-dragon beings. The sages also believe that he has many other guises as well.
@@ -245,7 +245,7 @@ Bahamut accepts only clerics of good alignments. Whether they are dragons, drago
 Bahamut's worshipers and clergy have no formal rituals or ceremonies. Those who followed the Platinum Dragon believed in the philosophy of "praying through their deeds". The only activity that was considered as something like a ritual was the Rite of Rebirth, the magical process by which non-dragon humanoids transformed themselves into dragonborn.
 
 #### Temple of Bahamut
-![GL_SolarCathedral_GroundFloor_Original_Day.jpg|350](/img/user/zAttachments/GL_SolarCathedral_GroundFloor_Original_Day.jpg)
+![GL_SolarCathedral_GroundFloor_Original_Day.jpg\|350](/img/user/zAttachments/GL_SolarCathedral_GroundFloor_Original_Day.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The Temple of [[The World/Deities#Bahamut\|Bahamut]] is a large, bright space that purposefully lacks grandeur or colour schemes, with simple furnishings and elegant furniture.
@@ -260,7 +260,7 @@ Seven tiny gold dragons are claimed to be hidden around the temple chamber, watc
 # Tiamat
 Tiamat is the dragon goddess of greed, and queen lawful evil dragons.
 
-![Tiamat.png|350](/img/user/zAttachments/Tiamat.png)
+![Tiamat.png\|350](/img/user/zAttachments/Tiamat.png)
 **Symbol -** 5 dragon claws, each a colour matching one of Tiamat's heads. Sometimes 5 Draconic heads are used instead of claws.
 
 #### Form
@@ -270,7 +270,7 @@ Tiamat has three main avatars;
 
 As *The Chromatic Dragon*, she has stubby legs and five heads, which could be any combination of colours belonging to a chromatic dragon. The skin of each head formed into three stripes- blue-green, grey, and purple, these stripes then merged again to form her brown skin which covered her tail.
 
-![Pasted image 20260302102639.jpg|350](/img/user/zAttachments/Pasted%20image%2020260302102639.jpg)
+![Pasted image 20260302102639.jpg\|350](/img/user/zAttachments/Pasted%20image%2020260302102639.jpg)
 *Tiamat's Five Heads as The Chromatic Dragon*
 
 *[[The World/People of the World/Avatars/The Dark Lady\|The Dark Lady]]*, a Mulan woman with long, dark hair and completely black eyes. She always wore robes and often had a seductive smile on her face. 
@@ -318,7 +318,7 @@ Prior to this, the temple space was quite dark and bare, appearing more as a mee
 
 Ilmater is the name of the [[The World/Deities\|Deity]] brought to the island by the [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans]] upon their arrival to [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]].
 
-![Ilmater Icon.webp|350](/img/user/zAttachments/Ilmater%20Icon.webp)
+![Ilmater Icon.webp\|350](/img/user/zAttachments/Ilmater%20Icon.webp)
 **Symbol** - A pair of white, human hands, bound with a red cord.
 
 Ilmater has many names:
@@ -340,7 +340,7 @@ The humans of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba
 
 #### Temple of Ilmater - The Church of Saint Francis
 
-![GL_JapaneseCastleExterior_Ruby.jpg|300](/img/user/zAttachments/GL_JapaneseCastleExterior_Ruby.jpg)
+![GL_JapaneseCastleExterior_Ruby.jpg\|300](/img/user/zAttachments/GL_JapaneseCastleExterior_Ruby.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The temple of [[The World/Deities#Ilmater\|Ilmater]] in [[The World/The Island of Qba/Island Regions/Drakenholm#Free Borough\|Free Borough]], named The Church of Saint Francis, looks like a large manor house surrounded by protective walls. 

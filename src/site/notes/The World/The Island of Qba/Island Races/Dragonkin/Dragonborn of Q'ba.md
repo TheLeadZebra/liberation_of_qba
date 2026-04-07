@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/dragonborn-of-q-ba/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/dragonborn-of-q-ba/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 

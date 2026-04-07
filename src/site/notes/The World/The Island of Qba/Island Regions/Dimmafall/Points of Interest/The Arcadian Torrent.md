@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/dimmafall/points-of-interest/the-arcadian-torrent/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/dimmafall/points-of-interest/the-arcadian-torrent/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 The Arcadian Torrent is the name given to a waterfall of legend within the forests of [[The World/The Island of Qba/Island Regions/Dimmafall/Dimmafall\|Dimmafall]]. 

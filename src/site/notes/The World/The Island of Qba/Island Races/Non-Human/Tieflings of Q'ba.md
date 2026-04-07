@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/tieflings-of-q-ba/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/non-human/tieflings-of-q-ba/","dg-note-properties":{}}
 ---
 
 Tieflings are [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|Humans of Q'ba]]-based Planetouched. Infused with the touch of the fiendish planes, most often through descent from fiends - Demons, Yugoloths, devils, evil deities and others, who have bred with [[The World/The Island of Qba/Island Races/Humans/Humans of Q'ba\|humans]]. A Tieflings lineage may have slept dormant for many generations before revealing itself once again in a new-born.

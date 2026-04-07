@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/allies/q-ba/theofried-folke/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/allies/q-ba/theofried-folke/","tags":["Character"],"dg-note-properties":{"tags":["Character"]}}
 ---
 
 - Has noticed a lot more messages coming to and from Kings landing these days "Something big is going on."

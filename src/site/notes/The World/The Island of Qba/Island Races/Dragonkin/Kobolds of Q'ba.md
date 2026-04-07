@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/kobolds-of-q-ba/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-races/dragonkin/kobolds-of-q-ba/","dg-note-properties":{}}
 ---
 
 Kobolds are small dragonkin. Living on the western ridge of the island, along [[The World/The Island of Qba/Island Regions/Dimmafall/Settlements/Kobold Cove\|Kobold Cove]] they keep to themselves. Noted for their siills in trap bulding and preparing ambushes, they are generally aggressive creatures distantly related to Dragons. They appear as humanoid reptiles between 2-2.5ft tall with scaled skin of reddish brown to black in colour with a burnt orange to red eye colour. 

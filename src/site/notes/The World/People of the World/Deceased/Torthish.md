@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/deceased/torthish/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/deceased/torthish/","dg-note-properties":{}}
 ---
 
 Torthish was a Noble dragonborn who joined [[The World/Regional Authorities/Whole Island/The Crown Guard/The Crown Guard\|The Crown Guard]] as a [[The World/Regional Authorities/Whole Island/The Crown Guard/Melee/Duellist\|Duellist]]. He had an old, school rivalry with [[The World/People of the World/Allies/Q'ba/Draxis Bhann\|Draxis Bhann]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/harold-de-la-lumieres/"}
+{"dg-publish":true,"permalink":"/the-world/people-of-the-world/player-characters/harold-de-la-lumieres/","dg-note-properties":{}}
 ---
 
 #### Species

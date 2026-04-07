@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-rules/negotiation-draw-steel-conversion/"}
+{"dg-publish":true,"permalink":"/zz-rules/negotiation-draw-steel-conversion/","dg-note-properties":{}}
 ---
 
 > [!note] This page contains rules which have been converted from the MCDM TTRPG, Draw Steel. Some effort has been taken to modify terminology to align with 5e, however some terms may remain (e.g Director instead of Dungeon Master).

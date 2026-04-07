@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/drakenholm-in-lockdown/"}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/history-of-the-island/newspaper-clippings/drakenholm-in-lockdown/","dg-note-properties":{}}
 ---
 
 > Last night an attempt was made on The Crown Francis Roberts' life. Fortunately The Crown remains unharmed.

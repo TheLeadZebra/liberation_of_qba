@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documents/kal-s-kaffilykt-cannery-journal/"}
+{"dg-publish":true,"permalink":"/documents/kal-s-kaffilykt-cannery-journal/","dg-note-properties":{}}
 ---
 
 ##### 15th Gemsla

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/astilabors-peak/","tags":["Location"]}
+{"dg-publish":true,"permalink":"/the-world/the-island-of-qba/island-regions/astilabors-peak/astilabors-peak/","tags":["Location"],"dg-note-properties":{"tags":["Location"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ban-speciality-materials/","tags":["lore"]}
+{"dg-publish":true,"permalink":"/the-world/regional-specialisms/q-ban-speciality-materials/","tags":["lore"],"dg-note-properties":{"tags":["lore"]}}
 ---
 
 ##### Page Contents:
