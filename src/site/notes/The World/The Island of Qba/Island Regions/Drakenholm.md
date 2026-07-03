@@ -132,6 +132,20 @@ Street Traders
 [[The World/Taverns and Inns#The Early Riser\|The Early Riser]] - Tavern and Boardhouse
 [[Ingriths House\|Ingriths House]] - Pub
 
+#### Bread Forge Points of Interest
+##### The Dragon Glass Arena
+![The Dragon Glass Arena - Hex Grid (reduced size).jpg\|300](/img/user/zAttachments/The%20Dragon%20Glass%20Arena%20-%20Hex%20Grid%20(reduced%20size).jpg)
+
+A fighting arena based in a now unused Dragon Glass foundry in [[The World/The Island of Qba/Island Regions/Drakenholm#The Bread Forge\|The Bread Forge]]. 
+
+The fights take place in an arena, which was once a giant vat of molten [[The World/Regional Specialisms/Q'ban Speciality Materials#Q'ban Dragon Glass\|Dragon Glass]], which has now solidified into a huge crystalline sheet, with segments of different colours throughout.
+
+The arena contains particular hazards whilst fighting within; uneven cooling has created areas of focussed pressure, leading to large numbers of hairline cracks throughout the whole surface, risking cuts and slashes to fighters who may be forced to fight barefoot. 
+
+More rarely, larger cracks have turned into notable fissures with razor sharp edges, on top of this spear-like crystal structures have formed above the surface of the arena. Both of these are often used as environmental weapons by desperate fighters.
+
+The arena section is sunken down compared to the viewing area, which looks down over the Dragon Glass.
+The walls of the Arena are covered in runes, which create magical effects within the arena.
 
 ### The Castle
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4JBvi0bQKNufmgbLBApRUX?si=b03cdb90726a4502?si=bde5e2ac22594cdb?si=c3b8e30e42204727?utm_source=generator&theme=0" width="50%" height="180" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -146,6 +160,10 @@ The Castle represents power and opulence, sitting at the highest part of the cit
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4D04yZNZQfZZyxK4kSAewo?si=bde5e2ac22594cdb?si=c3b8e30e42204727?utm_source=generator&theme=0" width="50%" height="180" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The White Gardens District, colloquially known as the Upper Quarters, is a district of [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]], is home to the majority of [[Story/Factions/Nobles\|Nobles]] on the island of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]]. Here the houses rise higher than any other district in the city, though they are not considered quite as grand as the houses that sit along [[The World/The Island of Qba/Island Regions/Drakenholm#Dragonhill Mile\|Dragonhill Mile]] despite those being shorter in stature. Roads in this district are far wider than any other and space between buildings allows for a feeling of openness. 
+
+#### Upper Quarters Points of Interest 
+##### The Purple Flame
+Recently opened in [[The World/The Island of Qba/Island Regions/Drakenholm#White Gardens/Upper Quarters\|White Gardens]], The Purple Flame is the only legal brothel in [[The World/The Island of Qba/Island Regions/Drakenholm\|Drakenholm]] and operates a private casino on the top floor. It's clientele tend to be the wealthy individuals, with employees of all species, the main bulk of which are humans and dragonborn.
 
 ##### Stores
 - The Wyrmweave - Atelier
