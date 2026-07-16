@@ -53,9 +53,9 @@ Each magical mechanism is given a number.
 The first player then activates a roulette wheel in the centre of the play space (roll a die), whichever mechanism the roulette wheel lands on (value rolled) receives an extremely painful electric shock.
 The player to the left is next to spin the wheel.
 The mechanism is magically calibrated in order to determine exactly how much pain any individual can handle.
-If a player receives two electrocutions they are knocked [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Conditions/Unconscious\|Unconscious]] for (1d8-Consitution modifier) minutes.
+If a player receives two electrocutions they are knocked [[zzRules/D&D 5.5e Rules/Rules/Conditions/Unconscious\|Unconscious]] for (1d8-Consitution modifier) minutes.
 Alternatively a player may press a button on the side of the mechanism, allowing them to 'fold'. They are released from the mechanism, but forfeit any chance to win the pot.
-When a player becomes [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Conditions/Unconscious\|Unconscious]], folds, or if they are the winner, their mechanism unlocks to release them.
+When a player becomes [[zzRules/D&D 5.5e Rules/Rules/Conditions/Unconscious\|Unconscious]], folds, or if they are the winner, their mechanism unlocks to release them.
 The last conscious player receives the full pot.
 
 

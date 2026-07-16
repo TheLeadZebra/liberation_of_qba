@@ -3,14 +3,14 @@
 ---
 
 # Realmspace
-![Pasted image 20260225132913.png\|500](/img/user/zAttachments/Pasted%20image%2020260225132913.png)
+![The Toril System.png\|500](/img/user/zAttachments/The%20Toril%20System.png)
 *A map of Realmspace.*
 
 Realmspace is the term used to describe the solar system, within which sits the planet [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Toril\|#Toril]], home of the Forgotten Realms. Realmspace sits on the Prime Material Plane. 
 To those on the surface of Toril, Realmspace was called the Sea of Night, while the Netherese referred to it as the Skyward Realms. Contained within a crystal sphere suspended in the enormous expanse of the phlogiston, Realmspace consisted of wildspace (empty vacuum), a sun, eight planets and their satellites, and a variety of asteroids, comets, and nebulae.
 
 ### Toril
-![Pasted image 20260225132943.png\|350](/img/user/zAttachments/Pasted%20image%2020260225132943.png)
+![Toril.png\|350](/img/user/zAttachments/Toril.png)
 *The Northern hemisphere of Toril, showing the continents of Faerûn and Kara-Tur.*
 
 Toril is the third planet from the Sun within [[The World/The World Beyond Qba/Toril and the Multiverses Beyond#Realmspace\|#Realmspace]]. It is orbited by one moon named Selûne, and by a cluster of asteroids, known as the Tears of Selûne.
@@ -29,7 +29,7 @@ https://forgottenrealms.fandom.com/wiki/Toril
 Any region outside of [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]] is referred to, in general, as the Far Off Lands.
 
 ##### Beluir
-[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Halfling\|Halfling]] city in the [[Far-Off Lands\|Far-Off Lands]].
+[[zzRules/D&D 5.5e Rules/Species/Halfling\|Halfling]] city in the [[Far-Off Lands\|Far-Off Lands]].
 
 Other well renowned locations in Far Off Lands include:
 Baldur's Gate

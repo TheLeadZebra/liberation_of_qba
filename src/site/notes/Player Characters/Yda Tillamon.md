@@ -3,6 +3,6 @@
 ---
 
 #### Species
-[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Human\|Human]]
+[[zzRules/D&D 5.5e Rules/Species/Human\|Human]]
 #### Class
-[[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Classes/Cleric/Cleric\|Cleric]]
+[[zzRules/D&D 5.5e Rules/Classes/Cleric/Cleric\|Cleric]]

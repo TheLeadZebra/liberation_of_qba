@@ -75,7 +75,7 @@ Astilabor rules over the region of [[The World/The Island of Qba/Island Regions/
 
 #### The Temple of Astilabor
 
-![Pasted image 20251107123421.jpg\|300](/img/user/zAttachments/Pasted%20image%2020251107123421.jpg)
+![Astilabor's Temple.jpg\|300](/img/user/zAttachments/Astilabor's%20Temple.jpg)
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The Temple of Astilabor features a floor mural of [[The World/The Island of Qba/Island Regions/Astilabors Peak/Points of Interest/Astilabor's Peak Mountain\|Astilabor's Peak Mountain]], and a large statue of Astilabor stands at the far end of the chapel: A topaz dragon, shimmering with a purple iridescence and an underbelly of gold.
@@ -140,7 +140,7 @@ Temples to Null - such as the one in [[The World/The Island of Qba/Island Region
 
 #### The Temple of Null
 
-![Pasted image 20251107170028.jpg\|300](/img/user/zAttachments/Pasted%20image%2020251107170028.jpg)
+![[Pasted image 20251107170028.jpg\|300]]
 *(Image to evoke a feeling, not completely accurate to the real location)*
 
 The temple of Null is a unique building. Dead bodies lie neatly throughout the temple, the smell of decay soaked into every pore of stone, wood, or any other materials used in its construction. The main chambers of the temple are underground with no natural light, only dim candles light the spaces between corpses in which to move between. 
@@ -205,7 +205,7 @@ Bahamut is the dragon god of enlightened justice (justice tempered with mercy an
 ![Bahamut Icon.jpg\|350](/img/user/zAttachments/Bahamut%20Icon.jpg)
 **Symbol** - A platinum dragon profiled against a blue background.
 #### Form
-![Pasted image 20260302103013.png\|350](/img/user/zAttachments/Pasted%20image%2020260302103013.png)
+![Bahamut.png\|350](/img/user/zAttachments/Bahamut.png)
 *Bahamut, the Platinum Dragon*
 
 His natural form is that of a platinum metallic dragon, approximately 180ft (55ft) in total length, with a tail the same length as his body, said by many to be the only one of his kind. His scales are said to be tougher than any shield (some say nearly indestructible) and glow with a feint blue sheen. He also has blue eyes, the exact shade of which shifts depending on Bahamut's mood. Bahamut has been known to wonder the mortal world, taking the appearance of an old human or a demihuman wizard dressed as a peasant accompanied by songbirds. This persona became known among mortals as [[The World/People of the World/Avatars/Fizban the Fabulous\|Fizban the Fabulous]], whom sages believed was designed so as to not frighten non-dragon beings. The sages also believe that he has many other guises as well.
@@ -253,7 +253,7 @@ The lack of colours, instead, draws the eye to the metallics in the room; Gold, 
 
 Unlike many of the other [[The World/The Island of Qba/Island Regions/Drakenholm#Free Borough\|Draconic Temples]], the Temple of [[The World/Deities#Bahamut\|Bahamut]] does not have a large, overbearing statue, instead a small alcove stores a 4ft tall [[The World/Deities#Bahamut\|Bahamut]] figure. The figure is made of platinum, has a tail the same length as the body, and seems to glow with a feint blue aura. 
 
-Despite the size of the temple, it is rare to find dragonkin worshipping within as followers of [[The World/Deities#Bahamut\|Bahamut]] show their devotion to the Dragon God with their deeds rather than through ritual or ceremony. The one exception is the "Rite of Rebirth", a ritual which has never been performed on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], but which includes a magical process through which non-dragonborn humanoids transform themselves into [[zzRules/DnD 5.5e Rules/04) Backlink Glossary/Species/Dragonborn\|Dragonborn]].
+Despite the size of the temple, it is rare to find dragonkin worshipping within as followers of [[The World/Deities#Bahamut\|Bahamut]] show their devotion to the Dragon God with their deeds rather than through ritual or ceremony. The one exception is the "Rite of Rebirth", a ritual which has never been performed on [[The World/The Island of Qba/The Island of Qba\|The Island of Qba]], but which includes a magical process through which non-dragonborn humanoids transform themselves into [[zzRules/D&D 5.5e Rules/Species/Dragonborn\|Dragonborn]].
 
 Seven tiny gold dragons are claimed to be hidden around the temple chamber, watching over [[The World/Deities#Bahamut\|Bahamut]]. The rumour is unclear if they are statuette's or real dragons.
 
@@ -270,7 +270,7 @@ Tiamat has three main avatars;
 
 As *The Chromatic Dragon*, she has stubby legs and five heads, which could be any combination of colours belonging to a chromatic dragon. The skin of each head formed into three stripes- blue-green, grey, and purple, these stripes then merged again to form her brown skin which covered her tail.
 
-![Pasted image 20260302102639.jpg\|350](/img/user/zAttachments/Pasted%20image%2020260302102639.jpg)
+![Tiamat.jpg\|350](/img/user/zAttachments/Tiamat.jpg)
 *Tiamat's Five Heads as The Chromatic Dragon*
 
 *[[The World/People of the World/Avatars/The Dark Lady\|The Dark Lady]]*, a Mulan woman with long, dark hair and completely black eyes. She always wore robes and often had a seductive smile on her face. 
